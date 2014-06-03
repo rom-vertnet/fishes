@@ -1,0 +1,117 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 631
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Thailand ; Times: 9
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 6
+	Date: 2014-05-02 ; Times: 1
+	Date: 2014-05-05 ; Times: 1
+	Date: 2014-05-08 ; Times: 1
+	Date: 2014-05-09 ; Times: 1
+	Date: 2014-05-11 ; Times: 17
+	Date: 2014-05-12 ; Times: 8
+	Date: 2014-05-13 ; Times: 2
+	Date: 2014-05-14 ; Times: 1
+	Date: 2014-05-15 ; Times: 1
+	Date: 2014-05-16 ; Times: 9
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-19 ; Times: 1
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-22 ; Times: 1
+	Date: 2014-05-23 ; Times: 5
+	Date: 2014-05-24 ; Times: 1
+	Date: 2014-05-25 ; Times: 1
+	Date: 2014-05-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Potamotrygon" ; Times: 2
+	Query: "Brycon dentex" ; Times: 1
+	Query: "ROM 57125" ; Times: 1
+	Query: "stateprovince:"MS"" ; Times: 1
+	Query: "Pimelodella elongata" ; Times: 1
+	Query: "ROM 45812" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 3
+	Query: "Synbranchidae" ; Times: 6
+	Query: "country:"Panama" genus:Astyanax" ; Times: 1
+	Query: "sand cat" ; Times: 1
+	Query: "PECTORALIS type:specimen AND (NOT AVES NOT PEROMYSCUS)" ; Times: 1
+	Query: "lama year >= 1970" ; Times: 1
+	Query: "Royal Ontario Museum ROM Fishes Amia calva" ; Times: 1
+	Query: "Myoxocephalus thompsonii" ; Times: 4
+	Query: "ROM 55647" ; Times: 1
+	Query: "ROM 76554" ; Times: 1
+	Query: "ROM 42713" ; Times: 1
+	Query: "ROM 48503" ; Times: 1
+	Query: "ROM 56243" ; Times: 1
+	Query: "catalognumber:36290 institutioncode:ROM" ; Times: 5
+	Query: "Mustelus" ; Times: 2
+	Query: "novae" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(31.353636941500987,-129.111328125))<100000" ; Times: 1
+	Query: "distance(location,geopoint(-0.5273363048115043,3.0322265625))<100000" ; Times: 1
+	Query: "ROM 36402" ; Times: 1
+	Query: "ROM 59141" ; Times: 1
+	Query: "astroblepus" ; Times: 4
+	Query: "ROM 71305" ; Times: 1
+	Query: "Bryconamericus brevirostris" ; Times: 4
+	Query: "ROM 63868" ; Times: 1
+	Query: "ROM 56160" ; Times: 1
+	Query: "ROM 81216" ; Times: 1
+	Query: "arenatus" ; Times: 1
+	Query: "Stylephorus" ; Times: 1
+	Query: "ROM 69015" ; Times: 1
+	Query: "Sulawesi type:specimen institutioncode:ROM AND (not canada)" ; Times: 1
+	Query: "hypophthalmichthys nobilis" ; Times: 1
+	Query: "ROM 76243" ; Times: 1
+	Query: "ROM 42567" ; Times: 1
+	Query: "ROM 81223" ; Times: 1
+	Query: "ROM 83008" ; Times: 1
+	Query: "salvelinus namaycush year >= 1800 year <= 1925" ; Times: 1
+	Query: "Porichthys notatus" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 228
+Total number of records retrieved from searches: 2431
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 3784
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 228
+Total number of records retrieved from searches: 2431
+Number of download events that retrieved data from the resource: 43
+Total number of records downloaded: 6433
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
