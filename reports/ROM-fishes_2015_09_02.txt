@@ -1,0 +1,234 @@
+Report for Institution Code ROM, Resource Fishes
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 166
+Number of records retrieved in searches: 1682
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Benin ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 15
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Netherlands ; Times: 2
+	Country: Russia ; Times: 6
+	Country: United States ; Times: 128
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 6
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-06 ; Times: 5
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-10 ; Times: 8
+	Date: 2015-08-11 ; Times: 6
+	Date: 2015-08-12 ; Times: 42
+	Date: 2015-08-13 ; Times: 23
+	Date: 2015-08-14 ; Times: 2
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 7
+	Date: 2015-08-18 ; Times: 3
+	Date: 2015-08-19 ; Times: 6
+	Date: 2015-08-20 ; Times: 4
+	Date: 2015-08-21 ; Times: 3
+	Date: 2015-08-22 ; Times: 3
+	Date: 2015-08-25 ; Times: 4
+	Date: 2015-08-26 ; Times: 19
+	Date: 2015-08-27 ; Times: 6
+	Date: 2015-08-28 ; Times: 2
+	Date: 2015-08-29 ; Times: 3
+	Date: 2015-08-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "la union caura country:"Venezuela"" ; Times: 1
+	Query: "58227" ; Times: 1
+	Query: "specificepithet:cornutus tissue:1" ; Times: 1
+	Query: "ROM 89685" ; Times: 3
+	Query: "ROM 93437" ; Times: 1
+	Query: "48524" ; Times: 1
+	Query: "stateprovince:"Virginia" specificepithet:chlorobranchium genus:Etheostoma" ; Times: 5
+	Query: "Xenicus" ; Times: 1
+	Query: "ROM 89590" ; Times: 2
+	Query: "ROM 91493" ; Times: 1
+	Query: "27167" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "92141" ; Times: 2
+	Query: "ROM 93526" ; Times: 1
+	Query: "05494" ; Times: 1
+	Query: "19463" ; Times: 1
+	Query: "CORYMBOPHANES ROM" ; Times: 2
+	Query: "Odonata" ; Times: 3
+	Query: "country:"Mexico" genus:Tilapia" ; Times: 1
+	Query: "giant otter" ; Times: 1
+	Query: "torpedo sinuspersici" ; Times: 2
+	Query: "isurus oxyrinchus" ; Times: 4
+	Query: "ROM 86950" ; Times: 1
+	Query: "CorymbOPHANES ROM" ; Times: 21
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "catalognumber:45671 institutioncode:ROM" ; Times: 2
+	Query: "Flamingo Bay" ; Times: 1
+	Query: "catalognumber:54368 institutioncode:ROM" ; Times: 1
+	Query: "ROM 89618" ; Times: 1
+	Query: "aplochiton" ; Times: 1
+	Query: "13148" ; Times: 1
+	Query: "sabaji" ; Times: 1
+	Query: "distance(location,geopoint(20.756113874762082,-114.818115234375))<100000" ; Times: 1
+	Query: "Semaprochilodus insignis" ; Times: 2
+	Query: "ichthyology type:specimen institutioncode:ROM (larval)" ; Times: 1
+	Query: "46549" ; Times: 1
+	Query: "54895" ; Times: 1
+	Query: "ROM 93542" ; Times: 1
+	Query: "encheliophis gracilis" ; Times: 1
+	Query: "VEN10-57" ; Times: 1
+	Query: "VEN10-52" ; Times: 1
+	Query: "genus:apogon institutioncode:ROm" ; Times: 1
+	Query: "ROM 89625" ; Times: 1
+	Query: "type:specimen institutioncode:ROM (larval)" ; Times: 1
+	Query: "94519" ; Times: 3
+	Query: "institutioncode:ROM (larva)" ; Times: 2
+	Query: "encrasicholina punctifer" ; Times: 1
+	Query: ""Notre Dame"" ; Times: 1
+	Query: "genus:apogon institutioncode:ROM" ; Times: 2
+	Query: "CM 2824" ; Times: 1
+	Query: "JS 1150" ; Times: 1
+	Query: "synodus indicus" ; Times: 1
+	Query: "kaiei" ; Times: 1
+	Query: "76848" ; Times: 1
+	Query: "27999" ; Times: 1
+	Query: "GUY11-15" ; Times: 1
+	Query: "catalognumber:95738" ; Times: 1
+	Query: "ROM 89940" ; Times: 4
+	Query: "cornutus tissue:1" ; Times: 1
+	Query: "chirocentrus nudus" ; Times: 1
+	Query: "ROM 83834" ; Times: 1
+	Query: "ROM 89716" ; Times: 1
+	Query: "ROM 89717" ; Times: 1
+	Query: "ROM "Region 8"" ; Times: 2
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "83487" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "ROM 93441" ; Times: 2
+	Query: "ROM 83818" ; Times: 2
+	Query: "60313" ; Times: 1
+	Query: "ROM 89897" ; Times: 1
+	Query: "95008" ; Times: 1
+	Query: "fishes stateprovince:"VERACRUZ"" ; Times: 1
+	Query: "Peckoltia braueri" ; Times: 1
+	Query: "ROM 95076" ; Times: 2
+	Query: "ichthyology institutioncode:ROM (larvae)" ; Times: 1
+	Query: "catalognumber:43286" ; Times: 1
+	Query: "58508" ; Times: 1
+	Query: "25393" ; Times: 1
+	Query: "bpbm 16345" ; Times: 1
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "ROM Corymbophanes" ; Times: 3
+	Query: "ROM 93451" ; Times: 1
+	Query: "ROM 83804" ; Times: 3
+	Query: "Peckoltia sabaji" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "ROM 93459" ; Times: 1
+	Query: "ROM 93512" ; Times: 1
+	Query: "larval institutioncode:ROM" ; Times: 1
+	Query: ""rhina"" ; Times: 1
+	Query: "Astyanax aeneus" ; Times: 1
+	Query: "catalognumber:86917" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "ROM 78137" ; Times: 3
+	Query: "waigeo" ; Times: 2
+	Query: "ROM 68582" ; Times: 1
+	Query: "NICARAGUA FISHES" ; Times: 1
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "ven10-52" ; Times: 1
+	Query: "83998" ; Times: 1
+	Query: "ROM 89696" ; Times: 2
+	Query: "ROM 83833" ; Times: 1
+	Query: "ichthyology country:"canada" institutioncode:ROM (larval)" ; Times: 1
+	Query: "46610" ; Times: 1
+	Query: "institutioncode:ROM (larval)" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: "ichthyology institutioncode:ROM (larva)" ; Times: 1
+	Query: "ROM 95045" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1138 download events in this period)
+Total number of records downloaded: 15092 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11667
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 3
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "venezuela" ; Times: 2
+	Query: "mykiss" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "distance(location,geopoint(32.379961464357315,-119.94873046875))<100000" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Peckoltia sabaji" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "NICARAGUA FISHES" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "country:"Venezuela" year >= 1989 year <= 1989" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 166
+Total number of records retrieved from searches: 1682
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 15092
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 166
+Total number of records retrieved from searches: 1682
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 15092
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
