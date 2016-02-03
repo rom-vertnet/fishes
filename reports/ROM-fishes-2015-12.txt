@@ -1,0 +1,140 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 473
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 52
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-03 ; Times: 5
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 7
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-30 ; Times: 16
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-21 ; Times: 3
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-24 ; Times: 4
+	Date: 2015-12-27 ; Times: 4
+	Date: 2015-12-26 ; Times: 5
+	Date: 2015-12-29 ; Times: 3
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-14 ; Times: 6
+	Date: 2015-12-15 ; Times: 8
+	Date: 2015-12-16 ; Times: 3
+	Date: 2015-12-17 ; Times: 6
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 11
+	Date: 2015-12-12 ; Times: 3
+	Date: 2015-12-18 ; Times: 3
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhina" ; Times: 1
+	Query: "catalognumber:41507 institutioncode:ROM" ; Times: 2
+	Query: "pristis pectinata" ; Times: 2
+	Query: "rom 23351" ; Times: 3
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "ROM 36262" ; Times: 2
+	Query: "ROM 36263" ; Times: 1
+	Query: "catalognumber:17835 institutioncode:ROM" ; Times: 2
+	Query: "sargocentron spiniferum" ; Times: 4
+	Query: "Hydrocynus goliath" ; Times: 1
+	Query: "trimma saudi arabia" ; Times: 1
+	Query: "microphilypnus" ; Times: 1
+	Query: "catalognumber:43059 institutioncode:ROM" ; Times: 1
+	Query: "trimma ansp" ; Times: 4
+	Query: "Etheostoma chlorobranchium (Virginia)" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "catalognumber:37983 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "pterois miles" ; Times: 1
+	Query: "Remora australis" ; Times: 1
+	Query: "wizard" ; Times: 8
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "catalognumber:44376 institutioncode:ROM" ; Times: 1
+	Query: "Curimata roseni" ; Times: 1
+	Query: "WHT" ; Times: 1
+	Query: "trimma filamentosus" ; Times: 1
+	Query: "mitu year &gt;= 1985 year &lt;= 2015" ; Times: 1
+	Query: "catalognumber:27868 institutioncode:ROM" ; Times: 2
+	Query: "zrc" ; Times: 1
+	Query: "stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34; institutioncode:ROM mappable:1" ; Times: 2
+	Query: "catalognumber:38923 institutioncode:ROM" ; Times: 1
+	Query: "Mycteroperca venenosa" ; Times: 1
+	Query: "tapir" ; Times: 2
+	Query: "83100" ; Times: 1
+	Query: "Reinhardtius hippoglossoides" ; Times: 1
+	Query: "Cyphocharax spilurus" ; Times: 3
+	Query: "Anostomus ternetzi" ; Times: 1
+	Query: "diplobatis" ; Times: 2
+	Query: "rom 23325" ; Times: 1
+	Query: "catalognumber:18021 institutioncode:ROM" ; Times: 1
+	Query: "Dufresne year &gt;= 1920 year &lt;= 1990" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "torpedo" ; Times: 2
+	Query: "taeniacara" ; Times: 1
+	Query: "06011" ; Times: 1
+	Query: "trimma sheppardi" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 2
+	Query: "catalognumber:17995 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "catalognumber:18053 institutioncode:ROM" ; Times: 2
+	Query: "87581" ; Times: 1
+	Query: "witch" ; Times: 16
+	Query: "73952" ; Times: 1
+	Query: "catalognumber:30298 institutioncode:ROM" ; Times: 2
+	Query: "locality:Madiera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "94544" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 889 download events in this period)
+Total number of records downloaded: 1572
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "rio grande do sul" ; Times: 1
+
+
+End of report.
