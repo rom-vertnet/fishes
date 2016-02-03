@@ -1,0 +1,234 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 1749
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 26
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Costa Rica ; Times: 6
+	Country: Papua New Guinea ; Times: 1
+	Country: United States ; Times: 108
+	Country: French Guiana ; Times: 1
+	Country: Japan ; Times: 4
+	Country: Russia ; Times: 30
+	Country: Bulgaria ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-11 ; Times: 5
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 3
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-08 ; Times: 6
+	Date: 2015-09-30 ; Times: 30
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 7
+	Date: 2015-09-05 ; Times: 10
+	Date: 2015-09-04 ; Times: 5
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-02 ; Times: 29
+	Date: 2015-09-01 ; Times: 17
+	Date: 2015-09-25 ; Times: 12
+	Date: 2015-09-24 ; Times: 9
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-26 ; Times: 10
+	Date: 2015-09-21 ; Times: 5
+	Date: 2015-09-23 ; Times: 11
+	Date: 2015-09-22 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(25.9802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-111.249505705))&lt;10000" ; Times: 1
+	Query: "parapriacanthus ransonneti" ; Times: 2
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "85908" ; Times: 1
+	Query: "Paragobiodon xanthosomus rom" ; Times: 1
+	Query: "distance(location,geopoint(24.1802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "Amblyrhynchus institutioncode:ROM" ; Times: 2
+	Query: "callogobius red sea" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "ROM 85918" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "wizard" ; Times: 8
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 6
+	Query: "county:&#34;hays&#34; stateprovince:&#34;texas&#34; country:&#34;usa&#34; year &lt;= 2014" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Paragobiodon xanthosomus" ; Times: 1
+	Query: "Feia" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "sagittarius" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "Porotergus" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "redpath" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "panaque" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "Spinachia" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "ROM 23326" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 23
+	Query: "gbifdatasetid:4e5552d1-5eaf-40a3-b48b-01f92da22f17" ; Times: 2
+	Query: "distance(location,geopoint(23.0802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "ROM 97832" ; Times: 1
+	Query: "distance(location,geopoint(26.1802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "Nocomis biguttatus stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Nocomis micropogon stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "cosmocampus banneri" ; Times: 2
+	Query: "Callogobius Red Sea" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; specificepithet:biguttatus genus:nocomis" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "distance(location,geopoint(24.4802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "Bulgaria" ; Times: 3
+	Query: "distance(location,geopoint(27.1802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:brevirostrum genus:acipenser" ; Times: 3
+	Query: "ROM 31504" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "&#34;lng:&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.8802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "carex" ; Times: 2
+	Query: "58779" ; Times: 1
+	Query: "Monishia" ; Times: 2
+	Query: "distance(location,geopoint(25.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "cosmocampus" ; Times: 1
+	Query: "Coryogalops" ; Times: 2
+	Query: "distance(location,geopoint(26.0802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "genus:Oncorhynchus tissue:1" ; Times: 1
+	Query: "county:&#34;Muskoka&#34; specificepithet:micropogon genus:Nocomis institutioncode:ROM" ; Times: 1
+	Query: "&#34;len:&#34;" ; Times: 2
+	Query: "Percina maculata stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "A. H. Wood" ; Times: 2
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "Solenostomus" ; Times: 2
+	Query: "distance(location,geopoint(26.6802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "turtles" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "90670" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; specificepithet:biguttatus genus:nocomis institutioncode:ROM" ; Times: 3
+	Query: "Feia nympha" ; Times: 2
+	Query: "distance(location,geopoint(24.0802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "lake of bays" ; Times: 1
+	Query: "ROM 86530" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.9802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "Nocomis biguttatus county:&#34;Haliburton&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Percina shumardi stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Aulorhynchus" ; Times: 1
+	Query: "anabas" ; Times: 3
+	Query: "64800" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "Nocomis micropogon county:&#34;Muskoka&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "rom 68118" ; Times: 2
+	Query: "distance(location,geopoint(25.7802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:93596 institutioncode:ROM" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "ROM 25636" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Prince edward island&#34; institutioncode:ROM mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; specificepithet:biguttatus genus:nocomis catalognumber:93600 institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "ROM 85908" ; Times: 2
+	Query: "distance(location,geopoint(24.0802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "hexanchus griseus" ; Times: 9
+	Query: "ROM 78025" ; Times: 2
+	Query: "Hypoptychus" ; Times: 1
+	Query: "Callogobius dori" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1045 download events in this period)
+Total number of records downloaded: 7550
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 8
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-23 ; Times: 6
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-02 ; Times: 6
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "genus:aequidens" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Percina shumardi stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "distance(location,geopoint(-7.986704103140561,142.18505859375))&lt;100000" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Moresby" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "genus:apistogramma" ; Times: 2
+	Query: "tigrinum" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 2
+
+
+End of report.
