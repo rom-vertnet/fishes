@@ -1,0 +1,164 @@
+Report for Institution Code ROM, Resource Fishes
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 688
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 7
+	Country: Germany ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Russia ; Times: 18
+	Country: Sweden ; Times: 2
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-06 ; Times: 6
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-10 ; Times: 5
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 10
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-22 ; Times: 5
+	Date: 2016-01-24 ; Times: 4
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 4
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "10020 rom" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "cercamia rom" ; Times: 2
+	Query: "cranberry creek" ; Times: 2
+	Query: "distance(location,geopoint(23.989036,-106.557516))<15000" ; Times: 1
+	Query: "sailfish" ; Times: 1
+	Query: "country:"mauritius" institutioncode:ROM" ; Times: 5
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-107.067516))<15000" ; Times: 1
+	Query: "ROM 18178" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "etheostoma vulneratum" ; Times: 1
+	Query: "Synodus capricornis" ; Times: 1
+	Query: "Percina macrocephala" ; Times: 1
+	Query: "family:Dasyatidae country:"USA"" ; Times: 2
+	Query: "rom 30249" ; Times: 3
+	Query: "eq" ; Times: 1
+	Query: "Noturus eleutherus" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 2
+	Query: "family:Notopteridae" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "ROM 23317" ; Times: 1
+	Query: "rom 38002" ; Times: 1
+	Query: "mum" ; Times: 1
+	Query: "ROM 18141" ; Times: 1
+	Query: "rom 36823" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "catalognumber:19405 institutioncode:ROM" ; Times: 1
+	Query: "25690 institutioncode:ROM" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "parapriacanthus dispar" ; Times: 3
+	Query: "cercamia" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "parapriacanthus rom" ; Times: 5
+	Query: "Caracal caracal" ; Times: 1
+	Query: "catalognumber:19404 institutioncode:ROM" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "jellyfish" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "polypterus" ; Times: 1
+	Query: "genus:Etheostoma stateprovince:"Florida"" ; Times: 1
+	Query: "ROM 43379" ; Times: 1
+	Query: "30635 institutioncode:ROM" ; Times: 1
+	Query: "ROM 19936" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "Catostomus year >= 1978 year <= 1978 month >= 6 month <= 6" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 507 download events in this period)
+Total number of records downloaded: 2976 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2958
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 11
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""False Bay"" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Cottidae country:"United States"" ; Times: 1
+	Query: "family:Poeciliidae country:"United States"" ; Times: 1
+	Query: "family:Catostomidae country:"United States"" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "family:Cyprinidae country:"United States"" ; Times: 1
+	Query: "family:Clupeidae country:"United States"" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Percidae country:"United States"" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(10.624617026439392,-85.67138671875))<19662" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 2976
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 79
+Total number of records retrieved from searches: 688
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 2976
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
