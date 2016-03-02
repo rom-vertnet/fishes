@@ -1,0 +1,147 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 528
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Canada ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 28
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 8
+	Date: 2016-02-08 ; Times: 9
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 8
+	Date: 2016-02-13 ; Times: 15
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 8
+	Date: 2016-02-17 ; Times: 5
+	Date: 2016-02-15 ; Times: 10
+	Date: 2016-02-03 ; Times: 3
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 6
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-27 ; Times: 3
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-29 ; Times: 2
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:WALKER" ; Times: 1
+	Query: "rhabdamia cypselurus" ; Times: 7
+	Query: "Istiophoridae" ; Times: 1
+	Query: "ROM 19656" ; Times: 1
+	Query: "Chlorurus sordidus" ; Times: 1
+	Query: "ROM 18117" ; Times: 1
+	Query: "catalognumber:29532 institutioncode:ROM" ; Times: 2
+	Query: "30149" ; Times: 1
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "Vliet" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "ROM 13648" ; Times: 1
+	Query: "Acipenser oxyrhynchus" ; Times: 1
+	Query: "amia calva" ; Times: 4
+	Query: "Jordania zonope" ; Times: 1
+	Query: "ROM 45256" ; Times: 2
+	Query: "ROM 20452" ; Times: 1
+	Query: "Chirolophis nugator" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "ROM 22876" ; Times: 1
+	Query: "ROM 2403" ; Times: 1
+	Query: "vliet" ; Times: 1
+	Query: "cetorhinus maximus" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "catalognumber:36151 institutioncode:ROM" ; Times: 1
+	Query: "amblyopsis" ; Times: 1
+	Query: "Rom 18242" ; Times: 1
+	Query: "ROM 2144" ; Times: 2
+	Query: "Enophrys bison" ; Times: 1
+	Query: "catalognumber:36104 institutioncode:ROM" ; Times: 1
+	Query: "ROM 18144" ; Times: 1
+	Query: "catalognumber:1 hastypestatus:1" ; Times: 1
+	Query: "Sebastes nebulosus" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 3
+	Query: "55253" ; Times: 1
+	Query: "Sebastes maliger" ; Times: 1
+	Query: "mussels" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Cryptotomus roseus" ; Times: 1
+	Query: "80729" ; Times: 2
+	Query: "Ronquilus jordani" ; Times: 1
+	Query: "parapriacanthus usnm" ; Times: 2
+	Query: "witch" ; Times: 5
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "cercamia palau" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "ROM 18188" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 2
+	Query: "ROM 18141" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "ROM 42631" ; Times: 1
+	Query: "ROM 32343" ; Times: 1
+	Query: "cercamia eremia rom" ; Times: 1
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "Paralabrax maculatofasciatus" ; Times: 1
+	Query: "cercamia" ; Times: 2
+	Query: "ROM 42418" ; Times: 1
+	Query: "Sebastes caurinus" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 4
+	Query: "95118" ; Times: 1
+	Query: "polypterus bichir" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Carnegiella strigata" ; Times: 1
+	Query: "ROM 18158" ; Times: 3
+	Query: "odonata" ; Times: 2
+	Query: "33755" ; Times: 1
+	Query: "ROM 37617" ; Times: 3
+	Query: "92828" ; Times: 1
+	Query: "serranochromis robustus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 512 download events in this period)
+Total number of records downloaded: 194
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sinaloa" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "Acipenser oxyrhynchus" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:Lawrence" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "sculpin" ; Times: 1
+
+
+End of report.
