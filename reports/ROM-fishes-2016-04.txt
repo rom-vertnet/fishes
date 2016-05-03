@@ -1,0 +1,418 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 377
+Number of records retrieved in searches: 18237
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 130
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 51
+	Country: Panama ; Times: 14
+	Country: United States ; Times: 116
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 5
+	Date: 2016-04-07 ; Times: 11
+	Date: 2016-04-06 ; Times: 16
+	Date: 2016-04-05 ; Times: 15
+	Date: 2016-04-04 ; Times: 11
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-23 ; Times: 3
+	Date: 2016-04-08 ; Times: 13
+	Date: 2016-04-25 ; Times: 15
+	Date: 2016-04-24 ; Times: 8
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-26 ; Times: 19
+	Date: 2016-04-22 ; Times: 18
+	Date: 2016-04-27 ; Times: 16
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 10
+	Date: 2016-04-14 ; Times: 27
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 17
+	Date: 2016-04-17 ; Times: 12
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 15
+	Date: 2016-04-12 ; Times: 4
+	Date: 2016-04-13 ; Times: 102
+	Date: 2016-04-29 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(22.799036,-109.787516))&lt;15000" ; Times: 2
+	Query: "rom 54942" ; Times: 1
+	Query: "uropterygius supraforatus" ; Times: 2
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-113.527516))&lt;15000" ; Times: 3
+	Query: "Bison bison Ontario" ; Times: 4
+	Query: "distance(location,geopoint(24.329036,-107.067516))&lt;15000" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.847516))&lt;15000" ; Times: 2
+	Query: "ROM 32276" ; Times: 1
+	Query: "Myoxocephalus thompsonii Ontario" ; Times: 10
+	Query: "distance(location,geopoint(21.779036,-109.277516))&lt;15000" ; Times: 3
+	Query: "38758" ; Times: 1
+	Query: "Dionda diaboli" ; Times: 1
+	Query: "Coregonus nigripinnis Ontario" ; Times: 10
+	Query: "distance(location,geopoint(24.159036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.557516))&lt;15000" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-114.547516))&lt;15000" ; Times: 3
+	Query: "R-15469" ; Times: 1
+	Query: "locality:Blackwater Creek Camp country:&#34;Guyana&#34; mappable:1" ; Times: 1
+	Query: "painted Turtle" ; Times: 2
+	Query: "149 ONTARIO 1" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "151 ONTARIO 1" ; Times: 1
+	Query: "parapriacanthus usnm" ; Times: 2
+	Query: "206 ONTARIO 1" ; Times: 1
+	Query: "synodus jaculum" ; Times: 1
+	Query: "locality:Arara country:&#34;Brazil&#34; mappable:1" ; Times: 2
+	Query: "N. Gale" ; Times: 1
+	Query: "Ichthyomyzon unicuspis Ontario" ; Times: 10
+	Query: "58425" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-112.167516))&lt;15000" ; Times: 1
+	Query: "Coregonus nigripinnis" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "anarhichas minor" ; Times: 1
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "98 ONTARIO 1" ; Times: 1
+	Query: "family:Belonidae stateprovince:&#34;Hawaii&#34;" ; Times: 4
+	Query: "plectorhinchus lineatus" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-106.557516))&lt;15000" ; Times: 1
+	Query: "nalolo maldives" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "Gasterosteus Ontario" ; Times: 3
+	Query: "38774" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "55830" ; Times: 1
+	Query: "scorpaenodes maldives" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "Rom 25087" ; Times: 1
+	Query: "Sicydium Peru" ; Times: 4
+	Query: "14199" ; Times: 1
+	Query: "Bison bison Canada 1" ; Times: 1
+	Query: "196 ONTARIO 1" ; Times: 1
+	Query: "Rom 39692" ; Times: 1
+	Query: "Hypleurochilus bermudensis" ; Times: 2
+	Query: "distance(location,geopoint(24.159036,-110.467516))&lt;15000" ; Times: 1
+	Query: "ROM 34541" ; Times: 2
+	Query: "witch" ; Times: 19
+	Query: "107 ONTARIO 1" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "catalognumber:98587 institutioncode:ROM" ; Times: 1
+	Query: "Gunnellichthys" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.237516))&lt;15000" ; Times: 1
+	Query: "Sicydium Ecuador" ; Times: 9
+	Query: "20587" ; Times: 1
+	Query: "ROM 19953" ; Times: 2
+	Query: "sabah 1977" ; Times: 1
+	Query: "distance(location,geopoint(20.929036,-114.547516))&lt;15000" ; Times: 3
+	Query: "wizard" ; Times: 16
+	Query: "Gulo Gulo Ontario" ; Times: 10
+	Query: "abudefduf taurus" ; Times: 4
+	Query: "stateprovince:&#34;MS&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus 58140" ; Times: 1
+	Query: "UROTRYGONIDAE" ; Times: 2
+	Query: "Ichthyomyzon fossor Ontario" ; Times: 10
+	Query: "28423" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-107.237516))&lt;15000" ; Times: 2
+	Query: "Iotabrycon" ; Times: 1
+	Query: "Bison bison Ontario 1" ; Times: 1
+	Query: "ROM 36823" ; Times: 2
+	Query: "dasyatis americana" ; Times: 2
+	Query: "ROM 30246" ; Times: 1
+	Query: "Muraena" ; Times: 1
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "distance(location,geopoint(23.139036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.067516))&lt;15000" ; Times: 2
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "&#34;Two Islands&#34;" ; Times: 1
+	Query: "painted turtles" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-111.997516))&lt;15000" ; Times: 2
+	Query: "Tylosurus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "Coregonus zenithicus Ontario" ; Times: 10
+	Query: "SCHINDLERIIDAE" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.637516))&lt;15000" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "Xanthocephalus xanthocephalus Ontario" ; Times: 10
+	Query: "distance(location,geopoint(24.159036,-109.617516))&lt;15000" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "Rom 39248" ; Times: 2
+	Query: "mustelus higmani" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "21026" ; Times: 1
+	Query: "gymnothorax maldives" ; Times: 4
+	Query: "75377" ; Times: 2
+	Query: "distance(location,geopoint(21.609036,-113.527516))&lt;15000" ; Times: 5
+	Query: "184 ONTARIO 1" ; Times: 1
+	Query: "ROM 26214" ; Times: 1
+	Query: "Vliet" ; Times: 1
+	Query: "monroe co michigan year &gt;= 1912 year &lt;= 1928" ; Times: 1
+	Query: "chaetodon unimaculatus" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 2
+	Query: "dimidiata" ; Times: 1
+	Query: "manatee country:&#34;Honduras&#34;" ; Times: 1
+	Query: "trimma maldives" ; Times: 1
+	Query: "raja ampat" ; Times: 4
+	Query: "26214" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "Acipenser fulvescens Ontario" ; Times: 20
+	Query: "chlidichthys maldives" ; Times: 1
+	Query: "Rom 36978" ; Times: 2
+	Query: "scorpaenidae maldives" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.467516))&lt;15000" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "distance(location,geopoint(24.329036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 7
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "Rom 39851" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Coregonus hoyi Ontario" ; Times: 10
+	Query: "ROM 38002" ; Times: 1
+	Query: "Rom 39902" ; Times: 1
+	Query: "OPLEGNATHIDAE" ; Times: 1
+	Query: "Rom 45288" ; Times: 3
+	Query: "Abbott AND ROM" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "10371" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "beebei" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis country:USA" ; Times: 18
+	Query: "ROM 19952" ; Times: 2
+	Query: "Gasterosteus aculeatus Ontario" ; Times: 4
+	Query: "distance(location,geopoint(25.519036,-108.087516))&lt;15000" ; Times: 1
+	Query: "ROM 30259" ; Times: 2
+	Query: "catalognumber:73353 institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 198 (out of 1312 download events in this period)
+Total number of records downloaded: 115161
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Panama ; Times: 192
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 66
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 3
+	Date: 2016-04-23 ; Times: 8
+	Date: 2016-04-22 ; Times: 100
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "NOMEIDAE" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "CHAENOPSIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "LABRISOMIDAE" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "TRIACANTHODIDAE" ; Times: 2
+	Query: "anarhichas minor" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "APTERONOTIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "ASPREDINIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "ichthyology" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ANABLEPIDAE" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "DACTYLOSCOPIDAE" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "BREGMACEROTIDAE" ; Times: 1
+	Query: "CHLOROPHTHALMIDAE" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "EMMELICHTHYIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "PINGUIPEDIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "abudefduf taurus" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "UROTRYGONIDAE" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "MOLIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "SCHINDLERIIDAE" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "CAPROIDAE" ; Times: 1
+	Query: "STERNOPYGIDAE" ; Times: 2
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "OPISTOGNATHIDAE" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "RHINOCHIMAERIDAE" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "CHLOPSIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "OPLEGNATHIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "CHAUNACIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "AUCHENIPTERIDAE" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+
+
+End of report.
