@@ -1,0 +1,114 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 1302
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 51
+	Country: Brazil ; Times: 3
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-12 ; Times: 4
+	Date: 2016-09-08 ; Times: 6
+	Date: 2016-09-24 ; Times: 5
+	Date: 2016-09-14 ; Times: 6
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-30 ; Times: 1
+	Date: 2016-09-05 ; Times: 32
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-03 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 1
+	Query: "specificepithet:cruentatus genus:Priacanthus" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "77230" ; Times: 1
+	Query: "stateprovince:&#34;MS&#34;" ; Times: 1
+	Query: "specificepithet:petenense genus:Dorosoma" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "country:&#34;Benin&#34;" ; Times: 1
+	Query: "specificepithet:naufragium genus:Pseudobalistes" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "cynocephalus" ; Times: 2
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "specificepithet:pinnatibarbatus genus:Cheilopogon" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 2
+	Query: "Cynocephalus mappable:1" ; Times: 2
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "specificepithet:atricauda genus:Symphurus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 4
+	Query: "locality:Lagoa dos Patos country:&#34;brazil&#34;" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "Amatitlania nigrofasciata" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "Tilapia zillii" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "specificepithet:typus genus:Rhincodon" ; Times: 1
+	Query: "specificepithet:maculatus genus:Gobiomorus" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Remora remora" ; Times: 5
+	Query: "wizard" ; Times: 2
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "Oreochromis niloticus" ; Times: 3
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "82991" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "99447" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 1
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "specificepithet:lugubris genus:Caranx" ; Times: 1
+	Query: "rom 26218" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 811 download events in this period)
+Total number of records downloaded: 4242
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "thailand" ; Times: 2
+	Query: "tadpole" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+
+
+End of report.
