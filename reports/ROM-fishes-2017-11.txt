@@ -1,0 +1,154 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 1500
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 145
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 2
+	Date: 2017-11-27 ; Times: 18
+	Date: 2017-11-30 ; Times: 5
+	Date: 2017-11-28 ; Times: 8
+	Date: 2017-11-29 ; Times: 129
+
+List of queries that retrieved data from the resource: 
+	Query: "Upeneus taeniopterus" ; Times: 1
+	Query: "Coregonus clupeaformis" ; Times: 1
+	Query: "Mulloidichthys samoensis" ; Times: 1
+	Query: "&#34;Schilbe mystus&#34;" ; Times: 4
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "Mulloidichthys samoensis mappable:1" ; Times: 1
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Mulloides samoensis" ; Times: 1
+	Query: "Parupeneus signatus mappable:1" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Mulloides auriflamma" ; Times: 3
+	Query: "Parupeneus insularis mappable:1" ; Times: 1
+	Query: "Parupeneus cyclostomus" ; Times: 1
+	Query: "Parupeneus indicus" ; Times: 1
+	Query: "Mulloides auriflamma mappable:1" ; Times: 4
+	Query: "ROM 94439" ; Times: 2
+	Query: "Parupeneus macronemus" ; Times: 1
+	Query: "Vulpes vulpes Ontario" ; Times: 4
+	Query: "jaguar" ; Times: 1
+	Query: "Upeneus tragula" ; Times: 4
+	Query: "Parupeneus barberinoides" ; Times: 1
+	Query: "Upeneus sp." ; Times: 1
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 2
+	Query: "Parupeneus insularis" ; Times: 1
+	Query: "Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "Parupeneus signatus" ; Times: 1
+	Query: "Mullus barbatus ponticus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 3
+	Query: "Parupeneus porphyreus" ; Times: 2
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Mullus barbatus mappable:1" ; Times: 1
+	Query: "Parupeneus crassilabrus mappable:1" ; Times: 1
+	Query: "Upeneus sulphureus mappable:1" ; Times: 2
+	Query: "Parupeneus trifasciatus" ; Times: 4
+	Query: "Pseudupeneus prayensis" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Parupeneus crassilabrus" ; Times: 1
+	Query: "Mullus auratus" ; Times: 1
+	Query: "Parupeneus chrysonemus mappable:1" ; Times: 1
+	Query: "Mullus barbatus" ; Times: 1
+	Query: "Parupeneus heptacanthus mappable:1" ; Times: 3
+	Query: "Upeneus sundaicus" ; Times: 1
+	Query: "Salvelinus alpinus" ; Times: 4
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 4
+	Query: "Pseudupeneus grandisquamis" ; Times: 1
+	Query: "Parupeneus pleurostigma" ; Times: 1
+	Query: "Parupeneus macronema" ; Times: 1
+	Query: "Parupeneus spilurus mappable:1" ; Times: 2
+	Query: "Upeneus vittatus mappable:1" ; Times: 2
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "Upeneus bensasi" ; Times: 3
+	Query: "35377" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "(marmorata) year &gt;= 1992 month &gt;= 8" ; Times: 1
+	Query: "Parupeneus ciliatus" ; Times: 1
+	Query: "Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "Mulloides samoensis mappable:1" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Prosopium cylindraceum" ; Times: 2
+	Query: "Parupeneus margaritatus mappable:1" ; Times: 1
+	Query: "Parupeneus macronema mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Brachyglanis" ; Times: 1
+	Query: "Parupeneus spilurus" ; Times: 2
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+	Query: "Upeneus maculatus" ; Times: 1
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Upeneus japonicus" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "Pseudupeneus prayensis mappable:1" ; Times: 1
+	Query: "Upeneus vittatus" ; Times: 2
+	Query: "Parupeneus chrysonemus" ; Times: 1
+	Query: "Parupeneus heptacanthus" ; Times: 3
+	Query: "mappable:1 distance(location,geopoint(29.38217507514529,-71.25732421875))&lt;100000" ; Times: 1
+	Query: "Leptorhamdia" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "salvelinus alpinus" ; Times: 3
+	Query: "Parupeneus margaritatus" ; Times: 1
+	Query: "Upeneus sulphureus" ; Times: 2
+	Query: "Mullus barbatus barbatus" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Ontario Vulpes Vulpes" ; Times: 1
+	Query: "Upeneus bensasi mappable:1" ; Times: 3
+	Query: "Parupeneus porphyreus mappable:1" ; Times: 2
+	Query: "Upeneus sundaicus mappable:1" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 2
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Upeneus parvus" ; Times: 1
+	Query: "zmuc" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 4
+	Query: "Mulloides flavolineatus" ; Times: 2
+	Query: "Mulloides flavolineatus mappable:1" ; Times: 2
+	Query: "Mullus barbatus ponticus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1101 download events in this period)
+Total number of records downloaded: 9178
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-28 ; Times: 1
+	Date: 2017-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:salmonidae" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "kisutch genus:Oncorhynchus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "&#34;Schilbe mystus&#34;" ; Times: 1
+
+
+End of report.
