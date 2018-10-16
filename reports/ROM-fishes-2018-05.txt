@@ -1,0 +1,289 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 261
+Number of records retrieved in searches: 2341
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Turkey ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 236
+	Country: Morocco ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 6
+	Date: 2018-05-24 ; Times: 6
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-07 ; Times: 9
+	Date: 2018-05-04 ; Times: 56
+	Date: 2018-05-05 ; Times: 6
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 8
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 4
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 13
+	Date: 2018-05-15 ; Times: 39
+	Date: 2018-05-14 ; Times: 12
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-11 ; Times: 21
+	Date: 2018-05-10 ; Times: 32
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 11
+	Date: 2018-05-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "scientificname:(Etheostoma microperca) country:United States mappable:1" ; Times: 1
+	Query: "rom 30260" ; Times: 1
+	Query: "specificepithet:chipi family:Cichlidae institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:dimerus family:Cichlidae" ; Times: 1
+	Query: "rom 30263" ; Times: 1
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:facetus genus:Australoheros" ; Times: 1
+	Query: "rom 38526" ; Times: 1
+	Query: "specificepithet:panamensis family:Cichlidae institutioncode:ROM" ; Times: 2
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "genus:Mesoheros family:Cichlidae institutioncode:ROM" ; Times: 2
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 2
+	Query: "sand boa" ; Times: 1
+	Query: "distance(location,geopoint(45.447436005,-86.8329547574999))&lt;20809" ; Times: 2
+	Query: "genus:Laetacara" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "specificepithet:guyanae family:Cichlidae" ; Times: 2
+	Query: "rom 38665" ; Times: 1
+	Query: "scientificname:(Scaphirhynchus platorynchus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:tetracanthus family:Cichlidae" ; Times: 2
+	Query: "genus:Paraneetroplus" ; Times: 1
+	Query: "specificepithet:coeruleopunctatus genus:Andinoacara" ; Times: 2
+	Query: "genus:Pterophyllum" ; Times: 1
+	Query: "scientificname:(Acipenser fulvescens) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cichlasoma family:Cichlidae institutioncode:ROM" ; Times: 1
+	Query: "rom 17989" ; Times: 1
+	Query: "specificepithet:orinocense family:Cichlidae" ; Times: 2
+	Query: "distance(location,geopoint(42.2762592793943,-83.2359649961864))&lt;5242" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "rom 43625" ; Times: 1
+	Query: "specificepithet:panamensis genus:Cryptoheros" ; Times: 1
+	Query: "rom 43059" ; Times: 1
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:bimaculata family:Cichlidae institutioncode:ROM" ; Times: 2
+	Query: "distance(location,geopoint(44.2351364775,-91.8368762249999))&lt;29242" ; Times: 2
+	Query: "rom 36948" ; Times: 2
+	Query: "xiphias" ; Times: 1
+	Query: "vntype:specimen continent:NORTH AMERICA recordedby:ARMSTRONG year &gt;= 1941 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "distance(location,geopoint(41.9729527473592,-83.4466044892086))&lt;4991" ; Times: 1
+	Query: "sea lettuce" ; Times: 3
+	Query: "genus:Amphilophus" ; Times: 3
+	Query: "18002" ; Times: 1
+	Query: "specificepithet:haitiensis family:Cichlidae" ; Times: 1
+	Query: "rom 38286" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "specificepithet:mirificus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:owroewefi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:psittacus family:Cichlidae" ; Times: 1
+	Query: "rom 33160" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.1130695620183))&lt;9302" ; Times: 1
+	Query: "genus:Cleithracara" ; Times: 1
+	Query: "rom 43071" ; Times: 1
+	Query: "specificepithet:carpintis genus:Herichthys" ; Times: 1
+	Query: "distance(location,geopoint(41.756877733,-94.3267617815))&lt;3740" ; Times: 2
+	Query: "Morone americana " ; Times: 1
+	Query: "genus:Cryptoheros" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "distance(location,geopoint(44.8222615935063,-93.8939967936303))&lt;26036" ; Times: 2
+	Query: "genus:Mesoheros" ; Times: 2
+	Query: "specificepithet:dimerus genus:Cichlasoma" ; Times: 2
+	Query: "genus:Tahuantinsuyoa" ; Times: 1
+	Query: "specificepithet:pulcher genus:Andinoacara" ; Times: 1
+	Query: "rom 44376" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "genus:Hypsophrys" ; Times: 1
+	Query: "rom 39802" ; Times: 1
+	Query: "Tapir" ; Times: 1
+	Query: "genus:Andinoacara" ; Times: 1
+	Query: "specificepithet:orinocense genus:Cichlasoma" ; Times: 1
+	Query: "specificepithet:kraussii family:Cichlidae" ; Times: 1
+	Query: "rom 41463" ; Times: 2
+	Query: "specificepithet:biseriatus genus:Andinoacara" ; Times: 1
+	Query: "specificepithet:hophrys family:Cichlidae" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "everett w t" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "distance(location,geopoint(40.4417059145379,-90.00673221017))&lt;13766" ; Times: 1
+	Query: "distance(location,geopoint(42.7557685876957,-90.935819783))&lt;18209" ; Times: 2
+	Query: "specificepithet:stergiosi family:Cichlidae" ; Times: 1
+	Query: "Leadbeater" ; Times: 1
+	Query: "locality:McKay" ; Times: 1
+	Query: "specificepithet:ornatum family:Cichlidae" ; Times: 1
+	Query: "genus:Andinoacara family:Cichlidae institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(41.9940224167435,-83.1227255470084))&lt;8669" ; Times: 1
+	Query: "pontianak" ; Times: 1
+	Query: "specificepithet:moriorum genus:Bujurquina" ; Times: 1
+	Query: "genus:Australoheros family:Cichlidae institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:guianensis family:Cichlidae" ; Times: 1
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "genus:Nannacara institutioncode:ROM" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "rom 32995" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "genus:Archocentrus" ; Times: 1
+	Query: "genus:Thorichthys" ; Times: 1
+	Query: "genus:Australoheros family:Cichlidae" ; Times: 2
+	Query: "rom 43044" ; Times: 2
+	Query: "specificepithet:grammodes genus:Cichlasoma" ; Times: 2
+	Query: "distance(location,geopoint(42.0647316641425,-83.1883640004999))&lt;5490" ; Times: 2
+	Query: "AL 3054" ; Times: 1
+	Query: "genus:Hoplarchus" ; Times: 1
+	Query: "INPA 3047" ; Times: 2
+	Query: "specificepithet:petitella family:Cichlidae institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:scitulus genus:Australoheros" ; Times: 2
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "rom 28757" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "genus:Australoheros" ; Times: 1
+	Query: "rom 28955" ; Times: 1
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "pseudochalceus" ; Times: 1
+	Query: "genus:Nandopsis" ; Times: 1
+	Query: "rom 18021" ; Times: 1
+	Query: "genus:Astatheros" ; Times: 1
+	Query: "rom 27276" ; Times: 1
+	Query: "rom 34429" ; Times: 1
+	Query: "rom 27279" ; Times: 1
+	Query: "genus:Tomocichla" ; Times: 1
+	Query: "specificepithet:panamensis family:Cichlidae" ; Times: 1
+	Query: "specificepithet:maronii family:Cichlidae institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "specificepithet:scitulus family:Cichlidae institutioncode:ROM" ; Times: 1
+	Query: "rom 41015" ; Times: 1
+	Query: "distance(location,geopoint(44.9817493065001,-83.2618961995))&lt;9583" ; Times: 2
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "rom 26876" ; Times: 1
+	Query: "genus:Guianacara" ; Times: 3
+	Query: "genus:Krobia" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "specificepithet:petitella genus:Krobia" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "rom 41476" ; Times: 1
+	Query: "specificepithet:gephyrum genus:Cichlasoma family:Cichlidae" ; Times: 1
+	Query: "specificepithet:carpintis family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "Dysomma" ; Times: 1
+	Query: "specificepithet:biseriatus family:Cichlidae institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:efasciatus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:atromaculatus family:Cichlidae institutioncode:ROM" ; Times: 2
+	Query: "44963" ; Times: 1
+	Query: "rom 18053" ; Times: 1
+	Query: "Rio pesqueria" ; Times: 1
+	Query: "specificepithet:flavilabris family:Cichlidae" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "rom 28542" ; Times: 1
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:mirificus genus:Mesonauta family:Cichlidae" ; Times: 1
+	Query: "specificepithet:stalsbergi family:Cichlidae institutioncode:ROM" ; Times: 1
+	Query: "genus:Petenia" ; Times: 1
+	Query: "rom 43084" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 2
+	Query: "specificepithet:itanyi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 2
+	Query: "genus:Caquetaia" ; Times: 2
+	Query: "genus:Mesoheros family:Cichlidae" ; Times: 1
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "specificepithet:moriorum family:Cichlidae" ; Times: 1
+	Query: "ROM 99614" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "genus:Acaronia" ; Times: 1
+	Query: "rom 38981" ; Times: 1
+	Query: "specificepithet:hophrys" ; Times: 1
+	Query: "specificepithet:stalsbergi genus:Andinoacara" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "distance(location,geopoint(41.8976029593885,-83.4753127642145))&lt;8319" ; Times: 1
+	Query: "specificepithet:taenia family:Cichlidae" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "specificepithet:macantzatza family:Cichlidae institutioncode:ROM" ; Times: 2
+	Query: "distance(location,geopoint(41.525447615,-82.9237379591665))&lt;5634" ; Times: 2
+	Query: "specificepithet:blombergi genus:Andinoacara" ; Times: 1
+	Query: "rom 38005" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "MBU" ; Times: 1
+	Query: "specificepithet:festae genus:Cichlasoma" ; Times: 1
+	Query: "specificepithet:vultuosa genus:Acaronia" ; Times: 1
+	Query: "genus:Parachromis" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "specificepithet:meeki genus:Thorichthys" ; Times: 1
+	Query: "specificepithet:gephyrum genus:Cichlasoma family:Cichlidae institutioncode:ROM" ; Times: 1
+	Query: "genus:Ivanacara" ; Times: 1
+	Query: "distance(location,geopoint(42.5689265032855,-90.6889959625))&lt;12926" ; Times: 2
+	Query: "specificepithet:blombergi" ; Times: 2
+	Query: "genus:Tomocichla family:Cichlidae" ; Times: 1
+	Query: "rom 38999" ; Times: 1
+	Query: "ROM 11679" ; Times: 2
+	Query: "Senckenberg museum" ; Times: 1
+	Query: "rom 32597" ; Times: 1
+	Query: "specificepithet:dacrya family:Cichlidae" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 2
+	Query: "rmnh" ; Times: 2
+	Query: "50785" ; Times: 2
+	Query: "rom 39909" ; Times: 1
+	Query: "specificepithet:gephyrum family:Cichlidae" ; Times: 2
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "rom 37983" ; Times: 1
+	Query: "locality:Medicine Hat institutioncode:ROM" ; Times: 1
+	Query: "rom 37985" ; Times: 1
+	Query: "genus:Heroina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1178 download events in this period)
+Total number of records downloaded: 961
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "xiphias" ; Times: 1
+	Query: "percina" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+
+
+End of report.
