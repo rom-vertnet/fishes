@@ -1,0 +1,202 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 168
+Number of records retrieved in searches: 3089
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Romania ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 108
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 1
+	Country: China ; Times: 1
+	Country: Belgium ; Times: 16
+	Country: Germany ; Times: 8
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 10
+	Date: 2018-09-24 ; Times: 11
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-01 ; Times: 9
+	Date: 2018-09-06 ; Times: 10
+	Date: 2018-09-21 ; Times: 8
+	Date: 2018-09-04 ; Times: 9
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-09 ; Times: 3
+	Date: 2018-09-28 ; Times: 7
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 9
+	Date: 2018-09-13 ; Times: 33
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 5
+	Date: 2018-09-17 ; Times: 9
+	Date: 2018-09-16 ; Times: 6
+	Date: 2018-09-19 ; Times: 10
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-20 ; Times: 8
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 3
+	Query: "ROM 103016" ; Times: 1
+	Query: "TCWC 319" ; Times: 1
+	Query: "Sarotherodon galilaeus" ; Times: 2
+	Query: "catalognumber:1678 institutioncode:ROM" ; Times: 1
+	Query: "hypostomus macushi" ; Times: 1
+	Query: "coryogalops anomolus" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "ROM 103038" ; Times: 1
+	Query: "lamna nasus" ; Times: 6
+	Query: "Ageneiosus atronasus" ; Times: 1
+	Query: "ROM 104000" ; Times: 1
+	Query: "catalognumber:23025 institutioncode:ROM" ; Times: 2
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 2
+	Query: "Macrourus berglax" ; Times: 1
+	Query: "ROM 105807" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "ROM 103293" ; Times: 1
+	Query: "Potamotrygon marinae" ; Times: 1
+	Query: "ROM 96276" ; Times: 1
+	Query: "ROM 40103" ; Times: 3
+	Query: "jaguar" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "hypostomus niceforoi" ; Times: 2
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Borostomias antarcticus" ; Times: 1
+	Query: "catalognumber:22671 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "ROM 101474" ; Times: 1
+	Query: "Bathophilus metallicus" ; Times: 1
+	Query: "saccopharynx" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "catalognumber:91463 institutioncode:ROM" ; Times: 2
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "hypostomus crassicauda" ; Times: 1
+	Query: "sarotherodon galilaeus" ; Times: 3
+	Query: "Polyodon spathula" ; Times: 3
+	Query: "Constanta" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "genus:gasterosteus little river" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "ROM 70874" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "tcwc 319" ; Times: 2
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "Channa maculata" ; Times: 1
+	Query: "M-101633" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "ROM 103277" ; Times: 2
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "ROM 83667" ; Times: 1
+	Query: "ROM 105875" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "hoplias aimara" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "ROM Oligodon" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "stateprovince:&#34;maynas&#34; country:&#34;peru&#34; year &gt;= 2000 year &lt;= 2004" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 2
+	Query: "33513" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Liparis mucosus" ; Times: 1
+	Query: "anemone" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "ROM 97412" ; Times: 1
+	Query: "ROM 94364" ; Times: 2
+	Query: "Lampanyctus macdonaldi" ; Times: 2
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "&#34;Lucania goodei&#34;" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "Peckoltia sabaji" ; Times: 1
+	Query: "Oligodon institutioncode:ROM" ; Times: 2
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "county:&#34;monterrey&#34;" ; Times: 1
+	Query: "catalognumber:5472 institutioncode:ROM" ; Times: 1
+	Query: "Mentodus rostratus" ; Times: 3
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "&#34;little river&#34; gasterosteus" ; Times: 1
+	Query: "ROM 101366" ; Times: 1
+	Query: "Cichlasoma gephyrum" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "ROM 103015" ; Times: 1
+	Query: "coryogalops" ; Times: 1
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "ROM 103552" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "43935" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "tapir" ; Times: 1
+	Query: "locality:ontario year &gt;= 1938 year &lt;= 1938" ; Times: 1
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "genus:gasterosteus &#34;little river&#34;" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 846 download events in this period)
+Total number of records downloaded: 319
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Potamotrygon marinae" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "river otter" ; Times: 1
+
+
+End of report.
