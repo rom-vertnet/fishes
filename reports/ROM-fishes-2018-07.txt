@@ -1,0 +1,205 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 500
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 108
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: China ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Germany ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-02 ; Times: 5
+	Date: 2018-07-03 ; Times: 10
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-04 ; Times: 3
+	Date: 2018-07-05 ; Times: 4
+	Date: 2018-07-06 ; Times: 8
+	Date: 2018-07-26 ; Times: 5
+	Date: 2018-07-27 ; Times: 6
+	Date: 2018-07-24 ; Times: 7
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 6
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-10 ; Times: 17
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 11
+	Date: 2018-07-31 ; Times: 11
+	Date: 2018-07-30 ; Times: 5
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-22 ; Times: 4
+	Date: 2018-07-23 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "89544" ; Times: 1
+	Query: "serrasalmus eigenmanni" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "44690" ; Times: 1
+	Query: "platydoras costatus" ; Times: 1
+	Query: "(cameta)" ; Times: 2
+	Query: "34490" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "serrasalmus maculatus" ; Times: 1
+	Query: "Tomeurus" ; Times: 1
+	Query: "22763" ; Times: 2
+	Query: "specificepithet:guttatus genus:epinephelus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "paucidens" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Dentatherinidae" ; Times: 1
+	Query: "locality:hamilton river institutioncode:ROM" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 1
+	Query: "catalognumber:100786 institutioncode:ROM" ; Times: 2
+	Query: "90043" ; Times: 4
+	Query: "92002" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "rasbora elegans" ; Times: 2
+	Query: "30999" ; Times: 1
+	Query: "Anguilla marmorata" ; Times: 1
+	Query: "Hyphessobrycon metae" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "catalognumber:20035 institutioncode:ROM" ; Times: 2
+	Query: "Cetorhinus" ; Times: 1
+	Query: "99162" ; Times: 2
+	Query: "country:&#34;UK&#34;" ; Times: 1
+	Query: "country:&#34;kenya&#34; (Masai Mara river)" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "19663" ; Times: 1
+	Query: "Ensifera ensifera mappable:1" ; Times: 1
+	Query: "Crenicichla johanna" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "ROM 14964" ; Times: 1
+	Query: "100529" ; Times: 1
+	Query: "7373 F" ; Times: 1
+	Query: "locality:green rock" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "B-78348" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "catalognumber:100207 institutioncode:ROM" ; Times: 2
+	Query: "country:&#34;kenya&#34; (Mara river)" ; Times: 2
+	Query: "53355" ; Times: 1
+	Query: "rom 41279" ; Times: 1
+	Query: "hyphessobrycon metae" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "locality:Cametá country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "89930" ; Times: 1
+	Query: "73161" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "49649-1" ; Times: 1
+	Query: "Hyphessobrycon rosaceus" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "74358" ; Times: 1
+	Query: "catalognumber:38481 institutioncode:ROM" ; Times: 1
+	Query: "coelocanth" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "24679" ; Times: 2
+	Query: "locality:blanc sablon institutioncode:ROM" ; Times: 1
+	Query: "kapoe" ; Times: 1
+	Query: "14651" ; Times: 1
+	Query: "29884" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "catalognumber:13864 institutioncode:ROM" ; Times: 1
+	Query: "ROM 101970" ; Times: 5
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "clupeonella" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "56062" ; Times: 1
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hyphessobrycon minor" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "americanus clarke county" ; Times: 1
+	Query: "serrasalmus elongatus" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "hutchinsi" ; Times: 1
+	Query: "22213" ; Times: 2
+	Query: "catalognumber:100786 institutioncode:rom" ; Times: 2
+	Query: "JFS 26" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "68499" ; Times: 1
+	Query: "Hyphessobrycon sweglesi" ; Times: 1
+	Query: "26817" ; Times: 2
+	Query: "22740" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 3
+	Query: "14764" ; Times: 1
+	Query: "capricornis" ; Times: 1
+	Query: "100446" ; Times: 2
+	Query: "20055" ; Times: 1
+	Query: "c 5862" ; Times: 1
+	Query: "NK 53247" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 977 download events in this period)
+Total number of records downloaded: 185
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 5
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 3
+	Date: 2018-07-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "kapoe" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "(cameta)" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+
+
+End of report.
