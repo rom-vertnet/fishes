@@ -1,0 +1,1088 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1239
+Number of records retrieved in searches: 10776
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Turkey ; Times: 1
+	Country: Colombia ; Times: 26
+	Country: Portugal ; Times: 8
+	Country: India ; Times: 3
+	Country: France ; Times: 487
+	Country: United States ; Times: 681
+	Country: Austria ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 155
+	Date: 2018-12-19 ; Times: 33
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-30 ; Times: 10
+	Date: 2018-12-14 ; Times: 3
+	Date: 2018-12-17 ; Times: 259
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-11 ; Times: 72
+	Date: 2018-12-10 ; Times: 7
+	Date: 2018-12-07 ; Times: 79
+	Date: 2018-12-12 ; Times: 1
+	Date: 2018-12-13 ; Times: 26
+	Date: 2018-12-20 ; Times: 13
+	Date: 2018-12-21 ; Times: 9
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 3
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-27 ; Times: 5
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-04 ; Times: 347
+	Date: 2018-12-05 ; Times: 163
+	Date: 2018-12-03 ; Times: 43
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pleuronichthys coenosus mappable:1" ; Times: 1
+	Query: "Hypostomus taphorni" ; Times: 1
+	Query: "Tetragonurus cuvieri mappable:1" ; Times: 1
+	Query: "specificepithet:reticulatus genus:chilomycterus mappable:1" ; Times: 1
+	Query: "Filicampus tigris mappable:1" ; Times: 1
+	Query: "specificepithet:porcus genus:scorpaena mappable:1" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:selar mappable:1" ; Times: 1
+	Query: "Callionymus schaapii mappable:1" ; Times: 1
+	Query: "Hexagrammos lagocephalus mappable:1" ; Times: 1
+	Query: "Aeoliscus strigatus mappable:1" ; Times: 1
+	Query: "Leptocottus armatus mappable:1" ; Times: 1
+	Query: "specificepithet:idella genus:ctenopharyngodon mappable:1" ; Times: 1
+	Query: "Doryrhamphus negrosensis mappable:1" ; Times: 1
+	Query: "Polymetme corythaeola mappable:1" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "Callionymus delicatulus" ; Times: 1
+	Query: "specificepithet:furcatus genus:ictalurus mappable:1" ; Times: 1
+	Query: "Trachinocephalus myops mappable:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:pimelodus mappable:1" ; Times: 1
+	Query: "Corythoichthys flavofasciatus mappable:1" ; Times: 1
+	Query: "specificepithet:fusca genus:eleotris mappable:1" ; Times: 1
+	Query: "Prionotus carolinus mappable:1" ; Times: 1
+	Query: "Doryichthys martensii mappable:1" ; Times: 1
+	Query: "Petromyzon marinus mappable:1" ; Times: 1
+	Query: "Polyipnus clarus mappable:1" ; Times: 1
+	Query: "specificepithet:ascensionis genus:holocentrus mappable:1" ; Times: 1
+	Query: "Corythoichthys schultzi" ; Times: 1
+	Query: "Macrourus berglax mappable:1" ; Times: 1
+	Query: "Gymnothorax funebris mappable:1" ; Times: 1
+	Query: "Paraliparis deani mappable:1" ; Times: 1
+	Query: "specificepithet:ensiferus genus:centropomus mappable:1" ; Times: 1
+	Query: "Prionotus stephanophrys mappable:1" ; Times: 1
+	Query: "ROM 77274" ; Times: 2
+	Query: "specificepithet:superciliosus genus:alopias mappable:1" ; Times: 1
+	Query: "specificepithet:niveatus genus:epinephelus mappable:1" ; Times: 1
+	Query: "Syngnathus scovelli" ; Times: 1
+	Query: "Ptereleotris calliura mappable:1" ; Times: 1
+	Query: "specificepithet:equisetis genus:coryphaena mappable:1" ; Times: 1
+	Query: "Synodus foetens mappable:1" ; Times: 1
+	Query: "specificepithet:steindachneri genus:haemulon mappable:1" ; Times: 1
+	Query: "Stenotomus caprinus mappable:1" ; Times: 1
+	Query: "specificepithet:chrysurus genus:ocyurus mappable:1" ; Times: 1
+	Query: "Sebastes alutus mappable:1" ; Times: 1
+	Query: "Scorpaena calcarata mappable:1" ; Times: 1
+	Query: "Syngnathus scovelli mappable:1" ; Times: 1
+	Query: "specificepithet:buccanella genus:lutjanus mappable:1" ; Times: 1
+	Query: "Corythoichthys ocellatus mappable:1" ; Times: 1
+	Query: "Hexagrammos decagrammus mappable:1" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "Myrophis punctatus mappable:1" ; Times: 1
+	Query: "specificepithet:jacksoniensis genus:etrumeus mappable:1" ; Times: 1
+	Query: "46137" ; Times: 2
+	Query: "Starksia ocellata mappable:1" ; Times: 1
+	Query: "Corythoichthys schultzi mappable:1" ; Times: 1
+	Query: "specificepithet:crocodilus genus:tylosurus mappable:1" ; Times: 1
+	Query: "Hirundichthys affinis mappable:1" ; Times: 1
+	Query: "Mustelus mustelus mappable:1" ; Times: 3
+	Query: "Synodus poeyi mappable:1" ; Times: 1
+	Query: "Sebastes flavidus mappable:1" ; Times: 1
+	Query: "Mustelus canis mappable:1" ; Times: 1
+	Query: "Prionotus alatus mappable:1" ; Times: 1
+	Query: "Doryrhamphus janssi mappable:1" ; Times: 1
+	Query: "specificepithet:cabrilla genus:serranus mappable:1" ; Times: 1
+	Query: "specificepithet:decurrens genus:pleuronichthys mappable:1" ; Times: 1
+	Query: "specificepithet:vomer genus:selene mappable:1" ; Times: 1
+	Query: "Liparis tunicatus mappable:1" ; Times: 1
+	Query: "Hemilepidotus hemilepidotus mappable:1" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "specificepithet:apodus genus:lutjanus mappable:1" ; Times: 1
+	Query: "Hippocampus kuda" ; Times: 2
+	Query: "Kyphosus incisor mappable:1" ; Times: 1
+	Query: "Filicampus tigris" ; Times: 1
+	Query: "specificepithet:macrolepidota genus:anchovia mappable:1" ; Times: 1
+	Query: "Hypleurochilus geminatus mappable:1" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus mappable:1" ; Times: 2
+	Query: "Synchiropus postulus" ; Times: 1
+	Query: "Hexagrammos stelleri mappable:1" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Scomber japonicus mappable:1" ; Times: 1
+	Query: "Hygophum taaningi mappable:1" ; Times: 1
+	Query: "specificepithet:cruentatus genus:priacanthus mappable:1" ; Times: 1
+	Query: "Hippoglossus stenolepis mappable:1" ; Times: 1
+	Query: "specificepithet:sexfasciatus genus:caranx mappable:1" ; Times: 1
+	Query: "specificepithet:cruentatum genus:petrometopon mappable:1" ; Times: 1
+	Query: "Micrognathus crinitus mappable:1" ; Times: 1
+	Query: "Simenchelys parasitica mappable:1" ; Times: 1
+	Query: "Scorpaena scrofa mappable:1" ; Times: 1
+	Query: "Hippichthys heptagonus" ; Times: 1
+	Query: "Leptoclinus maculatus mappable:1" ; Times: 1
+	Query: "Porichthys plectrodon mappable:1" ; Times: 1
+	Query: "Rhinoptera bonasus mappable:1" ; Times: 1
+	Query: "Syngnathus schlegeli" ; Times: 1
+	Query: "specificepithet:sagax genus:sardinops mappable:1" ; Times: 2
+	Query: "Polydactylus virginicus mappable:1" ; Times: 1
+	Query: "Icelinus filamentosus mappable:1" ; Times: 1
+	Query: "Callionymus filamentosus mappable:1" ; Times: 1
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "Gaidropsarus argentatus mappable:1" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 1
+	Query: "Opsanus tau mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 1
+	Query: "specificepithet:sadina genus:etrumeus mappable:1" ; Times: 1
+	Query: "Kathetostoma albigutta mappable:1" ; Times: 1
+	Query: "specificepithet:scriptus genus:aluterus mappable:1" ; Times: 1
+	Query: "specificepithet:naso genus:anchoa mappable:1" ; Times: 1
+	Query: "specificepithet:gyrinus genus:eleotris mappable:1" ; Times: 1
+	Query: "Hippichthys spicifer mappable:1" ; Times: 1
+	Query: "Microgadus proximus mappable:1" ; Times: 1
+	Query: "Selene vomer mappable:1" ; Times: 1
+	Query: "Amphelikturus dendriticus mappable:1" ; Times: 1
+	Query: "Corythoichthys insularis mappable:1" ; Times: 1
+	Query: "Syngnathus typhle mappable:1" ; Times: 4
+	Query: "specificepithet:lugubris genus:caranx mappable:1" ; Times: 1
+	Query: "Myoxocephalus polyacanthocephalus mappable:1" ; Times: 1
+	Query: "specificepithet:cruentatus genus:heteropriacanthus mappable:1" ; Times: 1
+	Query: "specificepithet:olisthostomus genus:diapterus mappable:1" ; Times: 1
+	Query: "specificepithet:afer genus:alphestes mappable:1" ; Times: 1
+	Query: "specificepithet:crysos genus:caranx mappable:1" ; Times: 1
+	Query: "Halicampus macrorhynchus mappable:1" ; Times: 1
+	Query: "Seriola fasciata mappable:1" ; Times: 1
+	Query: "Callionymus simplicicornis mappable:1" ; Times: 1
+	Query: "Callionymus bairdi mappable:1" ; Times: 1
+	Query: "specificepithet:cantharus genus:spondyliosoma mappable:1" ; Times: 1
+	Query: "Choeroichthys sculptus" ; Times: 2
+	Query: "specificepithet:barracuda genus:sphyraena mappable:1" ; Times: 2
+	Query: "Lycodes mucosus mappable:1" ; Times: 1
+	Query: "Callionymus pusillus mappable:1" ; Times: 1
+	Query: "specificepithet:rivulatus genus:cirrhitus mappable:1" ; Times: 1
+	Query: "Lutjanus analis mappable:1" ; Times: 1
+	Query: "Selene setapinnis mappable:1" ; Times: 1
+	Query: "Lumpenus sagitta mappable:1" ; Times: 1
+	Query: "specificepithet:fusus genus:caranx mappable:1" ; Times: 1
+	Query: "specificepithet:thazard genus:auxis mappable:1" ; Times: 2
+	Query: "Sphoeroides dorsalis mappable:1" ; Times: 1
+	Query: "specificepithet:plumieri genus:eugerres mappable:1" ; Times: 1
+	Query: "specificepithet:declivifrons genus:vomer mappable:1" ; Times: 1
+	Query: "ROM 54391" ; Times: 2
+	Query: "105868" ; Times: 1
+	Query: "Ronquilus jordani mappable:1" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Synchiropus minutulus mappable:1" ; Times: 1
+	Query: "ROM 54398" ; Times: 1
+	Query: "ROM 54399" ; Times: 1
+	Query: "specificepithet:sabina genus:dasyatis mappable:1" ; Times: 1
+	Query: "Callionymus enneactis" ; Times: 1
+	Query: "specificepithet:verres genus:sufflamen mappable:1" ; Times: 1
+	Query: "specificepithet:americana genus:dasyatis mappable:1" ; Times: 1
+	Query: "Prionotus tribulus mappable:1" ; Times: 1
+	Query: "Mycteroperca interstitialis mappable:1" ; Times: 1
+	Query: "specificepithet:surinamensis genus:lobotes mappable:1" ; Times: 1
+	Query: "Morone saxatilis mappable:1" ; Times: 1
+	Query: "specificepithet:japonicus genus:scomber mappable:1" ; Times: 4
+	Query: "specificepithet:humeralis genus:harengula mappable:1" ; Times: 1
+	Query: "Raja eglanteria mappable:1" ; Times: 1
+	Query: "Gymnothorax ocellatus mappable:1" ; Times: 1
+	Query: "specificepithet:rubroviolaceus genus:scarus mappable:1" ; Times: 1
+	Query: "specificepithet:rendalli genus:tilapia mappable:1" ; Times: 4
+	Query: "specificepithet:plumbeus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "Malacocottus kincaidi mappable:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:dormitator mappable:1" ; Times: 1
+	Query: "Corythoichthys flavofasciatus" ; Times: 1
+	Query: "Peprilus paru mappable:1" ; Times: 1
+	Query: "Stichaeus punctatus mappable:1" ; Times: 1
+	Query: "39747" ; Times: 1
+	Query: "Myliobatis freminvillei mappable:1" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 1
+	Query: "Corythoichthys amplexus mappable:1" ; Times: 1
+	Query: "Symbolophorus veranyi mappable:1" ; Times: 1
+	Query: "Strongylura marina mappable:1" ; Times: 1
+	Query: "specificepithet:parallelus genus:centropomus mappable:1" ; Times: 1
+	Query: "Peprilus triacanthus mappable:1" ; Times: 1
+	Query: "Hypoplectrus puella mappable:1" ; Times: 1
+	Query: "specificepithet:soporator genus:bathygobius mappable:1" ; Times: 2
+	Query: "specificepithet:saurus genus:oligoplites mappable:1" ; Times: 2
+	Query: "Syngnathus floridae mappable:1" ; Times: 2
+	Query: "Labrisomus nuchipinnis mappable:1" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "Syngnathus acus mappable:1" ; Times: 3
+	Query: "Paralichthys californicus mappable:1" ; Times: 1
+	Query: "Synchiropus minutulus" ; Times: 1
+	Query: "Oncorhynchus tshawytscha mappable:1" ; Times: 1
+	Query: "specificepithet:glaucopareius genus:acanthurus mappable:1" ; Times: 1
+	Query: "specificepithet:grunniens genus:aplodinotus mappable:1" ; Times: 2
+	Query: "Bhanotia fasciolata mappable:1" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 2
+	Query: "Pholis gunnellus mappable:1" ; Times: 1
+	Query: "Scyliorhinus retifer mappable:1" ; Times: 1
+	Query: "Callionymus doryssus mappable:1" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 3
+	Query: "specificepithet:macrostomum genus:haemulon mappable:1" ; Times: 1
+	Query: "Corythoichthys haematopterus" ; Times: 2
+	Query: "Urophycis chuss mappable:1" ; Times: 1
+	Query: "specificepithet:verticalis genus:pleuronichthys mappable:1" ; Times: 1
+	Query: "specificepithet:virginicus genus:anisotremus mappable:1" ; Times: 1
+	Query: "Ophidion marginatum mappable:1" ; Times: 1
+	Query: "95015" ; Times: 1
+	Query: "specificepithet:interstitialis genus:mycteroperca mappable:1" ; Times: 1
+	Query: "Pagellus erythrinus mappable:1" ; Times: 1
+	Query: "Hypoplectrus unicolor mappable:1" ; Times: 1
+	Query: "specificepithet:crinitus genus:alectis mappable:1" ; Times: 1
+	Query: "Spirinchus thaleichthys mappable:1" ; Times: 1
+	Query: "Holacanthus ciliaris mappable:1" ; Times: 1
+	Query: "specificepithet:mola genus:mola mappable:1" ; Times: 1
+	Query: "specificepithet:speciosus genus:gnathanodon mappable:1" ; Times: 1
+	Query: "Notoscopelus kroyeri mappable:1" ; Times: 1
+	Query: "Xeneretmus leiops mappable:1" ; Times: 1
+	Query: "Choeroichthys cinctus" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "Gibbonsia metzi mappable:1" ; Times: 1
+	Query: "Paraliparis garmani mappable:1" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 3
+	Query: "specificepithet:bonariensis genus:odontesthes mappable:1" ; Times: 1
+	Query: "Rondeletia loricata mappable:1" ; Times: 1
+	Query: "specificepithet:belone genus:belone mappable:1" ; Times: 4
+	Query: "Paralichthys dentatus mappable:1" ; Times: 1
+	Query: "Pleuronectes platessa mappable:1" ; Times: 5
+	Query: "Lepadogaster lepadogaster mappable:1" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "specificepithet:acronotus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "specificepithet:rhina genus:raja mappable:1" ; Times: 1
+	Query: "Choeroichthys brachysoma mappable:1" ; Times: 2
+	Query: "Lycodes vahlii mappable:1" ; Times: 1
+	Query: "Parablennius gattorugine mappable:1" ; Times: 1
+	Query: "Corythoichthys nigripectus mappable:1" ; Times: 1
+	Query: "Lampanyctus pusillus mappable:1" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 2
+	Query: "Pomatoschistus microps mappable:1" ; Times: 1
+	Query: "specificepithet:atlantica genus:megalops mappable:1" ; Times: 1
+	Query: "Hippoglossoides elassodon mappable:1" ; Times: 1
+	Query: "Urophycis tenuis mappable:1" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "Pseudophallus starksii" ; Times: 1
+	Query: "alepisaurus brevirostris" ; Times: 1
+	Query: "specificepithet:olivaris genus:pylodictis mappable:1" ; Times: 2
+	Query: "Liparis atlanticus mappable:1" ; Times: 1
+	Query: "Oncorhynchus gorbuscha mappable:1" ; Times: 1
+	Query: "Pungitius pungitius mappable:1" ; Times: 1
+	Query: "specificepithet:bipinnulata genus:elagatis mappable:1" ; Times: 1
+	Query: "Ulvaria subbifurcata mappable:1" ; Times: 1
+	Query: "Syngnathus abaster mappable:1" ; Times: 2
+	Query: "specificepithet:purpureus genus:lutjanus mappable:1" ; Times: 1
+	Query: "specificepithet:lewini genus:sphyrna mappable:1" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 2
+	Query: "Syacium micrurum mappable:1" ; Times: 1
+	Query: "Scomber colias mappable:1" ; Times: 1
+	Query: "specificepithet:obesus genus:thunnus mappable:1" ; Times: 3
+	Query: "Cosmocampus banneri mappable:1" ; Times: 1
+	Query: "specificepithet:kamloops genus:salmo mappable:1" ; Times: 2
+	Query: "Malacoraja senta mappable:1" ; Times: 1
+	Query: "specificepithet:gladius genus:xiphias mappable:1" ; Times: 2
+	Query: "Sardina pilchardus mappable:1" ; Times: 1
+	Query: "Callionymus schaapii" ; Times: 1
+	Query: "Trachurus symmetricus mappable:1" ; Times: 1
+	Query: "Trisopterus minutus mappable:1" ; Times: 2
+	Query: "Lutjanus campechanus mappable:1" ; Times: 1
+	Query: "Zesticelus profundorum mappable:1" ; Times: 1
+	Query: "Melamphaes suborbitalis mappable:1" ; Times: 1
+	Query: "specificepithet:nasus genus:anchoa mappable:1" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "specificepithet:hippos genus:caranx mappable:1" ; Times: 8
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "Liparis coheni mappable:1" ; Times: 1
+	Query: "Archosargus probatocephalus mappable:1" ; Times: 1
+	Query: "Oncorhynchus nerka mappable:1" ; Times: 1
+	Query: "Merluccius bilinearis mappable:1" ; Times: 1
+	Query: "Cosmocampus elucens mappable:1" ; Times: 1
+	Query: "Syacium papillosum mappable:1" ; Times: 1
+	Query: "102476" ; Times: 1
+	Query: "Synaphobranchus kaupii mappable:1" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 5
+	Query: "specificepithet:macarellus genus:decapterus mappable:1" ; Times: 1
+	Query: "specificepithet:orthogrammus genus:carangoides mappable:1" ; Times: 1
+	Query: "Lampanyctus crocodilus mappable:1" ; Times: 1
+	Query: "specificepithet:californicus genus:paralichthys mappable:1" ; Times: 1
+	Query: "specificepithet:maximus genus:lachnolaimus mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 1
+	Query: "specificepithet:concolor genus:abudefduf mappable:1" ; Times: 1
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 1
+	Query: "Polymixia lowei mappable:1" ; Times: 1
+	Query: "Lycodes esmarkii mappable:1" ; Times: 1
+	Query: "specificepithet:bonaci genus:mycteroperca mappable:1" ; Times: 3
+	Query: "specificepithet:floridanus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "Sphyraena borealis mappable:1" ; Times: 1
+	Query: "specificepithet:glauca genus:prionace mappable:1" ; Times: 1
+	Query: "Hexagrammos octogrammus mappable:1" ; Times: 1
+	Query: "specificepithet:platanus genus:mugil mappable:1" ; Times: 1
+	Query: "Synchiropus splendidus mappable:1" ; Times: 1
+	Query: "specificepithet:canis genus:mustelus mappable:1" ; Times: 3
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 3
+	Query: "specificepithet:cyanops genus:caulolatilus mappable:1" ; Times: 1
+	Query: "specificepithet:erectus genus:hippocampus mappable:1" ; Times: 1
+	Query: "specificepithet:coenosus genus:pleuronichthys mappable:1" ; Times: 1
+	Query: "specificepithet:undecimalis genus:centropomus mappable:1" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "specificepithet:flavilatus genus:stegastes mappable:1" ; Times: 1
+	Query: "Seriola rivoliana mappable:1" ; Times: 1
+	Query: "Trachurus mediterraneus mappable:1" ; Times: 1
+	Query: "Pimelodus maculatus mappable:1" ; Times: 5
+	Query: "specificepithet:brasiliensis genus:hemiramphus mappable:1" ; Times: 1
+	Query: "Hydrolagus colliei mappable:1" ; Times: 1
+	Query: "Crenicichla proteus" ; Times: 3
+	Query: "specificepithet:americanus genus:menticirrhus mappable:1" ; Times: 1
+	Query: "25721" ; Times: 1
+	Query: "Opsanus beta mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Prionotus scitulus mappable:1" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:trachurops mappable:1" ; Times: 2
+	Query: "Lycenchelys paxillus mappable:1" ; Times: 1
+	Query: "Halicampus nitidus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 1
+	Query: "Paranthias furcifer mappable:1" ; Times: 1
+	Query: "Scopelogadus beanii mappable:1" ; Times: 1
+	Query: "Corythoichthys intestinalis mappable:1" ; Times: 2
+	Query: "ROM 69582" ; Times: 2
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 1
+	Query: "Callionymus maculatus mappable:1" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 6
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 1
+	Query: "specificepithet:averruncus genus:kathetostoma mappable:1" ; Times: 1
+	Query: "Gobiesox strumosus mappable:1" ; Times: 1
+	Query: "specificepithet:liolepis genus:xystreurys mappable:1" ; Times: 1
+	Query: "Orthopristis chrysoptera mappable:1" ; Times: 1
+	Query: "Mullus barbatus mappable:1" ; Times: 1
+	Query: "specificepithet:falciformis genus:carcharhinus mappable:1" ; Times: 1
+	Query: "Synchiropus morrisoni" ; Times: 1
+	Query: "specificepithet:sargus genus:diplodus mappable:1" ; Times: 2
+	Query: "specificepithet:plumieri genus:scorpaena mappable:1" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 1
+	Query: "Sphoeroides parvus mappable:1" ; Times: 1
+	Query: "Minyichthys brachyrhinus" ; Times: 1
+	Query: "Syngnathus fuscus mappable:1" ; Times: 3
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "specificepithet:militaris genus:bellator mappable:1" ; Times: 1
+	Query: "Sebastes semicinctus mappable:1" ; Times: 1
+	Query: "specificepithet:barbata genus:brotula mappable:1" ; Times: 1
+	Query: "catalognumber:30740 institutioncode:ROM" ; Times: 2
+	Query: "Festucalex gibbsi mappable:1" ; Times: 1
+	Query: "Pleuronichthys decurrens mappable:1" ; Times: 1
+	Query: "Perca fluviatilis mappable:1" ; Times: 1
+	Query: "Notoscopelus bolini mappable:1" ; Times: 1
+	Query: "Membras martinica mappable:1" ; Times: 1
+	Query: "Aulostomus chinensis mappable:1" ; Times: 2
+	Query: "Stomias boa mappable:1" ; Times: 2
+	Query: "Callionymus delicatulus mappable:1" ; Times: 1
+	Query: "Enneacampus kaupi mappable:1" ; Times: 1
+	Query: "specificepithet:cuvieri genus:galeocerdo mappable:1" ; Times: 1
+	Query: "Holacanthus bermudensis mappable:1" ; Times: 1
+	Query: "tamandua mappable:1" ; Times: 2
+	Query: "Sargocentron bullisi mappable:1" ; Times: 1
+	Query: "cynoglossus abbreviatus" ; Times: 1
+	Query: "Lycodes diapterus mappable:1" ; Times: 1
+	Query: "specificepithet:dactylopterus genus:helicolenus mappable:1" ; Times: 2
+	Query: "specificepithet:reidi genus:hippocampus mappable:1" ; Times: 1
+	Query: "Nezumia bairdii mappable:1" ; Times: 1
+	Query: "specificepithet:porosus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Cosmocampus banneri" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 3
+	Query: "Sardinella brasiliensis mappable:1" ; Times: 1
+	Query: "Gadus ogac mappable:1" ; Times: 1
+	Query: "Phycis chesteri mappable:1" ; Times: 1
+	Query: "specificepithet:hepsetus genus:anchoa mappable:1" ; Times: 1
+	Query: "specificepithet:guatemalensis genus:rhamdia mappable:1" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 2
+	Query: "Halicampus nitidus mappable:1" ; Times: 1
+	Query: "specificepithet:chanos genus:chanos mappable:1" ; Times: 1
+	Query: "Synchiropus stellatus" ; Times: 2
+	Query: "specificepithet:holocanthus genus:diodon mappable:1" ; Times: 1
+	Query: "specificepithet:lepturus genus:trichiurus mappable:1" ; Times: 2
+	Query: "Hippichthys penicillus" ; Times: 1
+	Query: "Stegastes partitus mappable:1" ; Times: 1
+	Query: "specificepithet:auratus genus:diapterus mappable:1" ; Times: 1
+	Query: "Serranus cabrilla mappable:1" ; Times: 1
+	Query: "Micrognathus brevirostris" ; Times: 1
+	Query: "specificepithet:semifasciata genus:triakis mappable:1" ; Times: 1
+	Query: "Microphis brachyurus mappable:1" ; Times: 1
+	Query: "Theragra chalcogramma mappable:1" ; Times: 1
+	Query: "Nannocampus pictus" ; Times: 1
+	Query: "Malacosteus niger mappable:1" ; Times: 1
+	Query: "Centriscus scutatus" ; Times: 1
+	Query: "Photonectes margarita mappable:1" ; Times: 1
+	Query: "specificepithet:carolinus genus:prionotus mappable:1" ; Times: 1
+	Query: "Enneacampus kaupi" ; Times: 1
+	Query: "Sarpa salpa mappable:1" ; Times: 1
+	Query: "Solenostomus cyanopterus mappable:1" ; Times: 1
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 1
+	Query: "specificepithet:rostrata genus:antimora mappable:1" ; Times: 1
+	Query: "specificepithet:mystes genus:scorpaena mappable:1" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "specificepithet:cyanopterus genus:lutjanus mappable:1" ; Times: 1
+	Query: "Synchiropus stellatus mappable:1" ; Times: 2
+	Query: "Halicampus zavorensis" ; Times: 1
+	Query: "Hyperoglyphe perciformis mappable:1" ; Times: 1
+	Query: "Merlangius merlangus mappable:1" ; Times: 2
+	Query: "Hippocampus reidi mappable:1" ; Times: 2
+	Query: "ROM 62522" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "Phoxocampus belcheri mappable:1" ; Times: 1
+	Query: "specificepithet:parvus genus:upeneus mappable:1" ; Times: 1
+	Query: "Lamna nasus mappable:1" ; Times: 1
+	Query: "Stenotomus chrysops mappable:1" ; Times: 1
+	Query: "specificepithet:surinamensis genus:anisotremus mappable:1" ; Times: 1
+	Query: "Hypomesus pretiosus mappable:1" ; Times: 1
+	Query: "Myoxocephalus aenaeus mappable:1" ; Times: 1
+	Query: "specificepithet:obscurus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "Lycodes brevipes mappable:1" ; Times: 1
+	Query: "Molva molva mappable:1" ; Times: 1
+	Query: "specificepithet:atlanticus genus:tarpon mappable:1" ; Times: 1
+	Query: "Poroclinus rothrocki mappable:1" ; Times: 1
+	Query: "Scomber scombrus mappable:1" ; Times: 3
+	Query: "specificepithet:synagris genus:lutjanus mappable:1" ; Times: 1
+	Query: "specificepithet:parra genus:haemulon mappable:1" ; Times: 1
+	Query: "specificepithet:rhomboidalis genus:archosargus mappable:1" ; Times: 1
+	Query: "Callionymus planus" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "Hypleurochilus bermudensis mappable:1" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "specificepithet:petimba genus:fistularia mappable:1" ; Times: 1
+	Query: "Salvelinus malma mappable:1" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 2
+	Query: "Stegastes fuscus mappable:1" ; Times: 1
+	Query: "specificepithet:scombrus genus:scomber mappable:1" ; Times: 1
+	Query: "Gobiosoma bosc mappable:1" ; Times: 1
+	Query: "specificepithet:pisonis genus:eleotris mappable:1" ; Times: 1
+	Query: "Trichodon trichodon mappable:1" ; Times: 1
+	Query: "Liparis fucensis mappable:1" ; Times: 1
+	Query: "Lipophrys pholis mappable:1" ; Times: 1
+	Query: "specificepithet:fimbria genus:anoplopoma mappable:1" ; Times: 1
+	Query: "specificepithet:paru genus:pomacanthus mappable:1" ; Times: 1
+	Query: "Halicampus dunckeri mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:prionurus mappable:1" ; Times: 1
+	Query: "Lopholatilus chamaeleonticeps mappable:1" ; Times: 1
+	Query: "Lota lota mappable:1" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 1
+	Query: "Limanda limanda mappable:1" ; Times: 2
+	Query: "specificepithet:liza genus:mugil mappable:1" ; Times: 1
+	Query: "Doryichthys deokhatoides mappable:1" ; Times: 1
+	Query: "specificepithet:auratus genus:carassius mappable:1" ; Times: 1
+	Query: "Syngnathus folletti mappable:1" ; Times: 1
+	Query: "specificepithet:longimanus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "specificepithet:platypterus genus:istiophorus mappable:1" ; Times: 1
+	Query: "Stegastes leucostictus mappable:1" ; Times: 1
+	Query: "79993" ; Times: 1
+	Query: "Syngnathus leptorhynchus mappable:1" ; Times: 1
+	Query: "specificepithet:nothus genus:cynoscion mappable:1" ; Times: 1
+	Query: "Hippichthys cyanospilos mappable:1" ; Times: 1
+	Query: "specificepithet:pectinatus genus:centropomus mappable:1" ; Times: 1
+	Query: "Psettichthys melanostictus mappable:1" ; Times: 1
+	Query: "specificepithet:molitrix genus:hypophthalmichthys mappable:1" ; Times: 1
+	Query: "specificepithet:hystrix genus:diodon mappable:1" ; Times: 3
+	Query: "Xystreurys liolepis mappable:1" ; Times: 1
+	Query: "specificepithet:saponaceus genus:rypticus mappable:1" ; Times: 1
+	Query: "&#34;pterodoras granulosus&#34;" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:caranx mappable:1" ; Times: 1
+	Query: "Sphyraena picudilla mappable:1" ; Times: 1
+	Query: "specificepithet:reichertii genus:esox mappable:1" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Paraliparis copei mappable:1" ; Times: 1
+	Query: "specificepithet:cristata genus:scartella mappable:1" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "specificepithet:argentiventris genus:lutjanus mappable:1" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "specificepithet:carpio genus:cyprinus mappable:1" ; Times: 2
+	Query: "specificepithet:sexfasciatum genus:haemulon mappable:1" ; Times: 1
+	Query: "Menticirrhus saxatilis mappable:1" ; Times: 1
+	Query: "Pagrus pagrus mappable:1" ; Times: 3
+	Query: "specificepithet:carcharias genus:carcharodon mappable:1" ; Times: 1
+	Query: "specificepithet:parrai genus:haemulon mappable:1" ; Times: 1
+	Query: "Prionotus rubio mappable:1" ; Times: 1
+	Query: "Microphis leiaspis mappable:1" ; Times: 1
+	Query: "Callionymus pleurostictus" ; Times: 1
+	Query: "Sardinella aurita mappable:1" ; Times: 1
+	Query: "Salmo trutta mappable:1" ; Times: 1
+	Query: "Nautichthys oculofasciatus mappable:1" ; Times: 1
+	Query: "Callionymus marleyi mappable:1" ; Times: 2
+	Query: "ZISP" ; Times: 1
+	Query: "Triglops murrayi mappable:1" ; Times: 1
+	Query: "specificepithet:cornutus genus:zanclus mappable:1" ; Times: 1
+	Query: "Lutjanus vivanus mappable:1" ; Times: 1
+	Query: "specificepithet:xanthopterus genus:acanthurus mappable:1" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 1
+	Query: "Urophycis floridana mappable:1" ; Times: 1
+	Query: "Sebastes maliger mappable:1" ; Times: 1
+	Query: "Haemulon carbonarium mappable:1" ; Times: 1
+	Query: "Lycenchelys verrillii mappable:1" ; Times: 1
+	Query: "specificepithet:pensacolae genus:harengula mappable:1" ; Times: 1
+	Query: "specificepithet:teres genus:etrumeus mappable:1" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Doryrhamphus excisus excisus mappable:1" ; Times: 2
+	Query: "Trachurus trachurus mappable:1" ; Times: 2
+	Query: "Minyichthys myersi" ; Times: 1
+	Query: "Lampetra fluviatilis mappable:1" ; Times: 1
+	Query: "Merluccius productus mappable:1" ; Times: 1
+	Query: "Doryrhamphus excisus excisus" ; Times: 2
+	Query: "Diplogrammus goramensis" ; Times: 1
+	Query: "Lampanyctus photonotus mappable:1" ; Times: 1
+	Query: "specificepithet:ghobban genus:scarus mappable:1" ; Times: 1
+	Query: "specificepithet:reddingi genus:orthopristis mappable:1" ; Times: 1
+	Query: "specificepithet:balao genus:hemiramphus mappable:1" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 7
+	Query: "97312" ; Times: 1
+	Query: "specificepithet:crossotus genus:etropus mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Xeneretmus latifrons mappable:1" ; Times: 1
+	Query: "Oncorhynchus Keta" ; Times: 9
+	Query: "specificepithet:altavela genus:gymnura mappable:1" ; Times: 1
+	Query: "Callionymus formosanus" ; Times: 1
+	Query: "specificepithet:aurorubens genus:rhomboplites mappable:1" ; Times: 1
+	Query: "Dactylopus dactylopus mappable:1" ; Times: 1
+	Query: "Ophiodon elongatus mappable:1" ; Times: 1
+	Query: "specificepithet:furcifer genus:paranthias mappable:1" ; Times: 1
+	Query: "Corythoichthys intestinalis" ; Times: 2
+	Query: "Pleuronichthys verticalis mappable:1" ; Times: 1
+	Query: "specificepithet:jaguana genus:harengula mappable:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:scomberomorus mappable:1" ; Times: 1
+	Query: "Tautoga onitis mappable:1" ; Times: 1
+	Query: "catalognumber:30450 institutioncode:ROM" ; Times: 1
+	Query: "Muraena retifera mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis rubellus) country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:mazatlanus genus:achirus mappable:1" ; Times: 1
+	Query: "Corythoichthys amplexus" ; Times: 1
+	Query: "Callionymus pleurostictus mappable:1" ; Times: 1
+	Query: "Callionymus curvicornis" ; Times: 1
+	Query: "specificepithet:symmetricus genus:trachurus mappable:1" ; Times: 2
+	Query: "sea turtle" ; Times: 3
+	Query: "Sphoeroides testudineus mappable:1" ; Times: 1
+	Query: "Awaous banana" ; Times: 1
+	Query: "Zaniolepis frenata mappable:1" ; Times: 1
+	Query: "Solegnathus hardwickii" ; Times: 1
+	Query: "Eurypegasus draconis" ; Times: 2
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Fistularia tabacaria mappable:1" ; Times: 1
+	Query: "specificepithet:ciliaris genus:alectis mappable:1" ; Times: 1
+	Query: "Cosmocampus elucens" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "specificepithet:pichardi genus:joturus mappable:1" ; Times: 1
+	Query: "specificepithet:draco genus:trachinus mappable:1" ; Times: 1
+	Query: "Gymnothorax nigromarginatus mappable:1" ; Times: 1
+	Query: "Halicampus mataafae" ; Times: 2
+	Query: "Hippichthys heptagonus mappable:1" ; Times: 1
+	Query: "Choeroichthys sculptus mappable:1" ; Times: 2
+	Query: "Lycodes pallidus mappable:1" ; Times: 1
+	Query: "Doryichthys martensii" ; Times: 1
+	Query: "19477" ; Times: 1
+	Query: "Dactyloptena gilberti" ; Times: 1
+	Query: "Salmo salar mappable:1" ; Times: 1
+	Query: "Nannocampus pictus mappable:1" ; Times: 1
+	Query: "specificepithet:affinis genus:euthynnus mappable:1" ; Times: 2
+	Query: "Melanostigma atlanticum mappable:1" ; Times: 1
+	Query: "Lycodes polaris mappable:1" ; Times: 1
+	Query: "Synodus lucioceps mappable:1" ; Times: 1
+	Query: "Caracal" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "specificepithet:albimarginatus genus:carcharhinus mappable:1" ; Times: 1
+	Query: "Prognathodes aculeatus mappable:1" ; Times: 1
+	Query: "Oxyporhamphus micropterus mappable:1" ; Times: 1
+	Query: "Hippocampus kuda mappable:1" ; Times: 2
+	Query: "Maurolicus muelleri mappable:1" ; Times: 1
+	Query: "Gymnothorax moringa mappable:1" ; Times: 1
+	Query: "Pagellus bogaraveo mappable:1" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 5
+	Query: "Synchiropus circularis mappable:1" ; Times: 1
+	Query: "Myctophum punctatum mappable:1" ; Times: 1
+	Query: "specificepithet:atrilobata genus:chromis mappable:1" ; Times: 1
+	Query: "Serranus phoebe mappable:1" ; Times: 1
+	Query: "Lonchurus lanceolatus mappable:1" ; Times: 1
+	Query: "Gymnura micrura mappable:1" ; Times: 1
+	Query: "Sebastes melanops mappable:1" ; Times: 1
+	Query: "Sebastes fasciatus mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "Scomberomorus maculatus mappable:1" ; Times: 1
+	Query: "specificepithet:stomata genus:hippoglossina mappable:1" ; Times: 1
+	Query: "Lepidopsetta bilineata mappable:1" ; Times: 1
+	Query: "specificepithet:aurolineatum genus:haemulon mappable:1" ; Times: 1
+	Query: "specificepithet:albicans genus:istiophorus mappable:1" ; Times: 1
+	Query: "Callionymus pusillus" ; Times: 1
+	Query: "Taurulus bubalis mappable:1" ; Times: 1
+	Query: "specificepithet:saurus genus:elops mappable:1" ; Times: 1
+	Query: "Syngnathus fuscus" ; Times: 2
+	Query: "Solea solea mappable:1" ; Times: 5
+	Query: "Spirinchus starksi mappable:1" ; Times: 1
+	Query: "specificepithet:hippurus genus:coryphaena mappable:1" ; Times: 1
+	Query: "Sphoeroides maculatus mappable:1" ; Times: 1
+	Query: "specificepithet:adscensionis genus:holocentrus mappable:1" ; Times: 1
+	Query: "Carassius cuvieri" ; Times: 1
+	Query: "Syngnathus folletti" ; Times: 1
+	Query: "specificepithet:felis genus:arius mappable:1" ; Times: 1
+	Query: "specificepithet:micrura genus:gymnura mappable:1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "specificepithet:sayi genus:dasyatis mappable:1" ; Times: 1
+	Query: "Minyichthys brachyrhinus mappable:1" ; Times: 1
+	Query: "Symphurus plagiusa mappable:1" ; Times: 1
+	Query: "Icelinus tenuis mappable:1" ; Times: 1
+	Query: "Synchiropus circularis" ; Times: 1
+	Query: "specificepithet:mysticetus genus:cetengraulis mappable:1" ; Times: 1
+	Query: "Callionymus enneactis mappable:1" ; Times: 1
+	Query: "Centriscus scutatus mappable:1" ; Times: 1
+	Query: "Lyopsetta exilis mappable:1" ; Times: 1
+	Query: "specificepithet:splendida genus:petenia mappable:1" ; Times: 1
+	Query: "Callionymus maculatus" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "specificepithet:vulpes genus:albula mappable:1" ; Times: 1
+	Query: "13139" ; Times: 1
+	Query: "Microstomus pacificus mappable:1" ; Times: 1
+	Query: "Trachinotus carolinus mappable:1" ; Times: 1
+	Query: "Hippoglossina stomata mappable:1" ; Times: 1
+	Query: "Notoscopelus resplendens mappable:1" ; Times: 2
+	Query: "specificepithet:grandisquamis genus:pseudupeneus mappable:1" ; Times: 1
+	Query: "specificepithet:dumerili genus:seriola mappable:1" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "Stegastes planifrons mappable:1" ; Times: 1
+	Query: "specificepithet:campechanus genus:lutjanus mappable:1" ; Times: 1
+	Query: "specificepithet:canadum genus:rachycentron mappable:1" ; Times: 1
+	Query: "Platichthys stellatus mappable:1" ; Times: 1
+	Query: "specificepithet:auricilla genus:pristipomoides mappable:1" ; Times: 1
+	Query: "Synchiropus morrisoni mappable:1" ; Times: 1
+	Query: "Corythoichthys polynotatus mappable:1" ; Times: 1
+	Query: "specificepithet:cristatus genus:blennius mappable:1" ; Times: 1
+	Query: "specificepithet:higmani genus:mustelus mappable:1" ; Times: 1
+	Query: "Bhanotia fasciolata" ; Times: 1
+	Query: "Phoxocampus diacanthus" ; Times: 1
+	Query: "98592" ; Times: 1
+	Query: "Macroramphosus scolopax" ; Times: 2
+	Query: "Gymnothorax vicinus mappable:1" ; Times: 1
+	Query: "Icelus bicornis mappable:1" ; Times: 1
+	Query: "Lycodes lavalaei mappable:1" ; Times: 1
+	Query: "specificepithet:solandri genus:acanthocybium mappable:1" ; Times: 1
+	Query: "specificepithet:salar genus:salmo mappable:1" ; Times: 11
+	Query: "Amphelikturus dendriticus" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "specificepithet:thynnus genus:thunnus mappable:1" ; Times: 1
+	Query: "viridus" ; Times: 1
+	Query: "Trachinus draco mappable:1" ; Times: 1
+	Query: "specificepithet:melampygus genus:caranx mappable:1" ; Times: 1
+	Query: "specificepithet:urophthalmus genus:cichlasoma mappable:1" ; Times: 1
+	Query: "specificepithet:porosus genus:rhizoprionodon mappable:1" ; Times: 1
+	Query: "Paracallionymus costatus mappable:1" ; Times: 1
+	Query: "Doryrhamphus negrosensis" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 2
+	Query: "Micromesistius poutassou mappable:1" ; Times: 1
+	Query: "specificepithet:chrysura genus:bairdiella mappable:1" ; Times: 1
+	Query: "Callionymus doryssus" ; Times: 1
+	Query: "specificepithet:ramosus genus:bathygobius mappable:1" ; Times: 4
+	Query: "specificepithet:nigricans genus:acanthurus mappable:1" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 1
+	Query: "Halicampus macrorhynchus" ; Times: 1
+	Query: "specificepithet:roncador genus:umbrina mappable:1" ; Times: 1
+	Query: "Pallasina barbata mappable:1" ; Times: 1
+	Query: "Gobius paganellus mappable:1" ; Times: 1
+	Query: "Callionymus hainanensis" ; Times: 1
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 1
+	Query: "Urocampus carinirostris mappable:1" ; Times: 1
+	Query: "Paralepis coregonoides mappable:1" ; Times: 1
+	Query: "ROM 65522" ; Times: 1
+	Query: "Taaningichthys minimus mappable:1" ; Times: 1
+	Query: "specificepithet:californiensis genus:eucinostomus mappable:1" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Hippoglossus hippoglossus mappable:1" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 1
+	Query: "Oncorhynchus kisutch mappable:1" ; Times: 1
+	Query: "specificepithet:pelamis genus:katsuwonus mappable:1" ; Times: 1
+	Query: "Ophidion barbatum mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 1
+	Query: "Festucalex wassi mappable:1" ; Times: 1
+	Query: "90486" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "34885" ; Times: 2
+	Query: "lates niloticus" ; Times: 1
+	Query: "Myoxocephalus quadricornis mappable:1" ; Times: 1
+	Query: "Zaprora silenus mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "specificepithet:bonasus genus:rhinoptera mappable:1" ; Times: 1
+	Query: "Porichthys notatus mappable:1" ; Times: 1
+	Query: "Micropogonias undulatus mappable:1" ; Times: 1
+	Query: "specificepithet:nephelus genus:pleuronichthys mappable:1" ; Times: 1
+	Query: "Festucalex wassi" ; Times: 1
+	Query: "Glyptocephalus zachirus mappable:1" ; Times: 1
+	Query: "Scophthalmus aquosus mappable:1" ; Times: 1
+	Query: "Fistularia petimba mappable:1" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:isurus mappable:1" ; Times: 1
+	Query: "Liparis fabricii mappable:1" ; Times: 1
+	Query: "Pseudopleuronectes americanus mappable:1" ; Times: 1
+	Query: "Sardinops sagax mappable:1" ; Times: 1
+	Query: "Lophius piscatorius mappable:1" ; Times: 1
+	Query: "Lepidorhombus boscii mappable:1" ; Times: 1
+	Query: "ROM 15623" ; Times: 1
+	Query: "Mycteroperca phenax mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "Seriola zonata mappable:1" ; Times: 1
+	Query: "Idiacanthus antrostomus mappable:1" ; Times: 1
+	Query: "Callionymus curvicornis mappable:1" ; Times: 1
+	Query: "specificepithet:sciurus genus:diplectrum mappable:1" ; Times: 1
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Solegnathus hardwickii mappable:1" ; Times: 1
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Liparis callyodon mappable:1" ; Times: 1
+	Query: "ROM 45289" ; Times: 2
+	Query: "Icelinus borealis mappable:1" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "Diplogrammus goramensis mappable:1" ; Times: 1
+	Query: "Mycteroperca microlepis mappable:1" ; Times: 1
+	Query: "Lobianchia dofleini mappable:1" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 9
+	Query: "Triakis semifasciata mappable:1" ; Times: 1
+	Query: "specificepithet:rochei genus:auxis mappable:1" ; Times: 2
+	Query: "Solenostomus cyanopterus" ; Times: 1
+	Query: "Cosmocampus howensis" ; Times: 1
+	Query: "Synchiropus postulus mappable:1" ; Times: 1
+	Query: "Serranus annularis mappable:1" ; Times: 1
+	Query: "Cosmocampus howensis mappable:1" ; Times: 1
+	Query: "specificepithet:fonsecensis genus:trinectes mappable:1" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "Liparis inquilinus mappable:1" ; Times: 1
+	Query: "specificepithet:pelamis genus:euthynnus mappable:1" ; Times: 1
+	Query: "Halicampus spinirostris" ; Times: 1
+	Query: "Merluccius merluccius mappable:1" ; Times: 1
+	Query: "Neogobius melanostomus mappable:1" ; Times: 1
+	Query: "Microgadus tomcod mappable:1" ; Times: 1
+	Query: "specificepithet:nobilis genus:conodon mappable:1" ; Times: 1
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:lagocephalus mappable:1" ; Times: 3
+	Query: "Pomatomus saltatrix mappable:1" ; Times: 1
+	Query: "Corythoichthys nigripectus" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "Diplogrammus infulatus mappable:1" ; Times: 2
+	Query: "ROM 54393" ; Times: 1
+	Query: "Risor ruber mappable:1" ; Times: 1
+	Query: "specificepithet:labriformis genus:epinephelus mappable:1" ; Times: 1
+	Query: "specificepithet:xanthurus genus:leiostomus mappable:1" ; Times: 3
+	Query: "Eurypegasus draconis mappable:1" ; Times: 2
+	Query: "Synagrops bellus mappable:1" ; Times: 1
+	Query: "Fistularia commersonii mappable:1" ; Times: 3
+	Query: "specificepithet:brachysomus genus:calamus mappable:1" ; Times: 1
+	Query: "specificepithet:rosacea genus:mycteroperca mappable:1" ; Times: 1
+	Query: "Dactylopterus volitans mappable:1" ; Times: 1
+	Query: "Hygophum hygomii mappable:1" ; Times: 1
+	Query: "Raja rhina mappable:1" ; Times: 1
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "Phycis phycis mappable:1" ; Times: 1
+	Query: "Minyichthys myersi mappable:1" ; Times: 1
+	Query: "Hippocampus erectus" ; Times: 1
+	Query: "Scomberomorus regalis mappable:1" ; Times: 1
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "Pollachius virens mappable:1" ; Times: 1
+	Query: "Scorpaena porcus mappable:1" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Synchiropus splendidus" ; Times: 1
+	Query: "Seriola dumerili mappable:1" ; Times: 1
+	Query: "Tactostoma macropus mappable:1" ; Times: 1
+	Query: "Liparis gibbus mappable:1" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "specificepithet:setapinnis genus:selene mappable:1" ; Times: 1
+	Query: "Scomberomorus cavalla mappable:1" ; Times: 1
+	Query: "specificepithet:marinus genus:bagre mappable:1" ; Times: 1
+	Query: "Sebastes aurora mappable:1" ; Times: 1
+	Query: "Xenodermichthys copei mappable:1" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "Scorpaena brasiliensis mappable:1" ; Times: 1
+	Query: "Platichthys flesus mappable:1" ; Times: 4
+	Query: "Paracallionymus costatus" ; Times: 1
+	Query: "Gonostoma atlanticum mappable:1" ; Times: 1
+	Query: "specificepithet:trutta genus:salmo mappable:1" ; Times: 1
+	Query: "Solenostomus paradoxus" ; Times: 1
+	Query: "Liparis liparis mappable:1" ; Times: 1
+	Query: "Parablennius marmoreus mappable:1" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:paralabrax mappable:1" ; Times: 1
+	Query: "Raja binoculata mappable:1" ; Times: 1
+	Query: "Trachinotus blochii mappable:1" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "microphis brachyurus" ; Times: 1
+	Query: "Caracal caracal" ; Times: 3
+	Query: "Micrognathus brevirostris mappable:1" ; Times: 1
+	Query: "Synchiropus laddi" ; Times: 1
+	Query: "specificepithet:boops genus:cookeolus mappable:1" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 1
+	Query: "Prionotus ophryas mappable:1" ; Times: 1
+	Query: "Lycodes reticulatus mappable:1" ; Times: 1
+	Query: "specificepithet:oxycephalus genus:cirrhitichthys mappable:1" ; Times: 1
+	Query: "specificepithet:ciliaris genus:holacanthus mappable:1" ; Times: 1
+	Query: "Lophius americanus mappable:1" ; Times: 1
+	Query: "Pomacanthus paru mappable:1" ; Times: 1
+	Query: "Urocampus carinirostris" ; Times: 1
+	Query: "specificepithet:caballus genus:caranx mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:hippocampus mappable:1" ; Times: 1
+	Query: "Lutjanus synagris mappable:1" ; Times: 1
+	Query: "specificepithet:felis genus:galeichthys mappable:1" ; Times: 1
+	Query: "Poromitra crassiceps mappable:1" ; Times: 1
+	Query: "Dactylopus dactylopus" ; Times: 1
+	Query: "Phoxocampus diacanthus mappable:1" ; Times: 1
+	Query: "Leucoraja ocellata mappable:1" ; Times: 1
+	Query: "Helicolenus dactylopterus mappable:1" ; Times: 1
+	Query: "ROM 88089" ; Times: 3
+	Query: "Doryrhamphus janssi" ; Times: 1
+	Query: "Microphis leiaspis" ; Times: 1
+	Query: "Glyptocephalus cynoglossus mappable:1" ; Times: 1
+	Query: "Pollachius pollachius mappable:1" ; Times: 4
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "Merluccius albidus mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "Pristigenys alta mappable:1" ; Times: 1
+	Query: "specificepithet:alletteratus genus:euthynnus mappable:1" ; Times: 4
+	Query: "specificepithet:cirratum genus:ginglymostoma mappable:1" ; Times: 1
+	Query: "specificepithet:neopilchardus genus:sardinops mappable:1" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 2
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "19926" ; Times: 1
+	Query: "Nemichthys scolopaceus mappable:1" ; Times: 1
+	Query: "specificepithet:colorado genus:lutjanus mappable:1" ; Times: 1
+	Query: "Hippichthys spicifer" ; Times: 1
+	Query: "Hemiramphus balao mappable:1" ; Times: 1
+	Query: "Scorpaena notata mappable:1" ; Times: 1
+	Query: "Saurida brasiliensis mappable:1" ; Times: 1
+	Query: "Corythoichthys insularis" ; Times: 1
+	Query: "Solenostomus paradoxus mappable:1" ; Times: 1
+	Query: "Halicampus dunckeri" ; Times: 1
+	Query: "Mugil curema mappable:1" ; Times: 1
+	Query: "Torpedo nobiliana mappable:1" ; Times: 2
+	Query: "specificepithet:notatus genus:porichthys mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Doryichthys deokhatoides" ; Times: 1
+	Query: "specificepithet:panamensis genus:cephalopholis mappable:1" ; Times: 1
+	Query: "Reinhardtius hippoglossoides mappable:1" ; Times: 1
+	Query: "Kathetostoma averruncus mappable:1" ; Times: 1
+	Query: "Gobiesox punctulatus mappable:1" ; Times: 1
+	Query: "Pseudophallus starksii mappable:1" ; Times: 1
+	Query: "Prionotus stearnsi mappable:1" ; Times: 1
+	Query: "ROM 54396" ; Times: 1
+	Query: "specificepithet:sagittula genus:ctenogobius mappable:1" ; Times: 1
+	Query: "specificepithet:melanopleura genus:tilapia mappable:1" ; Times: 3
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 3
+	Query: "Phoxocampus belcheri" ; Times: 1
+	Query: "Myoxocephalus scorpioides mappable:1" ; Times: 1
+	Query: "Urophycis regia mappable:1" ; Times: 1
+	Query: "Scorpaena agassizii mappable:1" ; Times: 1
+	Query: "specificepithet:annularis genus:diplodus mappable:1" ; Times: 1
+	Query: "specificepithet:milberti genus:carcharhinus mappable:1" ; Times: 1
+	Query: "ROM 54392" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "specificepithet:walkeri genus:anchoa mappable:1" ; Times: 1
+	Query: "Diplogrammus infulatus" ; Times: 2
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 1
+	Query: "Macroramphosus gracilis" ; Times: 1
+	Query: "specificepithet:sechurae genus:sphoeroides mappable:1" ; Times: 1
+	Query: "Gymnura altavela mappable:1" ; Times: 1
+	Query: "Gymnothorax saxicola mappable:1" ; Times: 1
+	Query: "Paralichthys lethostigma mappable:1" ; Times: 1
+	Query: "specificepithet:setapinnis genus:vomer mappable:1" ; Times: 1
+	Query: "Micrognathus crinitus" ; Times: 1
+	Query: "hydrocynus forskahlii" ; Times: 1
+	Query: "specificepithet:macrosoma genus:decapterus mappable:1" ; Times: 1
+	Query: "specificepithet:productus genus:merluccius mappable:1" ; Times: 1
+	Query: "specificepithet:zonatus genus:chaetodipterus mappable:1" ; Times: 1
+	Query: "specificepithet:guacamaia genus:scarus mappable:1" ; Times: 1
+	Query: "Oxylebius pictus mappable:1" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:citharichthys mappable:1" ; Times: 1
+	Query: "specificepithet:ronchus genus:bairdiella mappable:1" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Osmerus eperlanus mappable:1" ; Times: 1
+	Query: "specificepithet:bogaraveo genus:pagellus mappable:1" ; Times: 1
+	Query: "ROM 65473" ; Times: 1
+	Query: "Callionymus simplicicornis" ; Times: 1
+	Query: "specificepithet:peruvianus genus:galeichthys mappable:1" ; Times: 1
+	Query: "Spondyliosoma cantharus mappable:1" ; Times: 5
+	Query: "Prognichthys gibbifrons mappable:1" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:cephalus genus:mugil mappable:1" ; Times: 5
+	Query: "Pleurogrammus monopterygius mappable:1" ; Times: 1
+	Query: "Microphis lineatus mappable:1" ; Times: 2
+	Query: "specificepithet:hispidus genus:arothron mappable:1" ; Times: 1
+	Query: "Trachurus lathami mappable:1" ; Times: 1
+	Query: "Serrivomer beanii mappable:1" ; Times: 1
+	Query: "Zoarces americanus mappable:1" ; Times: 1
+	Query: "Rhamphocottus richardsonii mappable:1" ; Times: 1
+	Query: "Hemanthias vivanus mappable:1" ; Times: 1
+	Query: "Monacanthus ciliatus mappable:1" ; Times: 1
+	Query: "Corythoichthys haematopterus mappable:1" ; Times: 2
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "specificepithet:faber genus:chaetodipterus mappable:1" ; Times: 2
+	Query: "Sphoeroides pachygaster mappable:1" ; Times: 1
+	Query: "Spicara maena mappable:1" ; Times: 1
+	Query: "ROM 65474" ; Times: 2
+	Query: "Prionotus evolans mappable:1" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 2
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "Lampanyctus macdonaldi mappable:1" ; Times: 1
+	Query: "Halichoeres garnoti mappable:1" ; Times: 1
+	Query: "Mallotus villosus mappable:1" ; Times: 1
+	Query: "Cynoglossus itinus" ; Times: 7
+	Query: "specificepithet:arcuatus genus:pomacanthus mappable:1" ; Times: 1
+	Query: "Parophrys vetulus mappable:1" ; Times: 1
+	Query: "Pholis laeta mappable:1" ; Times: 1
+	Query: "specificepithet:cavalla genus:scomberomorus mappable:1" ; Times: 1
+	Query: "Notoscopelus elongatus mappable:1" ; Times: 1
+	Query: "Gymnocephalus cernuus mappable:1" ; Times: 1
+	Query: "specificepithet:zillii genus:tilapia mappable:1" ; Times: 1
+	Query: "ROM 77234" ; Times: 2
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Oligoplites saurus mappable:1" ; Times: 1
+	Query: "Sebastes emphaeus mappable:1" ; Times: 1
+	Query: "Hippichthys penicillus mappable:1" ; Times: 1
+	Query: "Synchiropus laddi mappable:1" ; Times: 1
+	Query: "Callionymus bairdi" ; Times: 1
+	Query: "Halicampus mataafae mappable:1" ; Times: 2
+	Query: "scientificname:(Luxilus coccogenis OR Notropis coccogenis) country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:oglinum genus:opisthonema mappable:1" ; Times: 1
+	Query: "Nessorhamphus ingolfianus mappable:1" ; Times: 1
+	Query: "Syngnathus schlegeli mappable:1" ; Times: 1
+	Query: "specificepithet:monoceros genus:aluterus mappable:1" ; Times: 1
+	Query: "Corythoichthys polynotatus" ; Times: 1
+	Query: "Neoniphon marianus mappable:1" ; Times: 1
+	Query: "Rhacochilus vacca mappable:1" ; Times: 1
+	Query: "Rypticus subbifrenatus mappable:1" ; Times: 1
+	Query: "specificepithet:micropterus genus:oxyporhamphus mappable:1" ; Times: 2
+	Query: "specificepithet:cyanoguttatus genus:herichthys mappable:1" ; Times: 1
+	Query: "Liparis pulchellus mappable:1" ; Times: 1
+	Query: "Urobatis jamaicensis mappable:1" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 1
+	Query: "Aeoliscus strigatus" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 1
+	Query: "Sebastes mystinus mappable:1" ; Times: 1
+	Query: "Choeroichthys cinctus mappable:1" ; Times: 1
+	Query: "Hemicaranx amblyrhynchus mappable:1" ; Times: 1
+	Query: "Callionymus formosanus mappable:1" ; Times: 1
+	Query: "Serranus scriba mappable:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:mugil mappable:1" ; Times: 1
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "Symphodus roissali mappable:1" ; Times: 1
+	Query: "Nerophis lumbriciformis mappable:1" ; Times: 2
+	Query: "specificepithet:probatocephalus genus:archosargus mappable:1" ; Times: 1
+	Query: "Lithognathus mormyrus mappable:1" ; Times: 1
+	Query: "Osmerus mordax mappable:1" ; Times: 1
+	Query: "Callionymus planus mappable:1" ; Times: 1
+	Query: "ROM 17490" ; Times: 1
+	Query: "Oncorhynchus keta mappable:1" ; Times: 1
+	Query: "Vinciguerria poweriae mappable:1" ; Times: 1
+	Query: "Callionymus marleyi" ; Times: 2
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 1
+	Query: "Thaleichthys pacificus mappable:1" ; Times: 1
+	Query: "Lagocephalus lagocephalus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:gerres mappable:1" ; Times: 1
+	Query: "specificepithet:monticola genus:agonostomus mappable:1" ; Times: 1
+	Query: "ROM 20650" ; Times: 1
+	Query: "Halicampus spinirostris mappable:1" ; Times: 1
+	Query: "specificepithet:leopardinus genus:bothus mappable:1" ; Times: 1
+	Query: "Festucalex gibbsi" ; Times: 1
+	Query: "Halicampus zavorensis mappable:1" ; Times: 1
+	Query: "ROM 84971" ; Times: 2
+	Query: "Callionymus lyra mappable:1" ; Times: 5
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Scomberesox saurus mappable:1" ; Times: 1
+	Query: "specificepithet:commersonii genus:fistularia mappable:1" ; Times: 1
+	Query: "Lepidopus caudatus mappable:1" ; Times: 1
+	Query: "Nannobrachium regale mappable:1" ; Times: 1
+	Query: "Morone americana mappable:1" ; Times: 1
+	Query: "Fistularia tabacaria" ; Times: 1
+	Query: "Phyllopteryx taeniolatus" ; Times: 1
+	Query: "Prionotus roseus mappable:1" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 3
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:polyaspis genus:decapterus mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "Hippocampus denise" ; Times: 1
+	Query: "Callionymus hainanensis mappable:1" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Zenopsis conchifera mappable:1" ; Times: 1
+	Query: "Crenicichla anthurus" ; Times: 2
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 3
+	Query: "Sebastes caurinus mappable:1" ; Times: 1
+	Query: "Hippichthys cyanospilos" ; Times: 1
+	Query: "Limanda ferruginea mappable:1" ; Times: 1
+	Query: "Choeroichthys brachysoma" ; Times: 2
+	Query: "Corythoichthys ocellatus" ; Times: 1
+	Query: "Phrynorhombus norvegicus mappable:1" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "specificepithet:vetula genus:balistes mappable:1" ; Times: 2
+	Query: "specificepithet:meleagris genus:arothron mappable:1" ; Times: 1
+	Query: "Hygophum reinhardtii mappable:1" ; Times: 1
+	Query: "Lumpenella longirostris mappable:1" ; Times: 1
+	Query: "specificepithet:leucorhynchus genus:rhinobatos mappable:1" ; Times: 1
+	Query: "specificepithet:bartholomaei genus:caranx mappable:1" ; Times: 1
+	Query: "specificepithet:guachancho genus:sphyraena mappable:1" ; Times: 1
+	Query: "Gymnocanthus galeatus mappable:1" ; Times: 1
+	Query: "Myxine glutinosa mappable:1" ; Times: 1
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 1
+	Query: "specificepithet:analis genus:lutjanus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 809 download events in this period)
+Total number of records downloaded: 2124
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 4
+	Country: Austria ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cynoglossus abbreviatus" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "&#34;pterodoras granulosus&#34;" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "appendiculatus" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+
+
+End of report.
