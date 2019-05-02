@@ -1,0 +1,309 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 325
+Number of records retrieved in searches: 3420
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 102
+	Country: Canada ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Mexico ; Times: 8
+	Country: Norway ; Times: 30
+	Country: Unknown ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 9
+	Country: Switzerland ; Times: 7
+	Country: Sweden ; Times: 3
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Belgium ; Times: 3
+	Country: United States ; Times: 132
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 8
+	Date: 2019-04-19 ; Times: 101
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-12 ; Times: 5
+	Date: 2019-04-11 ; Times: 9
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 9
+	Date: 2019-04-16 ; Times: 12
+	Date: 2019-04-15 ; Times: 11
+	Date: 2019-04-14 ; Times: 4
+	Date: 2019-04-30 ; Times: 5
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-24 ; Times: 9
+	Date: 2019-04-03 ; Times: 9
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-22 ; Times: 7
+	Date: 2019-04-05 ; Times: 11
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 9
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-02 ; Times: 41
+	Date: 2019-04-25 ; Times: 15
+	Date: 2019-04-29 ; Times: 12
+	Date: 2019-04-08 ; Times: 14
+	Date: 2019-04-09 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "specificepithet:typus genus:rhincodon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Emblemariopsis diaphana" ; Times: 1
+	Query: "catalognumber:30579 institutioncode:ROM" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "petticoat creek ontario locality:Petticoat creek stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "Cynoscion virescens mappable:1" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "catalognumber:35470 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "catalognumber:47738 institutioncode:ROM" ; Times: 3
+	Query: "Macrodon ancylodon mappable:1" ; Times: 2
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 4
+	Query: "ROM 92801" ; Times: 1
+	Query: "Otocinclus affinis" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Lates mariae" ; Times: 3
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 2
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 2
+	Query: "recordedby:marshall year &gt;= 1985 year &lt;= 1985" ; Times: 1
+	Query: "SCARUS rubroviolaceus" ; Times: 1
+	Query: "catalognumber:82608 institutioncode:ROM" ; Times: 1
+	Query: "Stathmonotus gymnodermis" ; Times: 1
+	Query: "Pelvicachromis pulcher" ; Times: 1
+	Query: "Stathmonotus stahli" ; Times: 1
+	Query: "ROM 101861" ; Times: 3
+	Query: "Zostera japonica mappable:1" ; Times: 1
+	Query: "atlantic angel shark" ; Times: 1
+	Query: "80729" ; Times: 3
+	Query: "catalognumber:47737 institutioncode:ROM" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "Hoplosternum littorale mappable:1" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "catalognumber:94272 institutioncode:ROM" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "catalognumber:5757 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:32033 institutioncode:ROM" ; Times: 1
+	Query: "Lucayablennius zingaro" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Cetengraulis edentulus mappable:1" ; Times: 2
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Lucayablennius zingaro mappable:1" ; Times: 1
+	Query: "Paralonchurus brasiliensis mappable:1" ; Times: 2
+	Query: "pine rock district" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "Oncorhynchus masou" ; Times: 1
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "Isopisthus parvipinnis mappable:1" ; Times: 2
+	Query: "Chaenopsis stephensi" ; Times: 2
+	Query: "gbifdatasetid:4e5552d1-5eaf-40a3-b48b-01f92da22f17" ; Times: 4
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "Pimelodus maculatus mappable:1" ; Times: 2
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 7
+	Query: "family:Loricariidae institutioncode:ROM" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "Potamogeton crispus mappable:1" ; Times: 1
+	Query: "catalognumber:5782 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:96762 institutioncode:ROM" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Ceratophyllum demersum mappable:1" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "Poecilia vivipara mappable:1" ; Times: 1
+	Query: "catalognumber:86171 institutioncode:ROM" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "Lutjanus jocu mappable:1" ; Times: 2
+	Query: "Trinectes paulistanus mappable:1" ; Times: 2
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "family:Synbranchidae country:&#34;Trinidad&#34;" ; Times: 2
+	Query: "catalognumber:88721 institutioncode:ROM" ; Times: 1
+	Query: "Prochilodus lineatus mappable:1" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 2
+	Query: "28459" ; Times: 1
+	Query: "genus:rhincodon basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Stathmonotus gymnodermis mappable:1" ; Times: 1
+	Query: "99664 vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 2
+	Query: "ROM Fishes Guyana" ; Times: 1
+	Query: "catalognumber:51085 institutioncode:ROM" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "Chaenopsis limbaughi mappable:1" ; Times: 2
+	Query: "optivus elongatus" ; Times: 4
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "catalognumber:51524 institutioncode:ROM" ; Times: 1
+	Query: "Typha latifolia mappable:1" ; Times: 1
+	Query: "Micropercops swinhonis" ; Times: 1
+	Query: "nk 12151" ; Times: 1
+	Query: "catalognumber:86671 institutioncode:ROM" ; Times: 1
+	Query: "Serrasalmus marginatus mappable:1" ; Times: 1
+	Query: "catalognumber:96754 institutioncode:ROM" ; Times: 1
+	Query: "Microctenopoma ansorgii" ; Times: 1
+	Query: "Baryancistrus niveatus" ; Times: 1
+	Query: "Sardinella brasiliensis" ; Times: 1
+	Query: "Emblemariopsis diaphana mappable:1" ; Times: 1
+	Query: "trachichthys australis" ; Times: 1
+	Query: "Coralliozetus cardonae mappable:1" ; Times: 2
+	Query: "18900" ; Times: 1
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "salminus hilarii" ; Times: 1
+	Query: "Myriophyllum spicatum mappable:1" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "Pellona harroweri mappable:1" ; Times: 2
+	Query: "Clarias gariepinus mappable:1" ; Times: 1
+	Query: "avicennia" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 2
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "Cynoscion leiarchus mappable:1" ; Times: 1
+	Query: "Rhamdia quelen mappable:1" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "Odontognathus mucronatus mappable:1" ; Times: 2
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "Trichopsis vittata" ; Times: 2
+	Query: "Doryrhamphus negrosensis" ; Times: 4
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "Micromesistius poutassou mappable:1" ; Times: 5
+	Query: "Ophioscion punctatissimus mappable:1" ; Times: 2
+	Query: "Labeotropheus trewavasae" ; Times: 1
+	Query: "catalognumber:54552 institutioncode:ROM" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "Lycengraulis grossidens mappable:1" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 2
+	Query: "Gymnotus carapo mappable:1" ; Times: 1
+	Query: "Nebris microps mappable:1" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "catalognumber:72080 institutioncode:ROM" ; Times: 1
+	Query: "locality:brandon stateprovince:&#34;Manitoba&#34;" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 2
+	Query: "Cathorops spixii mappable:1" ; Times: 2
+	Query: "ceratias" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "catalognumber:96750 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:54554 institutioncode:ROM" ; Times: 1
+	Query: "cnav" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "ROM 35669" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 2
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 2
+	Query: "Centriscus scutatus" ; Times: 1
+	Query: "Stellifer rastrifer mappable:1" ; Times: 2
+	Query: "Anarhichas lupus mappable:1" ; Times: 9
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "catalognumber:4583 institutioncode:ROM" ; Times: 1
+	Query: "Chaenopsis limbaughi" ; Times: 2
+	Query: "anemone" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "catalognumber:32032 institutioncode:ROM" ; Times: 2
+	Query: "Chaenopsis stephensi mappable:1" ; Times: 2
+	Query: "catalognumber:57620 institutioncode:ROM" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "ROM 26842" ; Times: 2
+	Query: "Pygocentrus nattereri mappable:1" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "catalognumber:67240 institutioncode:ROM" ; Times: 1
+	Query: "petticoat creek ontario" ; Times: 1
+	Query: "Ophichthus cylindroideus mappable:1" ; Times: 2
+	Query: "flavicauda" ; Times: 1
+	Query: "ROM 21604" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "catalognumber:87810 institutioncode:ROM" ; Times: 1
+	Query: "caracal" ; Times: 2
+	Query: "Jaguar" ; Times: 1
+	Query: "catalognumber:32023 institutioncode:ROM" ; Times: 3
+	Query: "Atherinella brasiliensis mappable:1" ; Times: 2
+	Query: "senckenberg" ; Times: 1
+	Query: "catalognumber:74660 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:92111 institutioncode:ROM" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 4
+	Query: "parapriacanthus dispar" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "salminus" ; Times: 3
+	Query: "Stathmonotus stahli mappable:1" ; Times: 1
+	Query: "Coralliozetus cardonae" ; Times: 2
+	Query: "Petticoat creek" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Salminus brasiliensis mappable:1" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "catalognumber:48883 institutioncode:ROM" ; Times: 1
+	Query: "ZMUC" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 2
+	Query: "33026" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1263 download events in this period)
+Total number of records downloaded: 921
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sander vitreus" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "county:&#34;Loreto&#34;" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 1
+
+
+End of report.
