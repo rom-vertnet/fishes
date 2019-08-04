@@ -1,0 +1,281 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 2673
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 3
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 9
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 6
+	Country: United States ; Times: 168
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 27
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 7
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-13 ; Times: 3
+	Date: 2019-07-10 ; Times: 10
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-16 ; Times: 10
+	Date: 2019-07-17 ; Times: 14
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-08 ; Times: 105
+	Date: 2019-07-21 ; Times: 4
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 6
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 4
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-03 ; Times: 5
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 10
+	Date: 2019-07-07 ; Times: 6
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Schistura " ; Times: 2
+	Query: "genus:Panaqolus" ; Times: 1
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Pellonula specificepithet:vorax" ; Times: 1
+	Query: "genus:Lycengraulis specificepithet:grossidens" ; Times: 1
+	Query: "genus:Uaru specificepithet:amphiacanthoides" ; Times: 1
+	Query: "genus:Gonostoma specificepithet:atlanticum" ; Times: 1
+	Query: "Amphelikturus dendriticus" ; Times: 1
+	Query: "ROM 33162" ; Times: 2
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "Sardina pilchardus mappable:1" ; Times: 1
+	Query: "genus:Hippichthys specificepithet:heptagonus" ; Times: 1
+	Query: "genus:Amblyopsis specificepithet:spelaea" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "scientificname:(Percina macrocephala) country:United States mappable:1" ; Times: 1
+	Query: "Caracal caracal" ; Times: 3
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "genus:Chilara" ; Times: 1
+	Query: "genus:Acanthocobitis" ; Times: 1
+	Query: "Cape Verde" ; Times: 1
+	Query: "genus:Parenchelyurus specificepithet:hepburni" ; Times: 1
+	Query: "genus:Boleophthalmus specificepithet:boddarti" ; Times: 1
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 1
+	Query: "genus:Mikrogeophagus specificepithet:ramirezi" ; Times: 1
+	Query: "Parupeneus macronemus" ; Times: 1
+	Query: "catalognumber:41243 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "Hypomesus nipponensis" ; Times: 1
+	Query: "genus:Awaous specificepithet:ocellaris" ; Times: 1
+	Query: "ROM 41224" ; Times: 2
+	Query: "genus:Cottus specificepithet:poecilopus" ; Times: 1
+	Query: "genus:Sardina specificepithet:pilchardus" ; Times: 1
+	Query: "ROM 41223" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:horsti" ; Times: 1
+	Query: "genus:Exallias specificepithet:brevis" ; Times: 1
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:38038 institutioncode:ROM" ; Times: 1
+	Query: "genus:Scytalina specificepithet:cerdale" ; Times: 1
+	Query: "scientificname:(Chrosomus neogaeus OR Phoxinus neogaeus) country:United States mappable:1" ; Times: 1
+	Query: "gravatai" ; Times: 1
+	Query: "genus:Tometes" ; Times: 1
+	Query: "Aspidontus tractus" ; Times: 2
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "gbifdatasetid:4e5552d1-5eaf-40a3-b48b-01f92da22f17" ; Times: 1
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 6
+	Query: "genus:Torquigener specificepithet:whitleyi" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "Cichla temensis" ; Times: 1
+	Query: "genus:Leporinus specificepithet:arcus" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "genus:Archocentrus specificepithet:centrarchus" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "ophichthus altipennis" ; Times: 1
+	Query: "Caracal+caracal" ; Times: 3
+	Query: "77592" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "genus:Cottus specificepithet:confusus" ; Times: 1
+	Query: "catalognumber:96276 institutioncode:ROM" ; Times: 1
+	Query: "genus:Taaningichthys specificepithet:bathyphilus" ; Times: 1
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "genus:Aidablennius specificepithet:sphynx" ; Times: 1
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "genus:Pterengraulis specificepithet:atherinoides" ; Times: 1
+	Query: "genus:Henonemus" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "scientificname:(Etheostoma tippecanoe) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:klamathensis" ; Times: 1
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "genus:Mesonauta specificepithet:insignis" ; Times: 1
+	Query: "catalognumber:98124 institutioncode:ROM" ; Times: 1
+	Query: "genus:Ulvaria specificepithet:subbifurcata" ; Times: 1
+	Query: "genus:Cottus specificepithet:perplexus" ; Times: 1
+	Query: "genus:Cottus specificepithet:marginatus" ; Times: 1
+	Query: "laucala" ; Times: 1
+	Query: "catalognumber:63174 institutioncode:ROM" ; Times: 2
+	Query: "Lama" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "genus:Anchovia specificepithet:macrolepidota" ; Times: 1
+	Query: "Pangio kuhlii" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:macrops" ; Times: 1
+	Query: "90369" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "99109" ; Times: 1
+	Query: "catalognumber:97932 institutioncode:ROM" ; Times: 1
+	Query: "ROM 30852" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "genus:Stiphodon country:&#34;Federated States of Micronesia&#34;" ; Times: 2
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "59041" ; Times: 1
+	Query: "genus:Mallotus specificepithet:villosus" ; Times: 1
+	Query: "pterois miles" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Clepticus" ; Times: 2
+	Query: "genus:Parauchenoglanis" ; Times: 1
+	Query: "genus:Odontognathus specificepithet:mucronatus" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:starksi" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:oceanops" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "genus:Paratilapia specificepithet:polleni" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "genus:Phoxocampus specificepithet:belcheri" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "soeurs" ; Times: 1
+	Query: "genus:Cottus specificepithet:baileyi" ; Times: 1
+	Query: "genus:Cottus specificepithet:ricei" ; Times: 1
+	Query: "catalognumber:43108 institutioncode:ROM" ; Times: 2
+	Query: "ROM 41586" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:reticulatus" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 5
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "genus:Ernstichthys" ; Times: 1
+	Query: "genus:Pseudolithoxus specificepithet:tigris" ; Times: 1
+	Query: "genus:Benthodesmus specificepithet:elongatus" ; Times: 1
+	Query: "catalognumber:32176 institutioncode:ROM" ; Times: 1
+	Query: "genus:Hemitilapia specificepithet:oxyrhynchus" ; Times: 1
+	Query: "genus:Cleithracara specificepithet:maronii" ; Times: 1
+	Query: "genus:Lebetus" ; Times: 1
+	Query: "genus:Leuroglossus specificepithet:stilbius" ; Times: 1
+	Query: "Raja rhina" ; Times: 3
+	Query: "29240" ; Times: 3
+	Query: "scientificname:(Etheostoma trisella) country:United States mappable:1" ; Times: 1
+	Query: "Oxyeleotris marmorata" ; Times: 1
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 1
+	Query: "genus:Cheilopogon specificepithet:melanurus" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:iheringii" ; Times: 1
+	Query: "oryzias latipes" ; Times: 1
+	Query: "Lamna" ; Times: 1
+	Query: "benin tcwc" ; Times: 1
+	Query: "catalognumber:97412 institutioncode:ROM" ; Times: 1
+	Query: "A.31512" ; Times: 1
+	Query: "genus:Simenchelys specificepithet:parasitica" ; Times: 1
+	Query: "gravataí" ; Times: 1
+	Query: "Ambassis kopsii" ; Times: 1
+	Query: "Psettina tosana" ; Times: 1
+	Query: "genus:Coryphoblennius specificepithet:galerita" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "pterois radiata" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "Raja binoculata" ; Times: 2
+	Query: "genus:Cottus specificepithet:leiopomus" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "catalognumber:78979" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:hangiongensis" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "catalognumber:19053 institutioncode:ROM" ; Times: 3
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "catalognumber:71463 institutioncode:ROM" ; Times: 2
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antennatus" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "catalognumber:99284 institutioncode:ROM" ; Times: 1
+	Query: "Zonata year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "23148" ; Times: 1
+	Query: "Psettina" ; Times: 2
+	Query: "genus:Vanmanenia" ; Times: 1
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Homaloptera specificepithet:sexmaculata" ; Times: 1
+	Query: "genus:Etheostoma specificepithet:maculatum" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "69829" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "catalognumber:38854 institutioncode:ROM" ; Times: 1
+	Query: "Hoplerythrinus institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:43045 institutioncode:ROM" ; Times: 1
+	Query: "76722" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 985 download events in this period)
+Total number of records downloaded: 238
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Hoplerythrinus institutioncode:ROM" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "Protopterus" ; Times: 3
+
+
+End of report.
