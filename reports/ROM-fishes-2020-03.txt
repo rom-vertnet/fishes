@@ -1,0 +1,364 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 316
+Number of records retrieved in searches: 1432
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Venezuela ; Times: 3
+	Country: Cuba ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 4
+	Country: United Kingdom ; Times: 21
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Germany ; Times: 4
+	Country: Switzerland ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 239
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-28 ; Times: 14
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 61
+	Date: 2020-03-18 ; Times: 32
+	Date: 2020-03-19 ; Times: 21
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-09 ; Times: 14
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-10 ; Times: 16
+	Date: 2020-03-11 ; Times: 8
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-26 ; Times: 6
+	Date: 2020-03-25 ; Times: 17
+	Date: 2020-03-24 ; Times: 4
+	Date: 2020-03-23 ; Times: 37
+	Date: 2020-03-22 ; Times: 6
+	Date: 2020-03-21 ; Times: 4
+	Date: 2020-03-20 ; Times: 10
+	Date: 2020-03-05 ; Times: 6
+	Date: 2020-03-04 ; Times: 13
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-03 ; Times: 17
+	Date: 2020-03-02 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "36879" ; Times: 2
+	Query: "47045" ; Times: 1
+	Query: "Scarus coelestinus mappable:1" ; Times: 1
+	Query: "scardinius erythrophthalmus" ; Times: 2
+	Query: "Atherinomorus duodecimalis mappable:1" ; Times: 3
+	Query: "47738" ; Times: 1
+	Query: "catalognumber:78301 collectioncode:fishes institutioncode:ROM" ; Times: 1
+	Query: "100570" ; Times: 1
+	Query: "catalognumber:95937 collectioncode:fishes institutioncode:ROM" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "ROM 68554" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "97922" ; Times: 1
+	Query: "hyphessobrycon anisitsi" ; Times: 3
+	Query: "82768" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Scarus ghobban mappable:1" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "Scarus psittacus mappable:1" ; Times: 1
+	Query: "Chlorurus sordidus mappable:1" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "catalognumber:86809 collectioncode:fishes institutioncode:ROM" ; Times: 2
+	Query: "R.39075" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Scarus dimidiatus mappable:1" ; Times: 1
+	Query: "96091" ; Times: 2
+	Query: "60756" ; Times: 1
+	Query: "Scarus fuscopurpureus mappable:1" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "Galeocharax gulo" ; Times: 1
+	Query: "prionotus alatus" ; Times: 1
+	Query: "Scarus flavipectoralis mappable:1" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "Istiophorus albicans" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "ROM 77522" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "Chlorurus enneacanthus mappable:1" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Hipposcarus harid mappable:1" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "Gambusia punctata" ; Times: 1
+	Query: "Rock rattlesnake" ; Times: 2
+	Query: "R.57365" ; Times: 1
+	Query: "norfolkia brachylepis" ; Times: 2
+	Query: "83012" ; Times: 1
+	Query: "Scarus altipinnis mappable:1" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "Chlorurus gibbus mappable:1" ; Times: 3
+	Query: "101701" ; Times: 2
+	Query: "(46173)" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 5
+	Query: "21449" ; Times: 1
+	Query: "Melanotaenia australis mappable:1" ; Times: 1
+	Query: "Melanotaenia ajamaruensis mappable:1" ; Times: 1
+	Query: "recordedby:knut dahl" ; Times: 1
+	Query: "Calotomus spinidens mappable:1" ; Times: 3
+	Query: "lates calcarifer" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "Craterocephalus cuneiceps mappable:1" ; Times: 1
+	Query: "Atherinomorus endrachtensis mappable:1" ; Times: 4
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "&#34;Los Chiles&#34;" ; Times: 2
+	Query: "Leptoscarus vaigiensis mappable:1" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "Urocampus" ; Times: 1
+	Query: "tcwc and fishes" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "Scarus tricolor mappable:1" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "ROM 56103" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "56769" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "chilodus" ; Times: 1
+	Query: "ROM 44298" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "chondrostoma nasus" ; Times: 2
+	Query: "Scarus niger mappable:1" ; Times: 1
+	Query: "Scarus russelii mappable:1" ; Times: 1
+	Query: "58767" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "70672" ; Times: 1
+	Query: "34264 ROM" ; Times: 2
+	Query: "21297" ; Times: 1
+	Query: "ROM 65867" ; Times: 1
+	Query: "cobitis taenia" ; Times: 2
+	Query: "(16380)" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "Atherinomorus lineatus mappable:1" ; Times: 2
+	Query: "(55759)" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "Melanotaenia splendida tatei mappable:1" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "Scarus oviceps mappable:1" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "Los Cabos" ; Times: 4
+	Query: "(56781)" ; Times: 1
+	Query: "76847" ; Times: 1
+	Query: "Scarus chameleon mappable:1" ; Times: 1
+	Query: "Protomyctophum normani" ; Times: 2
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "Scarus rivulatus mappable:1" ; Times: 1
+	Query: "anguilla marmorata" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "Chlorurus microrhinos mappable:1" ; Times: 3
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "103852" ; Times: 1
+	Query: "Hypoatherina ovalaua mappable:1" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "H 87085" ; Times: 1
+	Query: "Symbolophorus boops" ; Times: 1
+	Query: "Centropomus parallelus" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "Scarus viridifucatus mappable:1" ; Times: 1
+	Query: "Atherinomorus stipes mappable:1" ; Times: 2
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "collectioncode:fishes institutioncode:ROM" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Hypoatherina barnesi mappable:1" ; Times: 4
+	Query: "Calotomus carolinus mappable:1" ; Times: 3
+	Query: "(14976)" ; Times: 1
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "Macrhybopsis storeriana" ; Times: 2
+	Query: "Craterocephalus marianae mappable:1" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "Scarus schlegeli mappable:1" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "chondrostoma" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "Hypoatherina tropicalis mappable:1" ; Times: 1
+	Query: "Stenatherina panatela mappable:1" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "astatheros rostratus" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "ROM 59191" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "ROM 70989" ; Times: 1
+	Query: "Atherion elymus mappable:1" ; Times: 2
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "recordedby:r johnstone" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "38874" ; Times: 2
+	Query: "Hypoatherina temminckii mappable:1" ; Times: 2
+	Query: "(76777)" ; Times: 2
+	Query: "Gymnocorymbus ternetzi" ; Times: 2
+	Query: "90583" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "specificepithet:canadensis county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Scarus falcipinnis mappable:1" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "130611" ; Times: 1
+	Query: "98368" ; Times: 2
+	Query: "51716" ; Times: 1
+	Query: "ROM 71227" ; Times: 1
+	Query: "ROM 62492" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "Atherinosoma microstoma mappable:1" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "13715" ; Times: 5
+	Query: "catalognumber:37110 institutioncode:ROM" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "Scarus globiceps mappable:1" ; Times: 2
+	Query: "66359" ; Times: 1
+	Query: "ROM 68581" ; Times: 1
+	Query: "ROM 68582" ; Times: 1
+	Query: "Scarus scaber mappable:1" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "Scarus frenatus mappable:1" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Cetoscarus bicolor mappable:1" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "hippocampus reidi" ; Times: 1
+	Query: "thunnus obesus" ; Times: 1
+	Query: "Scarus rubroviolaceus mappable:1" ; Times: 1
+	Query: "Auxis rochei" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "Craterocephalus stercusmuscarum mappable:1" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "Brycon orbignyanus" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "Atherinosoma elongata mappable:1" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Cairnsichthys rhombosomoides mappable:1" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "Scarus spinus mappable:1" ; Times: 1
+	Query: "Gambusia hispaniolae" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "catalognumber:37079 institutioncode:ROM" ; Times: 2
+	Query: "37120" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "Craterocephalus honoriae mappable:1" ; Times: 2
+	Query: "Melanotaenia fluviatilis mappable:1" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "&#34;Barbatula barbatula&#34;" ; Times: 2
+	Query: "88872" ; Times: 1
+	Query: "Craterocephalus eyresii mappable:1" ; Times: 2
+	Query: "australoheros facetus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 853 download events in this period)
+Total number of records downloaded: 289
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Cuba ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 12
+	Country: France ; Times: 1
+	Country: United States ; Times: 7
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 7
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-12 ; Times: 6
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "101701" ; Times: 1
+	Query: "Electrona antarctica" ; Times: 2
+	Query: "lates calcarifer" ; Times: 2
+	Query: "Protomyctophum normani" ; Times: 2
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Protomyctophum bolini" ; Times: 1
+	Query: "hyphessobrycon anisitsi" ; Times: 1
+	Query: "griffithsi" ; Times: 1
+	Query: "chilodontidae" ; Times: 1
+	Query: "caenotropus" ; Times: 1
+	Query: "specificepithet:antarctica genus:Electrona" ; Times: 1
+	Query: "Taaningichthys bathyphilus" ; Times: 2
+	Query: "the great lakes" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "chilodus" ; Times: 1
+	Query: "Galeocharax gulo" ; Times: 1
+	Query: "cobitis taenia" ; Times: 1
+	Query: "Symbolophorus boops" ; Times: 1
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "Gambusia hispaniolae" ; Times: 1
+	Query: "Gambusia nicaraguensis" ; Times: 1
+	Query: "&#34;Barbatula barbatula&#34;" ; Times: 1
+	Query: "Gambusia punctata" ; Times: 1
+	Query: "Protomyctophum tenisoni" ; Times: 2
+	Query: "australoheros facetus" ; Times: 1
+
+
+End of report.
