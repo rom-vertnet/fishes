@@ -1,0 +1,385 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 480
+Number of records retrieved in searches: 2099
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 104
+	Country: Canada ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 28
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 179
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 6
+	Country: Hungary ; Times: 2
+	Country: New Zealand ; Times: 131
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 13
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 53
+	Date: 2019-10-20 ; Times: 6
+	Date: 2019-10-27 ; Times: 45
+	Date: 2019-10-25 ; Times: 22
+	Date: 2019-10-24 ; Times: 108
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 5
+	Date: 2019-10-02 ; Times: 12
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 10
+	Date: 2019-10-23 ; Times: 76
+	Date: 2019-10-22 ; Times: 3
+	Date: 2019-10-29 ; Times: 3
+	Date: 2019-10-18 ; Times: 8
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-16 ; Times: 12
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-11 ; Times: 13
+	Date: 2019-10-30 ; Times: 17
+	Date: 2019-10-31 ; Times: 22
+	Date: 2019-10-14 ; Times: 7
+	Date: 2019-10-17 ; Times: 7
+	Date: 2019-10-15 ; Times: 16
+	Date: 2019-10-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhizoprionodon taylori" ; Times: 2
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "ROM 103520" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Narke dipterygia" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "93814" ; Times: 2
+	Query: "Paramonacanthus japonicus mappable:1" ; Times: 4
+	Query: "catalognumber:25102 institutioncode:ROM" ; Times: 1
+	Query: "67214" ; Times: 3
+	Query: "hartii Rivulus" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Malacoraja senta" ; Times: 2
+	Query: "Papyrocranus congoensis" ; Times: 1
+	Query: "ROM 101154" ; Times: 2
+	Query: "ROM 100259" ; Times: 1
+	Query: "rom 98300" ; Times: 2
+	Query: "Scyliorhinus stellaris" ; Times: 2
+	Query: "39463" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Simenchelys parasitica" ; Times: 1
+	Query: "Galeus springeri" ; Times: 1
+	Query: "Dipturus laevis" ; Times: 2
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "ROM 105622" ; Times: 2
+	Query: "Centroscymnus owstonii" ; Times: 2
+	Query: "SP 9397" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "71340" ; Times: 1
+	Query: "Vimba vimba" ; Times: 1
+	Query: "ROM 103455" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "ROM 103456" ; Times: 1
+	Query: "Cercamia ROM" ; Times: 1
+	Query: "Rudarius minutus mappable:1" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "Urotrygon nana" ; Times: 1
+	Query: "toxotes" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "Monacanthus tuckeri mappable:1" ; Times: 2
+	Query: "Myliobatis freminvillei" ; Times: 2
+	Query: "catalognumber:39862 institutioncode:ROM" ; Times: 2
+	Query: "52702" ; Times: 1
+	Query: "Pseudomonacanthus macrurus mappable:1" ; Times: 2
+	Query: "19786" ; Times: 1
+	Query: "Cercamia cladara ROM" ; Times: 2
+	Query: "ROM 37333" ; Times: 1
+	Query: "96152" ; Times: 2
+	Query: "ROM 97750" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "ROM 97412" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "50567" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "ROM 100917" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Breviraja marklei" ; Times: 1
+	Query: "ROM 103211" ; Times: 1
+	Query: "ROM 100857" ; Times: 1
+	Query: "ROM 99834" ; Times: 3
+	Query: "Gymnocephalus baloni" ; Times: 1
+	Query: "invasive species" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "amarus Rhodeus" ; Times: 1
+	Query: "Esox lucius mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Rom 97543" ; Times: 2
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "temensis Cichla" ; Times: 2
+	Query: "Rudarius ercodes mappable:1" ; Times: 2
+	Query: "catalognumber:62287 institutioncode:ROM" ; Times: 1
+	Query: "Engraulis eurystole" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "ROM 101474" ; Times: 2
+	Query: "71718" ; Times: 1
+	Query: "ROM 101000" ; Times: 2
+	Query: "Raja rhina" ; Times: 2
+	Query: "71480" ; Times: 1
+	Query: "Stephanolepis diaspros mappable:1" ; Times: 2
+	Query: "Paracirrhites xanthus" ; Times: 2
+	Query: "ROM 106114" ; Times: 2
+	Query: "Enigmacanthus filamentosus mappable:1" ; Times: 4
+	Query: "Sphyrna media" ; Times: 2
+	Query: "ROM 103198" ; Times: 1
+	Query: "ROM 95625" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "ROM 105726" ; Times: 2
+	Query: "Urotrygon simulatrix" ; Times: 2
+	Query: "ROM 97543" ; Times: 4
+	Query: "Chromis iomelas" ; Times: 3
+	Query: "ROM 70874" ; Times: 4
+	Query: "ROM 98300" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Amanses scopas mappable:1" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "rom 82779" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Nebrius ferrugineus" ; Times: 2
+	Query: "103914" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "ROM 101167" ; Times: 2
+	Query: "64055" ; Times: 1
+	Query: "Paraluteres prionurus mappable:1" ; Times: 2
+	Query: "11893" ; Times: 3
+	Query: "jacobi" ; Times: 1
+	Query: "Proscyllium venustum" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "palustris Potentilla" ; Times: 3
+	Query: "Papyrocranus" ; Times: 1
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "ROM 97732" ; Times: 1
+	Query: "Squaliolus laticaudus" ; Times: 1
+	Query: "Mustelus higmani" ; Times: 1
+	Query: "ROM 97320" ; Times: 4
+	Query: "ROM 104049" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "krameri Umbra" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "ROM 105875" ; Times: 2
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "ROM-91945" ; Times: 1
+	Query: "ROM 105872" ; Times: 1
+	Query: "Squatina squatina" ; Times: 2
+	Query: "ROM 97955" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "ROM 97956" ; Times: 1
+	Query: "Pervagor janthinosoma mappable:1" ; Times: 2
+	Query: "painted turtles" ; Times: 7
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "63118" ; Times: 1
+	Query: "ROM 101302" ; Times: 4
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "70530" ; Times: 1
+	Query: "ROM 95705" ; Times: 2
+	Query: "Carcharhinus amblyrhynchos" ; Times: 2
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "ROM 98060" ; Times: 1
+	Query: "ROM 98061" ; Times: 1
+	Query: "Oreochromis sp" ; Times: 1
+	Query: "ROM 100419" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "ROM 97832" ; Times: 2
+	Query: "11817" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "ROM 103366" ; Times: 4
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "ROM 97925" ; Times: 1
+	Query: "ROM 97926" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "66686" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "Pervagor alternans mappable:1" ; Times: 4
+	Query: "ROM 98714" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "ROM 103411" ; Times: 1
+	Query: "ROM 100949" ; Times: 2
+	Query: "ROM 103413" ; Times: 1
+	Query: "ROM 103412" ; Times: 1
+	Query: "ROM-91958" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "catalognumber:7472 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:28321 institutioncode:ROM" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "ZMUC" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 2
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 1
+	Query: "Notemigonus crysoleucas mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "ROM 98466" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 2
+	Query: "69978" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "ROM 98467" ; Times: 4
+	Query: "Prionace glauca" ; Times: 2
+	Query: "ROM 96276" ; Times: 2
+	Query: "ROM 105671" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "ROM 95626" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "Lamna nasus" ; Times: 2
+	Query: "ROM 99223" ; Times: 2
+	Query: "ROM 99786" ; Times: 2
+	Query: "ROM 99787" ; Times: 4
+	Query: "Diplobatis pictus" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Esox masquinongy mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "Leuciscus waleckii" ; Times: 1
+	Query: "ROM 106017" ; Times: 1
+	Query: "ROM 97924" ; Times: 1
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "Sander canadensis" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "ROM 105913" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Notropis hudsonius mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Acreichthys tomentosus mappable:1" ; Times: 2
+	Query: "ROM 99284" ; Times: 4
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "52049" ; Times: 1
+	Query: "Urobatis jamaicensis" ; Times: 2
+	Query: "ROM 104000" ; Times: 2
+	Query: "12619" ; Times: 2
+	Query: "asper Cottus" ; Times: 4
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "Torpedo sinuspersici" ; Times: 1
+	Query: "ROM 37809" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "Cantherhines dumerilii mappable:1" ; Times: 2
+	Query: "51716" ; Times: 1
+	Query: "Euprotomicrus bispinatus" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "rmnh" ; Times: 1
+	Query: "catalognumber:89496 institutioncode:ROM" ; Times: 2
+	Query: "Urotrygon microphthalmum" ; Times: 1
+	Query: "ROM 104043" ; Times: 2
+	Query: "ROM 101366" ; Times: 4
+	Query: "Centroscyllium fabricii" ; Times: 1
+	Query: "ROM 83928" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "Notropis rubellus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "catalognumber:60631 institutioncode:ROM" ; Times: 1
+	Query: "67534" ; Times: 1
+	Query: "Anacanthus barbatus mappable:1" ; Times: 2
+	Query: "Hydrolagus affinis" ; Times: 2
+	Query: "ROM 98321" ; Times: 1
+	Query: "ROM 99239" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "ROM 101507" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Pervagor nigrolineatus mappable:1" ; Times: 2
+	Query: "ROM 103538" ; Times: 1
+	Query: "Leucoraja ocellata" ; Times: 2
+	Query: "ROM 99830" ; Times: 2
+	Query: "ROM 101223" ; Times: 2
+	Query: "ROM 100981" ; Times: 4
+	Query: "Etmopterus pusillus" ; Times: 2
+	Query: "cichla monoculus" ; Times: 1
+	Query: "ROM 100982" ; Times: 2
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "ROM 105765" ; Times: 2
+	Query: "19803" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "Cantherhines pardalis mappable:1" ; Times: 2
+	Query: "ROM 40533" ; Times: 1
+	Query: "&#34;Cheilopogon cyanopterus&#34;" ; Times: 1
+	Query: "ROM 101461" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "ROM 105807" ; Times: 2
+	Query: "Protopterus" ; Times: 1
+	Query: "Pervagor melanocephalus mappable:1" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "ROM 105758" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Chromis agilis" ; Times: 1
+	Query: "ROM 101128" ; Times: 1
+	Query: "Pervagor aspricaudus mappable:1" ; Times: 2
+	Query: "ROM 105993" ; Times: 1
+	Query: "Carcharhinus albimarginatus" ; Times: 2
+	Query: "Urotrygon chilensis" ; Times: 2
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "ROM 100870" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "ROM 97994" ; Times: 2
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+	Query: "Apristurus profundorum" ; Times: 2
+	Query: "catalognumber:15063 institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1308 download events in this period)
+Total number of records downloaded: 5350
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gobius" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "porites porites" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 1
+
+
+End of report.
