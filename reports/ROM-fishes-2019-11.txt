@@ -1,0 +1,252 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 1651
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: Brazil ; Times: 11
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 4
+	Country: France ; Times: 6
+	Country: United States ; Times: 129
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 6
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 16
+	Date: 2019-11-15 ; Times: 39
+	Date: 2019-11-14 ; Times: 13
+	Date: 2019-11-17 ; Times: 2
+	Date: 2019-11-16 ; Times: 19
+	Date: 2019-11-11 ; Times: 7
+	Date: 2019-11-10 ; Times: 6
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-08 ; Times: 10
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-20 ; Times: 8
+	Date: 2019-11-21 ; Times: 10
+	Date: 2019-11-22 ; Times: 12
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-24 ; Times: 8
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-26 ; Times: 5
+	Date: 2019-11-27 ; Times: 4
+	Date: 2019-11-06 ; Times: 14
+	Date: 2019-11-07 ; Times: 2
+	Date: 2019-11-04 ; Times: 8
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:71073 institutioncode:ROM" ; Times: 1
+	Query: "54056" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "wilder genus:gasterosteus" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "17921" ; Times: 1
+	Query: "catalognumber:9126 institutioncode:ROM" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "cetostoma" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 2
+	Query: "NK 9722" ; Times: 1
+	Query: "catalognumber:3438 institutioncode:ROM" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 3
+	Query: "80642" ; Times: 1
+	Query: "etmopterus" ; Times: 5
+	Query: "18819" ; Times: 1
+	Query: "catalognumber:16723 institutioncode:ROM" ; Times: 1
+	Query: "Centropomus undecimalis vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;michigan&#34; year &gt;= 200 year &lt;= 2019" ; Times: 1
+	Query: "95833" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "locality:bonney" ; Times: 3
+	Query: "31201" ; Times: 1
+	Query: "Vimba vimba" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "catalognumber:3979 institutioncode:ROM" ; Times: 1
+	Query: "recordedby:Willis institutioncode:ROM" ; Times: 3
+	Query: "Odonata" ; Times: 2
+	Query: "stenodus" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "jaguar" ; Times: 3
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Brotula multibarbata" ; Times: 1
+	Query: "Epinephelus marginatus mappable:1" ; Times: 1
+	Query: "mene maculata" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "catalognumber:6989 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "johnius dussumieri" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "Doryrhamphus janssi" ; Times: 1
+	Query: "microspathodon chrysurus" ; Times: 1
+	Query: "COI" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "Scarus ghobban vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "Cetorhinus maximus vntype:specimen" ; Times: 2
+	Query: "97825" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "mastacembelus brichardi" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 2
+	Query: "Caranx sexfasciatus" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "catalognumber:42421 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:12481 institutioncode:ROM" ; Times: 1
+	Query: "C. aquilus" ; Times: 2
+	Query: "Acrocheilus alutaceus" ; Times: 2
+	Query: "20532" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "aluterus scriptus" ; Times: 1
+	Query: "catalognumber:90428 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "86545" ; Times: 1
+	Query: "catalognumber:35330 institutioncode:ROM" ; Times: 1
+	Query: "arum" ; Times: 2
+	Query: "86668" ; Times: 1
+	Query: "sternopygus macrurus" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "Aspius aspius" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "95836" ; Times: 1
+	Query: "scott genus:gasterosteus" ; Times: 2
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "Barbus unitaeniatus" ; Times: 1
+	Query: "trichiurus lepturus vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "Opsaridium microcephalum" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "catalognumber:54585 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "cypselurus callopterus" ; Times: 2
+	Query: "family:Heptapteridae institutioncode:ROM" ; Times: 2
+	Query: "61132" ; Times: 1
+	Query: "W. T. Everett" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "stuart willis" ; Times: 2
+	Query: "Turtle Thailand" ; Times: 1
+	Query: "Acarichthys" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "trichiurus lepturus vntype:specimen year &gt;= 2015" ; Times: 1
+	Query: "hemigrammus rhodostomus" ; Times: 2
+	Query: "Cypselurus callopterus" ; Times: 2
+	Query: "35568" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "catalognumber:73145 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "catalognumber:97481 institutioncode:ROM" ; Times: 1
+	Query: "Rhincodon typus vntype:specimen" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "catalognumber:10108 institutioncode:ROM" ; Times: 1
+	Query: "kneria vntype:specimen hastypestatus:1" ; Times: 1
+	Query: "Turtle Phuket" ; Times: 1
+	Query: "Similan Thailand" ; Times: 4
+	Query: "Leuciscus waleckii" ; Times: 1
+	Query: "johannae" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 2
+	Query: "Kneria vntype:specimen hastypestatus:1" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "catalognumber:97591 institutioncode:ROM" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "ROM 5096" ; Times: 2
+	Query: "53626" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "54466" ; Times: 1
+	Query: "Sparisoma chrysopterum" ; Times: 1
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;ontario&#34; year &gt;= 200 year &lt;= 2019" ; Times: 1
+	Query: "atlantic salmon" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "catalognumber:11614 institutioncode:ROM" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Barbus poechii" ; Times: 1
+	Query: "Lasiancistrus" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "catalognumber:43768 institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1367 download events in this period)
+Total number of records downloaded: 96
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "etmopterus" ; Times: 1
+	Query: "Odonata" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;south carolina&#34; year &gt;= 200 year &lt;= 2019" ; Times: 2
+	Query: "Acrocheilus alutaceus" ; Times: 1
+	Query: "arum" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
