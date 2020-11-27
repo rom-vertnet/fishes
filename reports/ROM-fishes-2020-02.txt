@@ -1,0 +1,386 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 340
+Number of records retrieved in searches: 1783
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Venezuela ; Times: 3
+	Country: South Africa ; Times: 3
+	Country: France ; Times: 65
+	Country: United Kingdom ; Times: 6
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 12
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 10
+	Country: United States ; Times: 218
+	Country: Ecuador ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 83
+	Date: 2020-02-02 ; Times: 50
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-07 ; Times: 4
+	Date: 2020-02-04 ; Times: 21
+	Date: 2020-02-23 ; Times: 4
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 10
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 6
+	Date: 2020-02-13 ; Times: 6
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 16
+	Date: 2020-02-17 ; Times: 22
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 11
+	Date: 2020-02-24 ; Times: 5
+	Date: 2020-02-03 ; Times: 46
+	Date: 2020-02-27 ; Times: 19
+	Date: 2020-02-06 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Parupeneus chrysonemus mappable:1" ; Times: 1
+	Query: "nematogobius" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "Scarus coelestinus mappable:1" ; Times: 1
+	Query: "Parupeneus insularis mappable:1" ; Times: 2
+	Query: "scardinius erythrophthalmus" ; Times: 2
+	Query: "36877" ; Times: 1
+	Query: "scientificname:(Notropis shumardi) country:United States mappable:1" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "scientificname:(Chrosomus neogaeus OR Phoxinus neogaeus) country:United States mappable:1" ; Times: 2
+	Query: "Haemulon carbonarium mappable:1" ; Times: 1
+	Query: "Istiophorus albicans mappable:1" ; Times: 1
+	Query: "catalognumber:15697 institutioncode:ROM" ; Times: 1
+	Query: "Mushroom" ; Times: 1
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 1
+	Query: "Ateleopodidae" ; Times: 1
+	Query: "scientificname:Mullus auratus mappable:1" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "scientificname:Upeneus parvus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Haemulon melanurum mappable:1" ; Times: 1
+	Query: "Eucinostomus havana mappable:1" ; Times: 1
+	Query: "rom 21658" ; Times: 3
+	Query: "arapaima" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 2
+	Query: "98368" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "54329" ; Times: 2
+	Query: "scientificname:Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "&#34;North Bay&#34; vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "scientificname:Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "Anchoa cayorum mappable:1" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "scientificname:Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "scientificname:Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "ROM 52582" ; Times: 2
+	Query: "Cynoscion jamaicensis mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "scientificname:Upeneus japonicus mappable:1" ; Times: 2
+	Query: "scientificname:Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "scientificname:Parupeneus margaritatus mappable:1" ; Times: 1
+	Query: "Dos rios Ecuador -Pichincha" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "72167" ; Times: 1
+	Query: "chromogobius" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "scientificname:Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "scientificname:Upeneus vittatus mappable:1" ; Times: 1
+	Query: "WFS" ; Times: 2
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "croilia" ; Times: 1
+	Query: "Liparis fucensis" ; Times: 1
+	Query: "scientificname:Mullus barbatus ponticus mappable:1" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "rhinogobius" ; Times: 7
+	Query: "scientificname:(Exoglossum laurae) country:United States mappable:1" ; Times: 1
+	Query: "Mullus barbatus ponticus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Thunnus atlanticus mappable:1" ; Times: 1
+	Query: "ROM 23336" ; Times: 2
+	Query: "80282" ; Times: 1
+	Query: "scientificname:Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "Equetus punctatus mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "Cottus gobio" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "Anisotremus virginicus mappable:1" ; Times: 1
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "Parupeneus chrysonemus mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 2
+	Query: "Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "Brycon chagrensis" ; Times: 1
+	Query: "ROM 35902" ; Times: 1
+	Query: "scientificname:(Etheostoma tippecanoe) country:United States mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "scientificname:Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "KEN 409" ; Times: 1
+	Query: "zebrus" ; Times: 1
+	Query: "ROM 32032" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "hetereleotris" ; Times: 1
+	Query: "scientificname:Parupeneus porphyreus mappable:1" ; Times: 1
+	Query: "stegostoma" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "scientificname:Parupeneus insularis mappable:1" ; Times: 3
+	Query: "41501" ; Times: 2
+	Query: "Poecilia picta" ; Times: 3
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Gymnotus panamensis" ; Times: 2
+	Query: "Haemulon plumieri mappable:1" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "ROM 35245" ; Times: 2
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "Centropomus pectinatus mappable:1" ; Times: 1
+	Query: "locality:Santa Ana country:&#34;Peru&#34;" ; Times: 1
+	Query: "Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "ROM 37941" ; Times: 2
+	Query: "39229" ; Times: 1
+	Query: "Parupeneus margaritatus mappable:1" ; Times: 1
+	Query: "Eucinostomus jonesii mappable:1" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "cetorhinus" ; Times: 1
+	Query: "institutioncode:ROM 96679" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "specificepithet:valentini institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "institutioncode:ROM 34975" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "tukugobius" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "Corvula sanctaeluciae mappable:1" ; Times: 1
+	Query: "catalognumber:101294 institutioncode:ROM" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Tilapia guineensis" ; Times: 1
+	Query: "scientificname:Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "Pseudupeneus prayensis mappable:1" ; Times: 1
+	Query: "BLS 10725" ; Times: 2
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "scientificname:(Etheostoma trisella) country:United States mappable:1" ; Times: 1
+	Query: "caffrogobius" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 2
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "Urobatis jamaicensis mappable:1" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 1
+	Query: "ROM 31031" ; Times: 3
+	Query: "98369" ; Times: 3
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "Amatitlania" ; Times: 1
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 2
+	Query: "(panda)" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "14244" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "Brachionichthys" ; Times: 1
+	Query: "ROM 3088" ; Times: 1
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "Tcwc and apistogramma" ; Times: 1
+	Query: "ROM 17499" ; Times: 2
+	Query: "scientificname:Pseudupeneus prayensis mappable:1" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Hyphessobrycon savagei" ; Times: 2
+	Query: "stateprovince:&#34;Quebec&#34; year &gt;= 2000 year &lt;= 2020 institutioncode:ROM" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "scientificname:Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "coryogalops" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "Barbus anoplus" ; Times: 1
+	Query: "molidae" ; Times: 2
+	Query: "Awaous Transandeanus" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "ROM 44298" ; Times: 1
+	Query: "Parupeneus porphyreus mappable:1" ; Times: 1
+	Query: "Haemulon parra mappable:1" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "scientificname:Mullus surmuletus mappable:1" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "catalognumber:15607 institutioncode:ROM" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "Ulaema lefroyi mappable:1" ; Times: 1
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "Coregonus albula" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "locality:trout bay institutioncode:ROM" ; Times: 1
+	Query: "scientificname:(Noturus insignis) country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Parupeneus indicus mappable:1" ; Times: 2
+	Query: "Anchoa cubana mappable:1" ; Times: 1
+	Query: "institutioncode:ROM 60440" ; Times: 3
+	Query: "Coregonus lavaretus" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "locality:Lagarto Cocha " ; Times: 1
+	Query: "Microbrotula" ; Times: 1
+	Query: "55671" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "81138" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "ROM 30889" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1023 download events in this period)
+Total number of records downloaded: 7970
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 9
+	Country: United States ; Times: 3
+	Country: Senegal ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-29 ; Times: 3
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "ethmalosa fimbriata" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "&#34;North Bay&#34; vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+
+
+End of report.
