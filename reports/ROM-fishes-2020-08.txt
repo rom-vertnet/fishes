@@ -1,0 +1,301 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 283
+Number of records retrieved in searches: 2514
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Honduras ; Times: 34
+	Country: Peru ; Times: 14
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 17
+	Country: Venezuela ; Times: 2
+	Country: India ; Times: 3
+	Country: Austria ; Times: 3
+	Country: France ; Times: 46
+	Country: United Kingdom ; Times: 50
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Ireland ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 7
+	Country: United States ; Times: 70
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 13
+	Date: 2020-08-29 ; Times: 3
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 4
+	Date: 2020-08-15 ; Times: 2
+	Date: 2020-08-14 ; Times: 7
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-12 ; Times: 15
+	Date: 2020-08-11 ; Times: 8
+	Date: 2020-08-10 ; Times: 5
+	Date: 2020-08-26 ; Times: 28
+	Date: 2020-08-19 ; Times: 24
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-03 ; Times: 9
+	Date: 2020-08-04 ; Times: 3
+	Date: 2020-08-05 ; Times: 13
+	Date: 2020-08-06 ; Times: 19
+	Date: 2020-08-07 ; Times: 22
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-27 ; Times: 16
+	Date: 2020-08-24 ; Times: 10
+	Date: 2020-08-25 ; Times: 4
+	Date: 2020-08-22 ; Times: 3
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-21 ; Times: 64
+
+List of queries that retrieved data from the resource: 
+	Query: "M-46785" ; Times: 1
+	Query: "Pseudobalistes naufragium" ; Times: 1
+	Query: "catalognumber:90837 institutioncode:ROM" ; Times: 2
+	Query: "Roeboides bouchellei" ; Times: 1
+	Query: "Sarotherodon melanotheron" ; Times: 1
+	Query: "Cyphomyrus discorhynchus" ; Times: 1
+	Query: "lithogenes" ; Times: 2
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "Serranochromis robustus" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "Atherinella brasiliensis" ; Times: 2
+	Query: "Elacatinus oceanops" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "ROM 97763" ; Times: 1
+	Query: "101565" ; Times: 1
+	Query: "Bajacalifornia megalops" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Batrachoides surinamensis" ; Times: 1
+	Query: "catalognumber:39441 institutioncode:ROM" ; Times: 2
+	Query: "Squalidus japonicus" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Russia 1901" ; Times: 1
+	Query: "Cottus asper stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "catalognumber:42598 institutioncode:ROM" ; Times: 1
+	Query: "microphis lineatus" ; Times: 1
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "Cottus marginatus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "scartelaos" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Hyporhamphus roberti" ; Times: 1
+	Query: "Cottus bairdi" ; Times: 1
+	Query: "80729" ; Times: 5
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "Istiophorus platypterus" ; Times: 3
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Achirus mazatlanus" ; Times: 2
+	Query: "Acanthemblemaria spinosa" ; Times: 2
+	Query: "Antennarius pauciradiatus" ; Times: 3
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "Atherinella argentea" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Hypleurochilus aequipinnis" ; Times: 2
+	Query: "Abramis brama" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "genus:Scartelaos" ; Times: 1
+	Query: "Arapaima" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "71370" ; Times: 2
+	Query: "Awaous banana" ; Times: 1
+	Query: "Rhamdia guatemalensis" ; Times: 2
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "Heteroconger hassi" ; Times: 1
+	Query: "Kryptophanaron alfredi" ; Times: 2
+	Query: "35359" ; Times: 1
+	Query: "rom 97763" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "Barbatula barbatula" ; Times: 1
+	Query: "rom 96302" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Eutrigla gurnardus" ; Times: 2
+	Query: "panda" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Elopichthys bambusa" ; Times: 1
+	Query: "Micralestes acutidens" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "B. marmoratus" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "Batrachoides waltersi" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "Trachurus mediterraneus" ; Times: 1
+	Query: "ROM 96302" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "Tavara" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Myaka myaka" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 1
+	Query: "ancistrus pirareta" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "Mullus barbatus" ; Times: 2
+	Query: "19285" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "70387" ; Times: 1
+	Query: "Conger triporiceps" ; Times: 1
+	Query: "Caranx bartholomaei" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Sebastes alutus" ; Times: 4
+	Query: "nerophis" ; Times: 1
+	Query: "71376" ; Times: 1
+	Query: "Barbatula toni" ; Times: 1
+	Query: "92740" ; Times: 1
+	Query: "Ammodytes tobianus" ; Times: 2
+	Query: "caranx lugubris" ; Times: 1
+	Query: "69660" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Limanda limanda" ; Times: 1
+	Query: "M-92283" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "25785" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "Electrophorus electricus" ; Times: 6
+	Query: "33873" ; Times: 1
+	Query: "ROM 35245" ; Times: 2
+	Query: "Corydoras aeneus" ; Times: 2
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "ROM 100917" ; Times: 1
+	Query: "Cirrhitus rivulatus" ; Times: 2
+	Query: "Spicara maena" ; Times: 1
+	Query: "Aphyosemion australe" ; Times: 1
+	Query: "ROM 96484" ; Times: 1
+	Query: "Atherinella blackburni" ; Times: 1
+	Query: "Argyropelecus aculeatus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "specificepithet:agassizii genus:Alepocephalus" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Lefua echigonia" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "Ogilbia suarezae" ; Times: 2
+	Query: "Pollachius virens" ; Times: 2
+	Query: "genus:Periophthalmodon" ; Times: 1
+	Query: "Ariomma bondi" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 4
+	Query: "Gnathonemus petersii" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Cyathochromis obliquidens" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 1
+	Query: "Petrocephalus simus" ; Times: 1
+	Query: "105735" ; Times: 1
+	Query: "70345" ; Times: 2
+	Query: "Lefua nikkonis" ; Times: 1
+	Query: "Caristius" ; Times: 2
+	Query: "Pungitius platygaster" ; Times: 1
+	Query: "Chaenopsis limbaughi" ; Times: 2
+	Query: "Neolebias unifasciatus" ; Times: 1
+	Query: "Distichodus sexfasciatus" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "rom 96484" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "ROM 54534" ; Times: 2
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "genus:Cetomimus" ; Times: 2
+	Query: "Brycinus imberi" ; Times: 1
+	Query: "Membras gilberti" ; Times: 1
+	Query: "Microphis brachyurus lineatus" ; Times: 1
+	Query: "Squalidus gracilis" ; Times: 1
+	Query: "Ancistrus pirareta" ; Times: 1
+	Query: "Bothus leopardinus" ; Times: 1
+	Query: "Benthophilus stellatus" ; Times: 2
+	Query: "Thunnus thynnus" ; Times: 2
+	Query: "Centropomus ensiferus" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Placidochromis longimanus" ; Times: 1
+	Query: "Alepocephalus agassizii" ; Times: 1
+	Query: "101570" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "ROM 35664" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "Mullus barbatus ponticus" ; Times: 1
+	Query: "52769" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "Coralliozetus cardonae" ; Times: 2
+	Query: "Acipenser ruthenus" ; Times: 1
+	Query: "ROM 37080" ; Times: 2
+	Query: "Ballerus ballerus" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "M-95968" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "47505" ; Times: 1
+	Query: "Nero" ; Times: 2
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "71606" ; Times: 1
+	Query: "anchovia clupeoides" ; Times: 1
+	Query: "Merlangius merlangus" ; Times: 3
+	Query: "Kryptolebias marmoratus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 756 download events in this period)
+Total number of records downloaded: 275
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
