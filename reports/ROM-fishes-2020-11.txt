@@ -1,0 +1,732 @@
+Report for Institution Code ROM, Resource fishes
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 984
+Number of records retrieved in searches: 14875
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 48
+	Country: United States ; Times: 136
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 86
+	Country: United Kingdom ; Times: 601
+	Country: Vietnam ; Times: 2
+	Country: Jordan ; Times: 10
+	Country: Ecuador ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Belgium ; Times: 19
+	Country: Germany ; Times: 5
+	Country: Venezuela ; Times: 19
+	Country: Russia ; Times: 30
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-22 ; Times: 2
+	Date: 2020-11-23 ; Times: 25
+	Date: 2020-11-24 ; Times: 26
+	Date: 2020-11-25 ; Times: 34
+	Date: 2020-11-26 ; Times: 47
+	Date: 2020-11-09 ; Times: 8
+	Date: 2020-11-06 ; Times: 20
+	Date: 2020-11-07 ; Times: 5
+	Date: 2020-11-04 ; Times: 11
+	Date: 2020-11-05 ; Times: 17
+	Date: 2020-11-02 ; Times: 586
+	Date: 2020-11-03 ; Times: 6
+	Date: 2020-11-01 ; Times: 6
+	Date: 2020-11-08 ; Times: 9
+	Date: 2020-11-27 ; Times: 14
+	Date: 2020-11-28 ; Times: 11
+	Date: 2020-11-29 ; Times: 19
+	Date: 2020-11-19 ; Times: 7
+	Date: 2020-11-18 ; Times: 10
+	Date: 2020-11-30 ; Times: 22
+	Date: 2020-11-15 ; Times: 22
+	Date: 2020-11-14 ; Times: 7
+	Date: 2020-11-17 ; Times: 7
+	Date: 2020-11-16 ; Times: 21
+	Date: 2020-11-10 ; Times: 23
+	Date: 2020-11-13 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 2
+	Query: "Siniperca scherzeri" ; Times: 2
+	Query: "Chlorurus sordidus" ; Times: 1
+	Query: "specificepithet:argentiventris genus:Lutjanus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sphyraena jello" ; Times: 1
+	Query: "Naso thynnoides" ; Times: 1
+	Query: "Apistogramma agassizii" ; Times: 2
+	Query: "Triplophysa" ; Times: 1
+	Query: "Sarotherodon melanotheron" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Exocoetus volitans" ; Times: 1
+	Query: "Papyrocranus congoensis" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 2
+	Query: "plectorhinchus vittatus" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 5
+	Query: "Abudefduf vaigiensis" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "Neopomacentrus metallicus" ; Times: 3
+	Query: "Pelates quadrilineatus" ; Times: 6
+	Query: "Lutjanus quinquelineatus" ; Times: 2
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "Callionymus pusillus" ; Times: 2
+	Query: "Oxylebius pictus" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 3
+	Query: "Sicyopterus longifilis" ; Times: 1
+	Query: "genus:Orthopristis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Decapterus macrosoma" ; Times: 2
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "catalognumber:51695" ; Times: 2
+	Query: "Gymnocephalus cernuus" ; Times: 1
+	Query: "specificepithet:atropurpureus genus:Xiphister stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "14187" ; Times: 1
+	Query: "scientificname:Gymnura altavela" ; Times: 1
+	Query: "Cephalopholis sexmaculata" ; Times: 2
+	Query: "ROM 64983" ; Times: 1
+	Query: "Aphanius iberus" ; Times: 2
+	Query: "blenniidae pakistan" ; Times: 2
+	Query: "ROM 68438" ; Times: 1
+	Query: "Stethojulis interrupta" ; Times: 3
+	Query: "Trachinotus ovatus" ; Times: 1
+	Query: "63396" ; Times: 1
+	Query: "13425" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "genus:Anisotremus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Carassius gibelio" ; Times: 1
+	Query: "Micralestes acutidens" ; Times: 2
+	Query: "Monodactylus argenteus" ; Times: 5
+	Query: "Decapterus tabl" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "Caranx sexfasciatus" ; Times: 2
+	Query: "Salmo salar" ; Times: 5
+	Query: "specificepithet:holocanthus genus:Diodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hemiramphus far" ; Times: 2
+	Query: "Thryssa setirostris" ; Times: 3
+	Query: "catalognumber:38104 institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:26397 institutioncode:ROM" ; Times: 1
+	Query: "alloblennius parvus" ; Times: 1
+	Query: "Coris dorsomacula" ; Times: 2
+	Query: "Deltentosteus quadrimaculatus" ; Times: 1
+	Query: "Cottus gobio" ; Times: 1
+	Query: "HENONEMUS TAXISTIGMUS" ; Times: 2
+	Query: "Sarcocheilichthys soldatovi" ; Times: 1
+	Query: "specificepithet:sialis genus:Argentina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "antennablennius bifilum" ; Times: 1
+	Query: "Rhodeus amarus" ; Times: 3
+	Query: "Coris hewetti" ; Times: 2
+	Query: "Encrasicholina punctifer" ; Times: 2
+	Query: "Scorpaenopsis ramaraoi" ; Times: 2
+	Query: "Solenostomus" ; Times: 3
+	Query: "Clarias theodorae" ; Times: 2
+	Query: "Rhamphochromis esox" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 1
+	Query: "specificepithet:maeandricus genus:Gobiesox stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Diplectrum stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Prognichthys sealei" ; Times: 1
+	Query: "Chromogobius quadrivittatus" ; Times: 1
+	Query: "Labropsis australis" ; Times: 2
+	Query: "Cynotilapia afra" ; Times: 1
+	Query: "genus:Idiacanthus distance(location,geopoint(32.700495616813235,-117.19482421875))&lt;100000" ; Times: 2
+	Query: "specificepithet:caballus genus:Caranx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 1
+	Query: "scartella emarginata" ; Times: 1
+	Query: "Ulvaria subbifurcata" ; Times: 1
+	Query: "Kuwait" ; Times: 10
+	Query: "Lepomis punctatus" ; Times: 1
+	Query: "ANABLEPSOIDES MAZARUNI" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Epinephelus malabaricus" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 1
+	Query: "Kyphosus vaigiensis" ; Times: 1
+	Query: "Oxyporhamphus micropterus" ; Times: 1
+	Query: "Megalaspis cordyla" ; Times: 5
+	Query: "Pandaka trimaculata" ; Times: 2
+	Query: "Hirundichthys rondeletii" ; Times: 1
+	Query: "Cypselurus opisthopus" ; Times: 1
+	Query: "Xenocypris macrolepis" ; Times: 1
+	Query: "specificepithet:rubellio genus:Oligocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cypselurus naresii" ; Times: 1
+	Query: "ROM 97924" ; Times: 1
+	Query: "Exoglossum laurae" ; Times: 6
+	Query: "Schizothorax lissolabiatus" ; Times: 1
+	Query: "Pterois volitans" ; Times: 3
+	Query: "46899" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 2
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "Lefua echigonia" ; Times: 1
+	Query: "Caesio xanthonota" ; Times: 1
+	Query: "83586" ; Times: 1
+	Query: "Siganus fuscescens" ; Times: 1
+	Query: "ROM 36047" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "Gerres oyena" ; Times: 1
+	Query: "Sicyopterus lividus" ; Times: 1
+	Query: "35575" ; Times: 1
+	Query: "Chrosomus eos" ; Times: 1
+	Query: "Gnathonemus petersii" ; Times: 1
+	Query: "Platycephalus indicus" ; Times: 3
+	Query: "Symphodus roissali" ; Times: 2
+	Query: "Aidablennius sphynx" ; Times: 1
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "50647" ; Times: 1
+	Query: "Eleotris melanosoma" ; Times: 2
+	Query: "Remora osteochir" ; Times: 1
+	Query: "Diaphus luetkeni" ; Times: 1
+	Query: "Cymolutes praetextatus" ; Times: 3
+	Query: "glyptoparus delicatulus" ; Times: 1
+	Query: "Naso lopezi" ; Times: 2
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 4
+	Query: "Gerres filamentosus" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 3
+	Query: "channa argus" ; Times: 1
+	Query: "28568" ; Times: 1
+	Query: "Butis koilomatodon" ; Times: 4
+	Query: "Lutjanus rivulatus" ; Times: 1
+	Query: "Labroides pectoralis" ; Times: 2
+	Query: "Spratelloides robustus" ; Times: 2
+	Query: "Brycinus imberi" ; Times: 2
+	Query: "PARODON GUYANENSIS" ; Times: 2
+	Query: "Gobio soldatovi" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 2
+	Query: "Gnatholepis anjerensis" ; Times: 3
+	Query: "locality:Mejia" ; Times: 1
+	Query: "Favonigobius melanobranchus" ; Times: 1
+	Query: "Liza saliens" ; Times: 1
+	Query: "Petroscirtes mitratus" ; Times: 2
+	Query: "Eleotris fusca" ; Times: 2
+	Query: "Periophthalmus minutus" ; Times: 2
+	Query: "Petroscirtes variabilis" ; Times: 1
+	Query: "mappable:1 scientificname:Solea solea" ; Times: 2
+	Query: "Clupeonella cultriventris" ; Times: 1
+	Query: "Aphareus furca" ; Times: 2
+	Query: "Blicca bjoerkna" ; Times: 2
+	Query: "specificepithet:mystinus genus:Sebastes" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "A-95097" ; Times: 1
+	Query: "Anguilla reinhardti" ; Times: 2
+	Query: "scientificname:Gobius fallax" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "specificepithet:frenata genus:Zaniolepis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 2
+	Query: "Cheilopogon suttoni" ; Times: 1
+	Query: "Tactostoma macropus" ; Times: 1
+	Query: "genus:Calamus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Gerres longirostris" ; Times: 3
+	Query: "scientificname:Halobatrachus didactylus" ; Times: 1
+	Query: "Apodichthys flavidus" ; Times: 1
+	Query: "Pterocaesio trilineata" ; Times: 1
+	Query: "Cheilopogon spilonotopterus" ; Times: 1
+	Query: "Redpath Museum" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 2
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 1
+	Query: "ROM 77744" ; Times: 1
+	Query: "Arothron manilensis" ; Times: 4
+	Query: "Misgurnus anguillicaudatus" ; Times: 2
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "Oncorhynchus clarkii" ; Times: 1
+	Query: "Megalops cyprinoides" ; Times: 2
+	Query: "Pseudocoris yamashiroi" ; Times: 2
+	Query: "Coris debueni" ; Times: 2
+	Query: "Mormyrops anguilloides" ; Times: 1
+	Query: "Parexocoetus brachypterus" ; Times: 2
+	Query: "genus:Cetostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Leuciscus waleckii" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 3
+	Query: "Aulopus filamentosus" ; Times: 2
+	Query: "Caspiomyzon wagneri" ; Times: 1
+	Query: "Heros severus" ; Times: 1
+	Query: "Limnocottus godlewskii" ; Times: 1
+	Query: "GUIANACARA CUYUNII" ; Times: 1
+	Query: "fowleria indian ocean" ; Times: 2
+	Query: "Callionymus curvicornis" ; Times: 1
+	Query: "Lepidotrigla guentheri" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 4
+	Query: "Cheilopogon exsiliens" ; Times: 1
+	Query: "Pomacanthus maculosus" ; Times: 1
+	Query: "specificepithet:decagrammus genus:Hexagrammos stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sphyraena obtusata" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 2
+	Query: "specificepithet:rhodopus genus:Trachinotus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Gobius paganellus" ; Times: 1
+	Query: "Trachurus lathami" ; Times: 1
+	Query: "Lutjanus kasmira" ; Times: 2
+	Query: "Crystallogobius linearis" ; Times: 1
+	Query: "Elopichthys bambusa" ; Times: 1
+	Query: "ROM 30263" ; Times: 1
+	Query: "genus:Prionurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "apogonichthys perdix" ; Times: 1
+	Query: "Hucho hucho" ; Times: 2
+	Query: "22086" ; Times: 1
+	Query: "Lutjanus fulvus" ; Times: 2
+	Query: "mappable:1 scientificname:Chaetodon rainfordi" ; Times: 2
+	Query: "47889" ; Times: 1
+	Query: "mappable:1 scientificname:Pollachius virens" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 3
+	Query: "Upeneus sundaicus" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "Diplodus vulgaris" ; Times: 1
+	Query: "belonesox" ; Times: 3
+	Query: "specificepithet:curema genus:Mugil stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "Betta splendens" ; Times: 1
+	Query: "Priacanthus tayenus" ; Times: 2
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "genus:Pontinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Johnius amblycephalus" ; Times: 1
+	Query: "enigmaticus" ; Times: 1
+	Query: "Lutjanus bengalensis" ; Times: 2
+	Query: "genus:Chitonotus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Leptoscarus vaigiensis" ; Times: 3
+	Query: "Siganus spinus" ; Times: 1
+	Query: "Cephalopholis cyanostigma" ; Times: 2
+	Query: "specificepithet:recalvus genus:Clinocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acanthurus japonicus" ; Times: 1
+	Query: "46277" ; Times: 1
+	Query: "Caranx latus" ; Times: 2
+	Query: "Bostrychus sinensis" ; Times: 2
+	Query: "Acipenser oxyrhynchus" ; Times: 1
+	Query: "Coryphoblennius galerita" ; Times: 1
+	Query: "salarias sinuosus" ; Times: 1
+	Query: "Cobitis striata" ; Times: 2
+	Query: "Calotomus carolinus" ; Times: 2
+	Query: "Pseudobalistes flavimarginatus" ; Times: 1
+	Query: "Aldrichetta forsteri" ; Times: 1
+	Query: "Siganus canaliculatus" ; Times: 1
+	Query: "Lethrinus mahsena" ; Times: 1
+	Query: "Chrosomus neogaeus" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Anabas testudineus" ; Times: 2
+	Query: "Atherinomorus lacunosus" ; Times: 1
+	Query: "ROM 98714" ; Times: 1
+	Query: "ROM 103411" ; Times: 1
+	Query: "Squalidus gracilis" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 2
+	Query: "Rhodeus sericeus" ; Times: 2
+	Query: "Sabanejewia aurata" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 1
+	Query: "genus:Stegastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "Steindachnerina vari" ; Times: 1
+	Query: "Dasyatis centroura" ; Times: 1
+	Query: "Cottus ricei" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 2
+	Query: "Oxyporhamphus similis" ; Times: 1
+	Query: "scientificname:Gobius bucchichi" ; Times: 1
+	Query: "scientificname:Galeoides decadactylus" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 3
+	Query: "Cypselurus oligolepis" ; Times: 1
+	Query: "genus:Cirrhitus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Haemomaster venezuelae" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:Hexagrammos stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Comephorus dybowskii" ; Times: 2
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "genus:Pomacanthus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Scomberoides lysan" ; Times: 1
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 1
+	Query: "Sicyopterus sarasini" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "Cobitis biwae" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Rineloricaria parva" ; Times: 1
+	Query: "Arothron stellatus" ; Times: 2
+	Query: "Thysanophrys chiltonae" ; Times: 2
+	Query: "Acipenser nudiventris" ; Times: 3
+	Query: "20507" ; Times: 1
+	Query: "Cypselurus angusticeps" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Microphysogobio amurensis" ; Times: 1
+	Query: "mappable:1 scientificname:Gadus morhua" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 3
+	Query: "Sarcocheilichthys czerskii" ; Times: 1
+	Query: "Couesius plumbeus" ; Times: 1
+	Query: "ROM 103412" ; Times: 1
+	Query: "Callechelys catostoma" ; Times: 3
+	Query: "Coregonus nelsonii" ; Times: 3
+	Query: "scientificname:Bison bison" ; Times: 4
+	Query: "Bryconops magoi" ; Times: 1
+	Query: "Carassius carassius" ; Times: 1
+	Query: "Ballerus ballerus" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 3
+	Query: "Chirocentrus dorab" ; Times: 1
+	Query: "Caesio teres" ; Times: 1
+	Query: "specificepithet:mystes genus:Scorpaena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acanthurus blochii" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "genus:Sufflamen stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cyphomyrus discorhynchus" ; Times: 1
+	Query: "Rhodeus ocellatus" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Kyphosus cinerascens" ; Times: 2
+	Query: "Cephalopholis boenak" ; Times: 2
+	Query: "Capoeta capoeta" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "genus:Serranus stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Vimba vimba" ; Times: 2
+	Query: "Eumesogrammus praecisus" ; Times: 1
+	Query: "Platax teira" ; Times: 2
+	Query: "Cephalopholis hemistiktos" ; Times: 2
+	Query: "Platax orbicularis" ; Times: 2
+	Query: "62435" ; Times: 2
+	Query: "Cephalopholis urodeta" ; Times: 2
+	Query: "Uraspis uraspis" ; Times: 1
+	Query: "Ammodytes hexapterus" ; Times: 2
+	Query: "51561" ; Times: 1
+	Query: "Gazza minuta" ; Times: 5
+	Query: "Cobitis taenia" ; Times: 7
+	Query: "Siganus sutor" ; Times: 1
+	Query: "Rhabdamia gracilis" ; Times: 1
+	Query: "CATHOROPS SPIXII" ; Times: 1
+	Query: "jaguar" ; Times: 3
+	Query: "Lutjanus argentimaculatus" ; Times: 4
+	Query: "genus:Euprotomicrus" ; Times: 1
+	Query: "Awaous banana" ; Times: 4
+	Query: "Gobio gobio" ; Times: 4
+	Query: "Brachysomophis crocodilinus" ; Times: 2
+	Query: "Abramis brama" ; Times: 1
+	Query: "catalognumber:94206" ; Times: 1
+	Query: "Odonus niger" ; Times: 2
+	Query: "Silurus glanis" ; Times: 5
+	Query: "omobranchus fasciolatus" ; Times: 1
+	Query: "Psettodes erumei" ; Times: 1
+	Query: "specificepithet:semicinctus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cheilopogon arcticeps" ; Times: 1
+	Query: "Cottocomephorus comephoroides" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 3
+	Query: "catalognumber:47737 institutioncode:ROM" ; Times: 1
+	Query: "Lethenteron camtschaticum" ; Times: 1
+	Query: "Margariscus margarita" ; Times: 1
+	Query: "32554" ; Times: 1
+	Query: "Hexagrammos agrammus" ; Times: 1
+	Query: "Acipenser baerii" ; Times: 1
+	Query: "specificepithet:californiensis genus:Eucinostomus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ROM 42519" ; Times: 1
+	Query: "ANABLEPSOIDES WAIMACUI" ; Times: 2
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "Diaphus garmani" ; Times: 1
+	Query: "genus:Euleptorhamphus" ; Times: 3
+	Query: "Naso lituratus" ; Times: 2
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Salvelinus fontinalis X namaycush" ; Times: 1
+	Query: "Cephalopholis leopardus" ; Times: 2
+	Query: "Caranx ignobilis" ; Times: 2
+	Query: "Acanthurus leucopareius" ; Times: 1
+	Query: "Acipenser schrenki" ; Times: 1
+	Query: "specificepithet:colorado genus:Lutjanus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "51046" ; Times: 1
+	Query: "Manta birostris" ; Times: 2
+	Query: "ROM 30282" ; Times: 1
+	Query: "Parapercis pulchella" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 2
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "Cephalopholis sonnerati" ; Times: 2
+	Query: "Remora remora" ; Times: 1
+	Query: "ROM 41974" ; Times: 1
+	Query: "Amblygobius phalaena" ; Times: 2
+	Query: "Xiphister atropurpureus" ; Times: 1
+	Query: "Parastromateus niger" ; Times: 1
+	Query: "aspidontus dussumieri" ; Times: 1
+	Query: "CYPHOCHARAX MICROCEPHALUS" ; Times: 2
+	Query: "Tatia intermedia" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "fowleria marmorata" ; Times: 2
+	Query: "Diplodus cervinus" ; Times: 1
+	Query: "genus:Xiphister stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Acheilognathus cyanostigma" ; Times: 1
+	Query: "Lethrinus lentjan" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "60802" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 2
+	Query: "Bryconops collettei" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Lota lota" ; Times: 2
+	Query: "Chirocentrus nudus" ; Times: 2
+	Query: "specificepithet:flavidus genus:Apodichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:leptorhynchus genus:Syngnathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ROM 77749" ; Times: 1
+	Query: "ROM 46962" ; Times: 1
+	Query: "Lethrinus obsoletus" ; Times: 1
+	Query: "Salvelinus fontinalis X salvelinus namaycush" ; Times: 1
+	Query: "Terapon jarbua" ; Times: 4
+	Query: "Acanthorhodeus chankaensis" ; Times: 1
+	Query: "Cheilopogon cyanopterus" ; Times: 1
+	Query: "Coris venusta" ; Times: 2
+	Query: "Spinachia spinachia" ; Times: 3
+	Query: "Cobitis elongata" ; Times: 2
+	Query: "specificepithet:interruptus genus:Anisotremus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "apogon campbelli" ; Times: 1
+	Query: "Cheilopogon unicolor" ; Times: 1
+	Query: "Romanogobio tenuicorpus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Pseudorasbora parva" ; Times: 2
+	Query: "53616" ; Times: 1
+	Query: "ROM 68469" ; Times: 1
+	Query: "Pseudanthias squamipinnis" ; Times: 3
+	Query: "Upeneus japonicus" ; Times: 2
+	Query: "Cottus perplexus" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Hucho" ; Times: 1
+	Query: "Bothus podas" ; Times: 1
+	Query: "TCWC 11" ; Times: 1
+	Query: "Parupeneus heptacanthus" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 3
+	Query: "Cryptocentrus melanopus" ; Times: 1
+	Query: "Lethrinus harak" ; Times: 3
+	Query: "Petrocephalus simus" ; Times: 1
+	Query: "Lefua nikkonis" ; Times: 1
+	Query: "Elops saurus" ; Times: 1
+	Query: "Siniperca chuatsi" ; Times: 3
+	Query: "genus:Cebidichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ROM 80823" ; Times: 1
+	Query: "Sillago sihama" ; Times: 5
+	Query: "Arothron immaculatus" ; Times: 1
+	Query: "salarias comoros" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 1
+	Query: "Caesio cuning" ; Times: 2
+	Query: "Coris julis" ; Times: 1
+	Query: "Cephalopholis fulva" ; Times: 2
+	Query: "Epinephelus coioides" ; Times: 1
+	Query: "istiblennius mauritius" ; Times: 2
+	Query: "sphaeramia orbicularis" ; Times: 1
+	Query: "Oxycheilinus bimaculatus" ; Times: 1
+	Query: "36327 rom" ; Times: 1
+	Query: "Hemiramphus lutkei" ; Times: 1
+	Query: "Chondrostoma nasus" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 3
+	Query: "Caranx melampygus" ; Times: 2
+	Query: "Cynoglossus puncticeps" ; Times: 3
+	Query: "apogon talboti" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Epinephelus marginatus" ; Times: 1
+	Query: "genus:Gerres stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 2
+	Query: "catalognumber:31432 institutioncode:ROM" ; Times: 2
+	Query: "Aetobatus narinari" ; Times: 3
+	Query: "petroscirtes variabilis" ; Times: 1
+	Query: "specificepithet:rosacea genus:Mycteroperca stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 2
+	Query: "Bodianus bilunulatus" ; Times: 1
+	Query: "Atherinomorus endrachtensis" ; Times: 1
+	Query: "Lutjanus fulviflamma" ; Times: 5
+	Query: "Ariosoma anago" ; Times: 1
+	Query: "Lutjanus griseus" ; Times: 1
+	Query: "30186" ; Times: 1
+	Query: "scientificname:Argentina sphyraena" ; Times: 2
+	Query: "specificepithet:aurora genus:Micrometrus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Gobio cynocephalus" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Bothus pantherinus" ; Times: 3
+	Query: "Siganus argenteus" ; Times: 1
+	Query: "Hirundichthys oxycephalus" ; Times: 1
+	Query: "mappable:1 scientificname:Pleuronectes platessa" ; Times: 2
+	Query: "Caesio lunaris" ; Times: 1
+	Query: "Stenodus leucichthys" ; Times: 1
+	Query: "Cypselurus poecilopterus" ; Times: 1
+	Query: "Lutjanus vitta" ; Times: 1
+	Query: "Synchiropus splendidus" ; Times: 2
+	Query: "Dipterygonotus balteatus" ; Times: 1
+	Query: "specificepithet:labriformis genus:Epinephelus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Selene setapinnis" ; Times: 1
+	Query: "Squalidus japonicus" ; Times: 1
+	Query: "genus:Girella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "blenniidae oman" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 3
+	Query: "Sillago lutea" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 1
+	Query: "specificepithet:medirostris genus:Acipenser stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "apogon coccineus oman" ; Times: 1
+	Query: "scientificname:Alosa alosa" ; Times: 25
+	Query: "ditrema" ; Times: 1
+	Query: "catalognumber:32033 institutioncode:ROM" ; Times: 1
+	Query: "Lutjanus lemniscatus" ; Times: 1
+	Query: "Brachymystax" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 1
+	Query: "ROM 100857" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "Neoscorpis lithophilus" ; Times: 3
+	Query: "Coris caudimacula" ; Times: 2
+	Query: "Anguilla marmorata" ; Times: 1
+	Query: "Gnathanodon speciosus" ; Times: 2
+	Query: "Kyphosus incisor" ; Times: 1
+	Query: "Astatotilapia calliptera" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "Favonigobius gymnauchen" ; Times: 2
+	Query: "Eutrigla gurnardus" ; Times: 1
+	Query: "Epigonus denticulatus" ; Times: 1
+	Query: "Ochmacanthus flabelliferus" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "specificepithet:gilberti genus:Facciolella stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Hemigrammus newboldi" ; Times: 1
+	Query: "Pagellus bogaraveo" ; Times: 1
+	Query: "Petroscirtes breviceps" ; Times: 3
+	Query: "Myaka myaka" ; Times: 1
+	Query: "lepidogalaxias" ; Times: 1
+	Query: "Trachinotus blochii" ; Times: 1
+	Query: "omobranchus comoros" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Anguilla nebulosa" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "Moringua microchir" ; Times: 2
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "Herklotsichthys quadrimaculatus" ; Times: 1
+	Query: "genus:Chaetodipterus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cottus cognatus" ; Times: 1
+	Query: "scientificname:(Etheostoma zonistium) country:United States mappable:1" ; Times: 1
+	Query: "Pterocaesio tile" ; Times: 1
+	Query: "Barbatula toni" ; Times: 2
+	Query: "Labroides rubrolabiatus" ; Times: 2
+	Query: "Salmo trutta" ; Times: 2
+	Query: "AEQUIDENS POTAROENSIS" ; Times: 1
+	Query: "Samaris cristatus" ; Times: 1
+	Query: "Labroides dimidiatus" ; Times: 2
+	Query: "Thymallus thymallus" ; Times: 1
+	Query: "Crenimugil crenilabis" ; Times: 2
+	Query: "Ariosoma balearicum" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 2
+	Query: "Arothron hispidus" ; Times: 6
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "Sabanejewia balcanica" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 3
+	Query: "Pterocaesio marri" ; Times: 1
+	Query: "Ambassis gymnocephalus" ; Times: 2
+	Query: "Favonigobius reichei" ; Times: 1
+	Query: "Pterois miles" ; Times: 2
+	Query: "Ditrema" ; Times: 7
+	Query: "vntype:specimen specificepithet:semifasciata genus:Triakis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lutjanus decussatus" ; Times: 1
+	Query: "Cheilio inermis" ; Times: 2
+	Query: "Anarhichas denticulatus" ; Times: 1
+	Query: "specificepithet:roncador genus:Umbrina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sicyopterus eudentatus" ; Times: 1
+	Query: "Nannacara anomala" ; Times: 1
+	Query: "specificepithet:rimensis genus:Oligocottus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Cynoglossus itinus" ; Times: 1
+	Query: "37865" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 1
+	Query: "Stomias boa" ; Times: 2
+	Query: "Lethrinus nebulosus" ; Times: 2
+	Query: "exoglossum laurae" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Acanthurus nigricauda" ; Times: 1
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Artedius stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "enchelyurus" ; Times: 1
+	Query: "specificepithet:steindachneri genus:Haemulon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Caesio caerulaurea" ; Times: 2
+	Query: "Parapriacanthus ransonneti" ; Times: 1
+	Query: "Anablepsoides holmiae" ; Times: 1
+	Query: "Leptoclinus maculatus" ; Times: 1
+	Query: "Diplecogaster bimaculata" ; Times: 1
+	Query: "Cyathochromis obliquidens" ; Times: 1
+	Query: "Apodichthys fucorum" ; Times: 1
+	Query: "Epinephelus fasciatus" ; Times: 1
+	Query: "ROM 48716" ; Times: 1
+	Query: "Sander canadensis" ; Times: 2
+	Query: "plagiotremus comoros" ; Times: 1
+	Query: "Carangoides fulvoguttatus" ; Times: 1
+	Query: "Anguilla obscura" ; Times: 1
+	Query: "genus:Prionotus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cottus hangiongensis" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "catalognumber:32032 institutioncode:ROM" ; Times: 2
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "Rhinogobius brunneus" ; Times: 1
+	Query: "Macolor niger" ; Times: 2
+	Query: "Oncorhynchus rhodurus" ; Times: 3
+	Query: "Lutjanus carponotatus" ; Times: 1
+	Query: "Atule mate" ; Times: 2
+	Query: "Acanthurus pyroferus" ; Times: 1
+	Query: "Hirundichthys speculiger" ; Times: 1
+	Query: "Acipenser stellatus" ; Times: 5
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "genus:Facciolella stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "exallias comoros" ; Times: 1
+	Query: "Placidochromis longimanus" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 2
+	Query: "Ptychobarbus kaznakovi" ; Times: 1
+	Query: "Cottus asper" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 1
+	Query: "genus:Scomberomorus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Anguilla bicolor" ; Times: 2
+	Query: "Acanthurus mata" ; Times: 1
+	Query: "genus:Acanthogobius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Serranochromis robustus" ; Times: 1
+	Query: "catalognumber:56576" ; Times: 1
+	Query: "Entosphenus tridentatus" ; Times: 1
+	Query: "ROM 62543" ; Times: 1
+	Query: "ROM 61948" ; Times: 1
+	Query: "Upeneus tragula" ; Times: 3
+	Query: "Pomadasys argenteus" ; Times: 1
+	Query: "Lethenteron appendix" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 842 download events in this period)
+Total number of records downloaded: 329
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Venezuela ; Times: 16
+	Country: Jordan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 2
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-17 ; Times: 5
+	Date: 2020-11-02 ; Times: 3
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-25 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Kuwait" ; Times: 2
+	Query: "genus:Zaniolepis" ; Times: 1
+	Query: "ANABLEPSOIDES MAZARUNI" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "GEOPHAGUS SURINAMENSIS" ; Times: 1
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 1
+	Query: "PARODON GUYANENSIS" ; Times: 1
+	Query: "Hemigrammus newboldi" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "Nannacara anomala" ; Times: 1
+	Query: "HENONEMUS TAXISTIGMUS" ; Times: 1
+	Query: "ANABLEPSOIDES WAIMACUI" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "GUIANACARA CUYUNII" ; Times: 1
+	Query: "Bryconops magoi" ; Times: 1
+	Query: "Steindachnerina vari" ; Times: 1
+	Query: "CATHOROPS SPIXII" ; Times: 1
+	Query: "CYPHOCHARAX MICROCEPHALUS" ; Times: 1
+	Query: "Anablepsoides holmiae" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Ochmacanthus flabelliferus" ; Times: 1
+	Query: "AEQUIDENS POTAROENSIS" ; Times: 1
+	Query: "Bryconops collettei" ; Times: 1
+
+
+End of report.
